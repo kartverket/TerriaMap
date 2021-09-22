@@ -22,6 +22,11 @@
                     "timeProperty":"time",
                     
                     "url":"http://localhost:5000/sehavniva"
+                },
+                {
+                    "name": "Stavanger bygg",
+                    "type":"geojson",
+                    "url":"http://localhost:5000/fkbbygg"
                 }
             ]
         }
