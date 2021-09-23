@@ -1,0 +1,15 @@
+{
+    "catalog": [
+        {
+            "name": "Custom Models",
+            "type": "group",
+            "members": [
+                {
+                    "name": "Custom Model",
+                    "type": "custom-model",
+                    "url":"localhost:5000/sehavniva"
+                }
+            ]
+        }
+    ]
+}
