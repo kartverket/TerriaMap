@@ -1,13 +1,26 @@
 {
     "catalog": [
         {
+            "name": "TutorialModels",
+            "type": "group",
+            "members": [
+                {
+                    "name": "Tutorial Model",
+                    "type": "tutorial-model",
+                    "color": "#ff0000",
+                    "stroke": true,
+                    "strokeColor": "#ff00ff"
+                }
+            ]
+        },
+        {
             "name": "Custom Models",
             "type": "group",
             "members": [
                 {
-                    "name": "Custom Model",
+                    "name": "Water Model",
                     "type": "custom-model",
-                    "url":"localhost:5000/sehavniva"
+                    "limit":50
                 }
             ]
         }
