@@ -20,7 +20,24 @@
                 {
                     "name": "Water Model",
                     "type": "custom-model",
-                    "limit":50
+                    "limit":200,
+                    "boundingBox": {
+                        "LowerCorner":"5.419,58.82",
+                        "UpperCorner": "6.035,59.11"
+                    },
+                    "url": "https://ogcapitest.kartverket.no/pygeoapi/collections/n50vann",
+                    "color": "#ff000077" 
+                },
+                {
+                    "name": "Building Models",
+                    "type": "custom-model",
+                    "limit":500,
+                    "boundingBox": {
+                        "LowerCorner":"5.819,58.82",
+                        "UpperCorner": "5.825,58.91"
+                    },
+                    "url": "https://ogcapitest.kartverket.no/pygeoapi/collections/dttest",
+                    "color": "#0f0f2fcc" 
                 }
             ]
         }
