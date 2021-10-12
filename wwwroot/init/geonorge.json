@@ -21,6 +21,11 @@
                     "tileErrorHandlingOptions": {
                         "ignoreUnknownTileErrors": true
                     }
+                },
+                {
+                    "type": "wms-group",
+                    "name": "alle årganger fra SSB",
+                    "url": "https://ogc.ssb.no/wms.ashx?request=GetCapabilities&service=WMS"
                 }
             ]
         }
