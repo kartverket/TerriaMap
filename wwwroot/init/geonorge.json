@@ -26,8 +26,17 @@
                 },
                 {
                     "type": "wms-group",
-                    "name": "alle årganger fra SSB",
+                    "name": "Alle årganger fra SSB",
                     "url": "https://ogc.ssb.no/wms.ashx?request=GetCapabilities&service=WMS"
+                },
+                {
+                    "type":"wfs",
+                    "name": "Matrikkel Addresse WFS",
+                    "typeNames":"app:Matrikkeladresse",
+                    "parameters": {
+                        "bbox": "58.82,5.419,59.11,6.035"
+                    },
+                    "url":"https://wfs.geonorge.no/skwms1/wfs.matrikkelen-adresse"
                 }
             ]
         }
