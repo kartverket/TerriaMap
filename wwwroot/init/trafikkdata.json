@@ -1,0 +1,18 @@
+{
+    "catalog":[
+        {
+            "name": "Trafikk data",
+            "type": "group",
+            "description": "Data fra eksperimentel VectorTiles tjeneste",
+            "members": [
+                {
+                    "name":"Veivesenet Trafikk Data",
+                    "type":"geojson",
+                    "url":"http://localhost:5000/trafikkdata",
+                    "timeProperty":"time",
+                    "description": "Trafikkdata fra Veivesenet sitt Traffikdata API. Dataen transformeres fra json til Geojson gjennom en flask server. Fargene på punktene går fra hvit til rødt, hvor hvit representerer lavt volum og rødt representerer høyt volum. Fargene er relative til høyeste volum verdi registrert i døgnet."
+                }
+            ]
+        }
+    ]
+}
