@@ -23,7 +23,7 @@
                     "layers": "bygning",
                     "tileWidth":4096,
                     "tileHeight": 4096
-                }
+                },
                 {
                     "type":"wfs",
                     "name": "Matrikkel Addresse WFS",
