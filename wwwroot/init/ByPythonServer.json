@@ -28,44 +28,50 @@
                 {
                     "name": "Tidsrekker fra SSB",
                     "type": "group",
-                    "isOpen": true,
-                    "description": "Tidsrekker fra SSB. Alle disse datasettene går via flask-serveren.",
+                    "description": "Tidsrekker fra SSB. Alle disse datasettene går via flask-serveren. Dette er fordi SSB-dataene ikke har noen tidsinformasjon som Terria kan bruke, altså må vi legge på denne informasjonen for at Terria skal forstå at det dreier seg om tidsserier. Når man ønsker å se på disse dataene, burde man merke seg noen ting: <ol><li>For å enkelt kunne se dataene, er det smart å bruke kartet positron.</li><li>Slik TerriaJS fungerer by default, så begynner ikke dataene å loades inn i kartet før man har zoomet inn et stykke. Derfor må man zoome inn før man ser noe.</li><li>Når man bruker wms-tidserier i TerriaJS, loades datasettet for det neste tidsintervallet i bakgrunnen, men ingen andre. For å best se forandringene som skjer over tid, burde man gå til den tidligste tiden der dataene er tilgjengelige, vente litt på at Terria kan loade alle dataene, og så trykke på neste. Hvis man i stedet trykker på den forrige tiden for eksempel, så må Terria loade alle dataene på nytt, som fører til at man ikke har en kontinuerlig overgang fra et tidsintevall til det neste.</li></ol>",
                     "members": [
                         {
                             "type": "wms",
                             "name": "SSB landbruk",
+                            "description": "Landbrukseiendommer med 1km oppløsning. <h3>PS:</h3>SSB har også data fra 2008 og 2009, men enkodingen er ganske forskjellig, som gjør det vanskelig å sammeligne dataene med 2013, 2014 og 2015.",
                             "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
                             "layers": "layer_landbruk",
                             "multiplierDefaultDeltaStep": 4,
                             "dateFormat": "yyyy",
-                            "styles": "en"
+                            "styles": "en",
+                            "initialTimeSource": "start"
                         },
                         {
                             "type": "wms",
                             "name": "SSB befolkning",
+                            "description": "Befolkningstetthet, med 1km oppløsning. <h3>PS:</h3>Enkodingen av fargene er er litt forskjellig fra og med 2015. For årstallene før 2015 er det ingen spesiell farge for \"5000 eller flere innbyggere per km2\". Det vil si at alt som går under \"2000 eller flere innbyggere per km2\" har fargen mørkebruk i stedet for svart før 2015.",
                             "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
                             "layers": "layer_befolkning",
                             "multiplierDefaultDeltaStep": 4,
                             "dateFormat": "yyyy",
-                            "styles": "en"
+                            "styles": "en",
+                            "initialTimeSource": "start"
                         },
                         {
                             "type": "wms",
                             "name": "SSB bolig",
+                            "description": "Bolig-tetthet, med 1km oppløsning.",
                             "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
                             "layers": "layer_bolig",
                             "multiplierDefaultDeltaStep": 4,
                             "dateFormat": "yyyy",
-                            "styles": "en"
+                            "styles": "en",
+                            "initialTimeSource": "start"
                         },
                         {
                             "type": "wms",
                             "name": "SSB tettsted",
+                            "description": "Oversikt over norske tettsteder",
                             "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
                             "layers": "layer_tettsted",
                             "multiplierDefaultDeltaStep": 4,
                             "dateFormat": "yyyy",
-                            "styles": "en"
+                            "initialTimeSource": "start"
                         }
                     ]
                 }
