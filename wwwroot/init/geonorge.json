@@ -16,11 +16,22 @@
                     "type": "wms",
                     "name": "FKB-Bygning, WMS",
                     "description": "WMS-tjeneste som laster inn bilder av bygningsinformasjon.<h4>Tips:</h4>Bruk kartet positron for å bedre se hvordan dataene som lastes inn ser ut.<h4>PS:</h4>I likhet med mange WMS-tjenester i Geonorge er dette datasettet vanskelig å bruke i praksis, da serveren har en maks-grense på antall forespørsler innenfor en viss tid. På grunn av dette får man \"hull i renderingen\" når TerriaJS integrerer dataene i kartet.",
-                    "url": "https://openwms.statkart.no/skwms1/wms.fkb4?request=GetCapabilities&service=WMS",
-                    "layers": "Bygning",
+                    "url": "https://openwms.statkart.no/skwms1/wms.fkb4",
                     "tileErrorHandlingOptions": {
                         "ignoreUnknownTileErrors": true
-                    }
+                    },
+                    "layers": "bygning",
+                    "tileWidth":4096,
+                    "tileHeight": 4096
+                }
+                {
+                    "type":"wfs",
+                    "name": "Matrikkel Addresse WFS",
+                    "typeNames":"app:Matrikkeladresse",
+                    "parameters": {
+                        "bbox": "58.82,5.419,59.11,6.035"
+                    },
+                    "url":"https://wfs.geonorge.no/skwms1/wfs.matrikkelen-adresse"
                 }
             ]
         }
