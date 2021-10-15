@@ -3,6 +3,7 @@
         {
             "name": "Vector tiles",
             "type": "group",
+            "isOpen":true,
             "description": "Data fra eksperimentel VectorTiles tjeneste",
             "members": [
                 {
