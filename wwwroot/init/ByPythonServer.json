@@ -24,6 +24,50 @@
                     "timeProperty":"time",
                     "description": "Data hentet fra se-havnivå. For at man skal kunne visualisere disse dataene i 3D-rom, bruker vi flask-serveren til å konvertere punktene fra se-havnivå til polygoner.<h3>Settings</h3>For å kunne se disse dataene på en ordenlig måte, må man gå inn på \"Map Settings\" og huke av \"3D\" og \"Terrain hides underground features\". Man kan også se hvordan tidevannet påvirker vannstanden ved å dra i tidslinje-slideren nederst i vinduet.<h3>PS:</h3>Polygonene som blir vist er ligger litt for høyt i terrenget. Dette er sannsynligvis pga surr med ulike høyde-referransesystemer.",
                     "url":"https://api.dtpoc.knowit.no/sehavniva"
+                },
+                {
+                    "name": "Tidsrekker fra SSB",
+                    "type": "group",
+                    "isOpen": true,
+                    "description": "Tidsrekker fra SSB. Alle disse datasettene går via flask-serveren.",
+                    "members": [
+                        {
+                            "type": "wms",
+                            "name": "SSB landbruk",
+                            "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
+                            "layers": "layer_landbruk",
+                            "multiplierDefaultDeltaStep": 4,
+                            "dateFormat": "yyyy",
+                            "styles": "en"
+                        },
+                        {
+                            "type": "wms",
+                            "name": "SSB befolkning",
+                            "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
+                            "layers": "layer_befolkning",
+                            "multiplierDefaultDeltaStep": 4,
+                            "dateFormat": "yyyy",
+                            "styles": "en"
+                        },
+                        {
+                            "type": "wms",
+                            "name": "SSB bolig",
+                            "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
+                            "layers": "layer_bolig",
+                            "multiplierDefaultDeltaStep": 4,
+                            "dateFormat": "yyyy",
+                            "styles": "en"
+                        },
+                        {
+                            "type": "wms",
+                            "name": "SSB tettsted",
+                            "url": "http://localhost:5000/ssb_tettsteder?request=GetCapabilities&service=WMS",
+                            "layers": "layer_tettsted",
+                            "multiplierDefaultDeltaStep": 4,
+                            "dateFormat": "yyyy",
+                            "styles": "en"
+                        }
+                    ]
                 }
             ]
         }
