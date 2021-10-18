@@ -1,0 +1,57 @@
+{
+    "version" : 8,
+    "name" : "teig",
+    "bearing" : 0.0,
+    "pitch" : 0.0,
+    "sources" : {
+      "matrikkel_teig_grenser" : {
+        "type" : "vector",
+        "tiles" : [ "https://ogcapitest.kartverket.no/ldproxy/rest/services/matrikkeleneiendomskartteig/tiles/WebMercatorQuad/{z}/{y}/{x}?f=mvt" ],
+        "scheme" : "xyz",
+        "minzoom" : 6,
+        "maxzoom" : 16
+      },
+      "matrikkel_teig" : {
+        "type" : "vector",
+        "tiles" : [ "https://ogcapitest.kartverket.no/ldproxy/rest/services/matrikkeleneiendomskartteig/collections/teig/tiles/WebMercatorQuad/{z}/{y}/{x}?f=mvt" ],
+        "scheme" : "xyz",
+        "minzoom" : 6,
+        "maxzoom" : 16
+      },
+      "matrikkel_grense" : {
+        "type" : "vector",
+        "tiles" : [ "https://ogcapitest.kartverket.no/ldproxy/rest/services/matrikkeleneiendomskartteig/collections/eiendomsgrense/tiles/WebMercatorQuad/{z}/{y}/{x}?f=mvt" ],
+        "scheme" : "xyz",
+        "minzoom" : 6,
+        "maxzoom" : 16
+      },
+      "basemap" : {
+        "type" : "raster",
+        "tiles" : [ "https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}" ],
+        "scheme" : "xyz"
+      }
+    },
+    "sprite" : "https://cache.kartverket.no/test/sprites/landtopo",
+    "glyphs" : "https://cache.kartverket.no/test/fonts/{fontstack}/{range}.pbf",
+    "layers" : [ {
+      "id" : "teig",
+      "type" : "fill",
+      "source" : "matrikkel_teig",
+      "source-layer" : "teig",
+      "minzoom" : 6,
+      "maxzoom" : 16,
+      "paint" : {
+        "fill-color" : "rgba(224, 170, 120, 0.2)"
+      }
+    }, {
+      "id" : "eiendomsgrense",
+      "type" : "line",
+      "source" : "matrikkel_teig",
+      "source-layer" : "eiendomsgrense",
+      "minzoom" : 6,
+      "maxzoom" : 16,
+      "paint" : {
+        "line-color" : "rgba(112, 50, 50, 1)"
+      }
+    } ]
+  }

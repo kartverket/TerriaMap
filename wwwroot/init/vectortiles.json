@@ -11,6 +11,12 @@
                     "url":"https://cache.kartverket.no/test/vectortiles/landtopo/{z}/{x}/{y}.mvt",
                     "styleUrl": "style.json",
                     "description": "Data fra eksperimentel VectorTiles tjeneste"
+                },
+                {
+                    "name": "Matrikkel teig + adresse",
+                    "type": "mvt",
+                    "styleUrl": "matrikkel_style.json",
+                    "url": "https://ogcapitest.kartverket.no/ldproxy/rest/services/matrikkeleneiendomskartteig/tiles/WebMercatorQuad/{z}/{y}/{x}?f=mvt"
                 }
             ]
         }
