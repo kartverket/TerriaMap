@@ -22,6 +22,38 @@
                     }
                 },
                 {
+                    "type": "group",
+                    "isOpen": true,
+                    "name": "BIM models",
+                    "description": "Et utvalg av BIM-modeller. Alle disse modellene var originalt i IFC-format. Dessverre kan ikke TerriaJS åpne IFC-modeller direkte. Formatene som er støttet, er 3D-tiles og glTF. For å få åpnet disse modellene, er den følgende prosessen brukt:<ol><li>Vi konverterer IFC-filen til COLLADA (.dae) eller Wavefront (.obj). Dette er gjort med softwaret ifcconvert (se http://ifcopenshell.org/ifcconvert).</li><li>Vi konverterer .dae eller .obj filen til 3D-tiles i Cesium ION. Ettersom IFC-modellene ikke har noen stedsinformasjon, bruker vi Cesium ION til å plassere modellene i terrenget.</li></ol>",
+                    "members": [
+                        {
+                            "name": "Oslo - opera", 
+                            "type": "3d-tiles",
+                            "ionAssetId": 646192,
+                            "description": "Oslo opera. Denne modellen er ganske hakkete og dårlig. Det er intill videre usikkert om det skyldes problemer med den underliggende IFC modellen, eller om noe går galt i konverteringen fra IFC til .dae til 3D-tiles."
+                        },
+                        {
+                            "name": "Oslo - Lilletorget",
+                            "type": "3d-tiles",
+                            "ionAssetId": 646246,
+                            "description": "Lilletorget, først konvertert fra IFC til .dae, og deretter til 3D-tiles."
+                        },
+                        {
+                            "name": "Oslo - Lilletorget 2",
+                            "type": "3d-tiles",
+                            "ionAssetId": 647481,
+                            "description": "Lilletorget, først konvertert fra IFC til .obj, og deretter til 3D-tiles. I motsetning til convertering til .dae, beholdes ikke fargene i konverteringen til .obj."
+                        },
+                        {
+                            "name": "NTNU retorten",
+                            "type": "3d-tiles",
+                            "ionAssetId": 647474,
+                            "description": "NTNU, først konvertert fra IFC til .dae, og deretter til 3D-tiles."
+                        }
+                    ]
+                },
+                {
                     "name": "Punkt-sky i Oslo",
                     "type": "3d-tiles",           
                     "description": "Punkt-sky i Oslo, streamet som 3D-tiles fra Cesium ION. Dataene er lastet ned som en las-fil fra høydedata.no.<h3>PS:</h3>Punktene flyter langt over oslo, fordi:<ol><li>Kluss med referransesystemer</li><li>Vi har ikke lastet opp høydedata fra kartverket i Oslo-området</li></ol>",
