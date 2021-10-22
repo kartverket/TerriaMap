@@ -1,0 +1,50 @@
+{
+    "homeCamera":{
+        "north": 59,
+        "south": 58,
+        "west": 5.6,
+        "east":5.8
+    },
+    "catalog":[
+        {
+            "name": "Other",
+            "type": "group",
+            "isOpen": false,
+            "description": "Other datasets",
+            "members": [
+                {
+                    "name": "Oslo lilletorget, gltf file",
+                    "type": "gltf",
+                    "description": "Lilletorget, konvertert fra IFC til gltf. Den samme modellen er tilgjengelig som 3D-tiles under \"Via Cesium ION\". Denne versjonen er ment først og fremst som en test av å bruke en gltf-fil direkte.",
+                    "origin": {
+                        "latitude": 59.9134011302,
+                        "longitude": 10.7557809017,
+                        "height": 37.4401104626
+                    },
+                    "rotation": {
+                        "heading": 25.7,
+                        "pitch": 0,
+                        "roll": 0
+                    },
+                    "url": "test/lilletorget.gltf"
+                },
+                {
+                    "name": "Oslo lilletorget, glb file",
+                    "type": "gltf",
+                    "description": "Lilletorget, konvertert fra IFC til glb. Den samme modellen er tilgjengelig som 3D-tiles under \"Via Cesium ION\". Denne versjonen er ment først og fremst som en test av å bruke en glb-fil direkte.",
+                    "origin": {
+                        "latitude": 59.9134011302,
+                        "longitude": 10.7557809017,
+                        "height": 37.4401104626
+                    },
+                    "rotation": {
+                        "heading": 25.7,
+                        "pitch": 0,
+                        "roll": 0
+                    },
+                    "url": "test/lilletorget.glb"
+                }
+            ]
+        }
+    ]
+}
