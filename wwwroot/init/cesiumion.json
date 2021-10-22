@@ -23,33 +23,21 @@
                 },
                 {
                     "type": "group",
-                    "isOpen": true,
-                    "name": "BIM models",
-                    "description": "Et utvalg av BIM-modeller. Alle disse modellene var originalt i IFC-format. Dessverre kan ikke TerriaJS åpne IFC-modeller direkte. Formatene som er støttet, er 3D-tiles og glTF. For å få åpnet disse modellene, er den følgende prosessen brukt:<ol><li>Vi konverterer IFC-filen til COLLADA (.dae) eller Wavefront (.obj). Dette er gjort med softwaret ifcconvert (se http://ifcopenshell.org/ifcconvert).</li><li>Vi konverterer .dae eller .obj filen til 3D-tiles i Cesium ION. Ettersom IFC-modellene ikke har noen stedsinformasjon, bruker vi Cesium ION til å plassere modellene i terrenget.</li></ol>",
+                    "isOpen": false,
+                    "name": "BIM modeller",
+                    "description": "Et utvalg av BIM-modeller. Alle disse modellene var originalt i IFC-format. Dessverre kan ikke TerriaJS åpne IFC-modeller direkte. Formatene som er støttet, er 3D-tiles og glTF. For å få åpnet disse modellene, er den følgende prosessen brukt:<ol><li>Vi konverterer IFC-filen til glTF. Dette er gjort med softwaret blender (https://www.blender.org/).</li><li>Vi konverterer glTF filen til 3D-tiles i Cesium ION. Ettersom IFC-modellene ikke har noen stedsinformasjon, bruker vi Cesium ION til å plassere modellene i terrenget.</li></ol>Dessverre mister vi informasjonen om bygningsdeler i konverteringsprosessen. For eksempel, så kan vi ikke trykke på en vegg å få opp informasjon slik som \"vegg av metall\".<h3>PS:</h3>Hvis man ønsker å kun se delene av modellene som er over overflaten, så må man trykke på \"Terrain hides underground features\" under \"Map Settings\".",
                     "members": [
                         {
-                            "name": "Oslo - opera", 
+                            "name": "Oslo opera", 
                             "type": "3d-tiles",
-                            "ionAssetId": 646192,
-                            "description": "Oslo opera. Denne modellen er ganske hakkete og dårlig. Det er intill videre usikkert om det skyldes problemer med den underliggende IFC modellen, eller om noe går galt i konverteringen fra IFC til .dae til 3D-tiles."
+                            "ionAssetId": 647933,
+                            "description": "Oslo opera, først konvertert fra IFC til gltf, og deretter til 3D-tiles."
                         },
                         {
-                            "name": "Oslo - Lilletorget",
+                            "name": "Oslo lilletorget",
                             "type": "3d-tiles",
-                            "ionAssetId": 646246,
-                            "description": "Lilletorget, først konvertert fra IFC til .dae, og deretter til 3D-tiles."
-                        },
-                        {
-                            "name": "Oslo - Lilletorget 2",
-                            "type": "3d-tiles",
-                            "ionAssetId": 647481,
-                            "description": "Lilletorget, først konvertert fra IFC til .obj, og deretter til 3D-tiles. I motsetning til convertering til .dae, beholdes ikke fargene i konverteringen til .obj."
-                        },
-                        {
-                            "name": "NTNU retorten",
-                            "type": "3d-tiles",
-                            "ionAssetId": 647474,
-                            "description": "NTNU, først konvertert fra IFC til .dae, og deretter til 3D-tiles."
+                            "ionAssetId": 647946,
+                            "description": "Lilletorget, først konvertert fra IFC til gltf, og deretter til 3D-tiles."
                         }
                     ]
                 },
