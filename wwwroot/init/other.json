@@ -26,6 +26,7 @@
                         "pitch": 0,
                         "roll": 0
                     },
+                    "scale": 1,
                     "url": "test/lilletorget.gltf"
                 },
                 {
@@ -42,6 +43,7 @@
                         "pitch": 0,
                         "roll": 0
                     },
+                    "scale": 1,
                     "url": "test/lilletorget.glb"
                 }
             ]
