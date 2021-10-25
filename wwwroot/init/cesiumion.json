@@ -34,6 +34,21 @@
                             "description": "Oslo opera, først konvertert fra IFC til gltf, og deretter til 3D-tiles."
                         },
                         {
+                            "name": "Oslo opera, alt under 23 meter fra grunnflaten.", 
+                            "type": "3d-tiles",
+                            "ionAssetId": 647933,
+                            "description": "Oslo opera, først konvertert fra IFC til gltf, og deretter til 3D-tiles. I denne varianten er alt som er mer enn 23 meter over bunnen av bygningen kuttet bort.",
+                            "clippingPlanes": {
+                                "enabled": true,
+                                "planes": [
+                                      {
+                                        "normal": [0, 0, -1],
+                                        "distance": 23
+                                      }
+                                ]
+                            }
+                        },
+                        {
                             "name": "Oslo lilletorget",
                             "type": "3d-tiles",
                             "ionAssetId": 647946,
