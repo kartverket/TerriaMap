@@ -4,7 +4,8 @@ var terriaOptions = {
     baseUrl: 'build/TerriaJS'
 };
 
-import { runInAction } from "mobx";
+import { runInAction, autorun } from "mobx";
+import LeafletScene from "terriajs/lib/Map/LeafletScene";
 
 // checkBrowserCompatibility('ui');
 import ConsoleAnalytics from 'terriajs/lib/Core/ConsoleAnalytics';
@@ -126,5 +127,12 @@ module.exports = terria.start({
     } catch (e) {
         console.error(e);
         console.error(e.stack);
+    }
+});
+
+
+autorun(() => {
+    if (terria.currentViewer.scene && !(terria.currentViewer.scene instanceof LeafletScene) ){
+        terria.currentViewer.scene.screenSpaceCameraController.enableCollisionDetection = false;
     }
 });
