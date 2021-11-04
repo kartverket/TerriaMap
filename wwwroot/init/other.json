@@ -45,6 +45,43 @@
                     },
                     "scale": 1,
                     "url": "test/lilletorget.glb"
+                },
+                {
+                    "name":"OSM Building",
+                    "type":"geojson",
+                    "url":"test/export.geojson",
+                    "heightProperty":"height"
+                },
+                {
+                    "name":"OSM Building Stavanger 1",
+                    "type":"geojson",
+                    "url":"test/16905-9700.json",
+                    "heightProperty":"height"
+                },
+                {
+                    "name":"OSM Building Stavanger 2",
+                    "type":"geojson",
+                    "url":"test/16906-9700.json",
+                    "heightProperty":"height"
+                },
+                {
+                    "name":"Stavanger bygg",
+                    "type":"3d-tiles",
+                    "ionAssetId": 661072
+                },
+                {
+                    "name":"Veger (Dårlige polygoner)",
+                    "type":"geojson",
+                    "url":"test/veg.json"
+                },
+                {
+                    "name": "Veger (Linjer)",
+                    "type": "geojson",
+                    "url": "test/line_veg.json",
+                    "style": {
+                        "stroke-width": 10
+                    },
+                    "clampToGround": false
                 }
             ]
         }
