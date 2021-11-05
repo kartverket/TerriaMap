@@ -1,0 +1,28 @@
+{
+    "homeCamera":{
+        "north": 59,
+        "south": 58,
+        "west": 5.6,
+        "east":5.8
+    },
+    "catalog":[
+        {
+            "name": "Via 3D-tile server",
+            "type": "group",
+            "isOpen": true,
+            "description": "3D tile datasett. Disse datasettene hostes via serveren https://3dtiles.dtpoc.knowit.no/ . Hvis man går inn på denne linken, kan man se hvilke datasett som er tilgjengelige.",
+            "members": [
+                {
+                    "name": "FME 3D stavanger",
+                    "type": "3d-tiles",
+                    "url": "https://3dtiles.dtpoc.knowit.no/Tilesets/bygninger_fme_3dtiles/tileset.json"
+                },
+                {
+                    "name": "Drage 3D",
+                    "type": "3d-tiles",
+                    "url": "https://3dtiles.dtpoc.knowit.no/Tilesets/TilesetWithDiscreteLOD_drage/tileset.json"
+                }
+            ]
+        }
+    ]
+}

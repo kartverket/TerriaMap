@@ -25,11 +25,6 @@
                     "tileHeight": 4096
                 },
                 {
-                    "type": "wms-group",
-                    "name": "Alle årganger fra SSB",
-                    "url": "https://ogc.ssb.no/wms.ashx?request=GetCapabilities&service=WMS"
-                },
-                {
                     "type":"wfs",
                     "name": "Matrikkel Addresse WFS",
                     "typeNames":"app:Matrikkeladresse",

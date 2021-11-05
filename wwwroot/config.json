@@ -1,6 +1,6 @@
 {
   /* Names of init files (in wwwroot/init), without the .json extension, to load by default */
-  "initializationUrls": ["geonorge", "cesiumion", "ByPythonServer", "ogcapi", "vectortiles", "trafikkdata", "maps"],
+  "initializationUrls": ["geonorge", "cesiumion", "ByPythonServer", "local3Dtiles", "ogcapi", "trafikkdata", "vectortiles", "maps", "other"],
   "parameters": {
     "googleUrlShortenerKey": null,
     "googleAnalyticsKey": null,
