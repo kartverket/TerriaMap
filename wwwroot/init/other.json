@@ -70,16 +70,34 @@
                     "ionAssetId": 661072
                 },
                 {
-                    "name":"Veger (Dårlige polygoner)",
+                    "name":"Stavanger Veger (Punkter)",
                     "type":"geojson",
-                    "url":"test/veg.json"
+                    "url":"test/veg.json",
+                    "clampToGround": false 
                 },
                 {
-                    "name": "Veger (Linjer)",
+                    "name": "Stavanger Veger (Linjer)",
                     "type": "geojson",
                     "url": "test/line_veg.json",
                     "style": {
-                        "stroke-width": 10
+                        "stroke-width": 10,
+                        "stroke": "#00ff66"
+                    },
+                    "clampToGround": false
+                },
+                {
+                    "name": "Oslo Veger (Punkter)",
+                    "type": "geojson",
+                    "url": "test/oslo_veg punkter.json",
+                    "clampToGround": false
+                },
+                {
+                    "name": "Oslo Veger (Linjer)",
+                    "type": "geojson",
+                    "url": "test/oslo_veg.json",
+                    "style": {
+                        "stroke-width": 10,
+                        "stroke": "#00ff66"
                     },
                     "clampToGround": false
                 }
