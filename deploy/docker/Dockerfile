@@ -8,6 +8,7 @@ WORKDIR /usr/src/app/component
 COPY . /usr/src/app
 
 RUN sed -i 's!http://localhost:5000!https://api.dtpoc.knowit.no!g' wwwroot/init/ByPythonServer.json
+RUN sed -i 's!http://localhost:5000!https://api.dtpoc.knowit.no!g' wwwroot/init/trafikkdata.json
 # COPY ./packages /usr/src/app/node_modules
 # RUN rm wwwroot/config.json && ln -s /etc/config/client/config.json wwwroot/config.json
 
