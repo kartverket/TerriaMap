@@ -21,6 +21,11 @@
                     "name": "Drage 3D",
                     "type": "3d-tiles",
                     "url": "https://3dtiles.dtpoc.knowit.no/Tilesets/TilesetWithDiscreteLOD_drage/tileset.json"
+                },
+                {
+                    "name": "Rekursiv 3D",
+                    "type": "3d-tiles",
+                    "url": "https://3dtiles.dtpoc.knowit.no/Tilesets/Tileset_rekursiv/tileset.json"
                 }
             ]
         }
