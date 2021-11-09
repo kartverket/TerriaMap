@@ -1,4 +1,4 @@
 [submodule "packages/terriajs"]
 	path = packages/terriajs
-	url = https://github.com/kartverket/terriajs.git
+	url = ../terriajs.git
 	branch = main
