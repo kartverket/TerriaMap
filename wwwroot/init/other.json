@@ -13,6 +13,11 @@
             "description": "Other datasets",
             "members": [
                 {
+                    "name": "WMS - alle data, alle årganger fra SSB",
+                    "type": "wms-group", 
+                    "url": "https://ogc.ssb.no/wms.ashx?request=GetCapabilities&service=WMS"
+                },
+                {
                     "name": "Oslo lilletorget, gltf file",
                     "type": "gltf",
                     "description": "Lilletorget, konvertert fra IFC til gltf. Den samme modellen er tilgjengelig som 3D-tiles under \"Via Cesium ION\". Denne versjonen er ment først og fremst som en test av å bruke en gltf-fil direkte.",
