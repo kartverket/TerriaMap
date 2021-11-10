@@ -60,7 +60,10 @@
                     "name": "Punkt-sky i Oslo",
                     "type": "3d-tiles",           
                     "description": "Punkt-sky i Oslo, streamet som 3D-tiles fra Cesium ION. Dataene er lastet ned som en las-fil fra høydedata.no.<h3>PS:</h3>Punktene flyter langt over oslo, fordi:<ol><li>Kluss med referransesystemer</li><li>Vi har ikke lastet opp høydedata fra kartverket i Oslo-området</li></ol>",
-                    "ionAssetId": 629505
+                    "ionAssetId": 629505,
+                    "style":{
+                        "pointSize": 5
+                    }
                 }
             ]
 
