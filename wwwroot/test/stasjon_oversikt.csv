@@ -1,0 +1,1781 @@
+latitude,longitude,stationName,stationId,parameters_available,parameter_ids
+59.13015,11.48516,Femsjø,1.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.92993,11.40768,Berg,1.198.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.92038,11.5318,Lierelv,1.200.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.3329,11.63712,Øymarksjø,1.42.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.14667,11.69273,Aspern og Ara,1.43.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.77961,11.6723,Setten,1.45.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.71767,11.5802,Mjermen,1.46.0,Magasinvolum,1004
+59.4835,11.65415,Rødenessjøen,1.47.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.48267,11.65056,Ørje,1.48.0,Vannføring,1001
+59.14763,11.55638,Brekke,1.49.0,Vannføring,1001
+59.12735,11.44301,Tistedalsfoss,1.50.0,Vannføring,1001
+59.85112,11.5316,Bjørkelangen,1.51.0,Magasinvolum,1004
+59.72344,11.41877,Øgderen,1.52.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.09832,11.59637,Store Erte,1.53.0,Magasinvolum,1004
+62.32935,7.48321,Valldøla v/Alstad,100.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.53139,6.61767,Engsetvatn,101.1.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+62.55502,6.97377,Ørskogfjellet rør,101.4.1,Grunnvannsnivå - dyp under bakken,5130
+62.60018,6.34442,Hildreelv,102.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.28049,8.1178,Ulvåa v/Storhølen,103.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.44631,7.892,Mongevatn,103.10.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+62.34783,8.05015,Verma kraftstasjon,103.12.0,Vanntemperatur,1003
+62.35942,7.86043,Vermavatn,103.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.50627,7.76357,Rauma v/Venge,103.19.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.58323,7.95407,Isa v/Morstøl bru,103.20.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.47758,7.99172,Grøttavatn,103.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.2766,8.15311,Rauma v/Stuguflåten,103.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.47408,7.78195,Rauma v/Horgheim,103.40.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.50986,7.76342,Rauma ndf. Fivafossen h.side,103.41.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.49776,7.76489,Rauma ovf. Grytten kraftstasjon,103.42.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.49688,7.76687,Grytten kraftstasjon,103.45.0,Vanntemperatur,1003
+62.23429,8.32228,Rauma ndf. Lesjaskogvatnet,103.46.0,Vanntemperatur,1003
+62.31002,8.10102,Rauma v/Raudstøl bru,103.48.0,Vanntemperatur,1003
+62.4701,7.53011,Innfjordelva v/Vårsætra,103.8.0,Vanntemperatur,1003
+62.45532,7.50336,Innfjorden,103.83.0,"Nedbør , Lufttemperatur , Relativ luftfuktighet","0 , 17 , 2"
+62.4581,8.22841,Lille Eikesdalsvatn,104.1.0,Lufttemperatur,17
+62.28973,8.7093,Gautsjø,104.13.0,Vannstand,1000
+62.41817,8.09826,Store Sandgrovvatn,104.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.62743,8.12936,Eikesdalsvatn,104.2.0,Magasinvolum,1004
+62.5095,8.07138,Midtre Mardalsvatn,104.22.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.69773,7.96078,Vistdal,104.23.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.49106,8.07277,Nedre Mardalsvatn,104.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.63155,8.10183,Eira ndf. Eikesdalsvatnet,104.27.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.40507,8.53984,Aursjø,104.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.7932,7.72607,Osenelv v/Øren,105.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.97363,7.16143,Farstadelva v/Farstad,107.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.95269,7.09271,Sagelva v/Hustad,107.8.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+62.50627,8.47616,Osbuvatn,109.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.52243,8.47587,Holbuvatn,109.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.53753,8.43576,Reinsvatn,109.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.57209,9.15903,Driva v/Grensehølen,109.20.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.25589,9.54368,Driva v/Svoni,109.21.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.66259,9.48831,Gjevilvatn,109.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.66597,9.21118,Ångårdsvatn magasin,109.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.60756,8.73435,Dalavatn,109.29.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.44451,8.60471,Håkådalselv,109.35.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.64874,8.69409,Driva v/Elverhøy bru,109.42.0,"Vannstand , Vannstand , Vannføring , Vannføring","1000 , 1000 , 1001 , 1001"
+62.64844,8.69353,Driva ndf. Grøa,109.44.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.64954,8.70666,Grøa ovf. Driva,109.6.0,Vanntemperatur,1003
+62.51138,9.59264,Driva v/Risefoss,109.9.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.88942,10.0832,Elgtjern,11.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.12562,7.70267,Karihola,110.1.0,"Nedbør , Vannstand , Vannføring , Lufttemperatur","0 , 1000 , 1001 , 17"
+63.12498,7.79141,Draget,110.2.0,"Vannstand , Vannføring , Lufttemperatur , Sekundær vannstand","1000 , 1001 , 17 , 9104"
+62.7826,8.8931,Nauståa,111.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.82877,8.32518,Hafstadvatn,111.11.0,Vannstand,1000
+62.78222,8.88005,Kårvatn rør 2,111.14.2,Grunnvannsnivå - dyp under bakken,5130
+62.79663,8.78269,Toåa v/Talgøyfoss,111.5.0,"Vannstand , Vannstand , Vannføring , Vannføring , Lufttemperatur","1000 , 1000 , 1001 , 1001 , 17"
+62.90028,8.6049,Søya v/Melhus,111.9.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.03943,8.85408,Geitøyvatn,112.10.0,Vannstand,1000
+63.02955,8.84228,Andersvatn,112.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.07624,8.86974,Bøvervatn,112.12.0,Vannstand,1000
+62.98827,9.14641,Follsjø,112.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.00002,8.9905,Surna v/Skjermo,112.27.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.98725,9.40681,Rinna Dam,112.31.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+62.99297,8.83853,Surna v/Honstad,112.32.0,Vanntemperatur,1003
+63.00226,9.01469,Trollheimen kraftstasjon,112.33.0,Vanntemperatur,1003
+63.00607,9.01519,Surna ovf. Trollheim kraftstasjon,112.35.0,Vanntemperatur,1003
+62.98835,8.92053,Vinddølva ovf. Surna,112.40.0,Vanntemperatur,1003
+62.95909,8.9724,Vinddølva ovf. Holtasetra,112.43.0,Vanntemperatur,1003
+62.98495,9.4071,Rinna,112.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.01673,8.69024,Måvatn,112.9.0,Vannstand,1000
+63.07885,8.52504,Hjelmåa,113.11.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+63.09982,8.54672,Engelivatn,113.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.22525,8.13018,Myra,114.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.5796,8.96143,Valen (Laksvatnet),117.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.57782,8.95919,Lakselva ovf. nedre Laksvatnet,117.6.0,Vanntemperatur,1003
+63.25985,9.02129,Rovatn,119.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.22847,9.34461,Søvatn,119.5.0,Magasinvolum,1004
+63.22239,9.24308,Vasslivatn,119.6.0,Magasinvolum,1004
+59.6059,9.93231,Øksne,12.108.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.8947,9.28597,Bløytjern dam,12.111.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.04366,9.63314,Kråkefjord ovf.,12.112.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.04321,9.63403,Kråkefjord ndf.,12.113.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.20689,10.02328,Garhammerfoss,12.114.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.94727,8.4429,Vavatn,12.117.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.66581,8.26113,Varaldsetvatn,12.125.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.69811,8.25673,Rødungen,12.126.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.70898,8.2748,Bergsjø,12.127.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.73197,8.00841,Djupv.-Stolsvatn,12.128.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.71735,8.16831,Mjåvatn,12.129.0,Magasinvolum,1004
+61.16853,8.71596,Rysna,12.13.0,"Vannstand , Vannstand , Vannføring , Vannføring , Lufttemperatur","1000 , 1000 , 1001 , 1001 , 17"
+60.83392,8.39153,Flævatn,12.130.0,Magasinvolum,1004
+60.84023,9.01689,Tisleifjord,12.135.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.83844,9.01873,Tisleifjord ndf.,12.136.0,"Vannstand , Vannføring","1000 , 1001"
+60.87244,8.82539,Storevatn,12.138.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.2512,8.72045,Fleinsendin,12.139.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.30221,8.67742,Olevatn,12.140.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.68106,8.00375,Bakko,12.142.0,"Nedbør , Lufttemperatur , Snødybde , Snøens vannekvivalent","0 , 17 , 2002 , 2003"
+60.90841,8.87683,Flyvatn,12.145.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.18621,8.20027,Otrøvatn,12.148.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.31461,10.13888,Strømstøa,12.15.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.48611,8.8188,Buvatn,12.150.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.52222,10.11701,Vestre Bjonevatn,12.151.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.34381,10.18701,Samsjøen,12.152.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.23196,8.59619,Rysntjern,12.156.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.91374,9.3894,Sundvoll,12.158.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.50752,7.8441,Nygårdsvatn,12.159.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.48631,8.05957,Ustevatn,12.160.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.47955,7.82872,Ørteren,12.161.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.59585,7.51409,Finsevatn,12.162.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.64809,9.05153,Svenkerud,12.167.0,"Vannstand , Vannføring","1000 , 1001"
+61.28156,8.67765,Sendebottentjern,12.168.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.08808,9.98731,Dokkfløyvatn,12.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.12412,9.78319,Krøderen,12.170.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.70962,9.45899,Hølervatn,12.171.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.15176,9.43439,Eggedal,12.178.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.37271,9.72746,Langtjernbekk,12.188.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.78146,9.97786,Akksjøen,12.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.34293,10.18517,Samsjøen ndf.,12.190.0,Vannstand,1000
+59.51704,10.12356,Sundbyfoss,12.192.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.69721,9.7902,Fiskum,12.193.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.9647,9.29583,Faslefoss kr.v,12.194.0,Vannføring,1001
+60.95034,8.70314,Grunke,12.197.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.45314,10.30735,Velmunden,12.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.82339,10.07233,Kolbjørnshus,12.200.0,"Vannstand , Vannføring","1000 , 1001"
+61.15174,9.07559,Vinde-elv,12.207.0,"Vannstand , Vannføring","1000 , 1001"
+60.72702,9.7107,Eid,12.208.0,"Vannstand , Vannføring","1000 , 1001"
+60.55814,9.87569,Urula,12.209.0,"Vannstand , Vannføring","1000 , 1001"
+60.47921,9.4488,Hangtjern,12.212.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.89172,8.33281,Storeskar,12.215.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.22176,10.36211,Kistefoss,12.228.0,"Vannstand , Vannstand , Vannføring , Vannføring , Vanntemperatur","1000 , 1000 , 1001 , 1001 , 1003"
+60.00682,9.5356,Horgsætervatn,12.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.01613,9.44785,Grytevatn,12.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.02565,9.41928,Øynevatn,12.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.40389,10.537,Jaren ndf.,12.286.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.96334,9.30044,Fasle elv,12.289.0,"Vannstand , Vannføring","1000 , 1001"
+59.96855,9.56274,Launesvatn,12.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.80819,9.5674,Bagn,12.290.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.8858,9.90887,Drammenselva v/Døvikfoss kraftstasjon,12.298.0,Vanntemperatur,1003
+60.59809,9.08006,Nes kraftstasjon,12.304.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.64988,9.05336,Hallingdalselva v/Svenkerud,12.306.0,Vanntemperatur,1003
+60.47237,9.23086,Hallingdalselva v/Bergheim,12.308.0,Vanntemperatur,1003
+60.22084,10.36849,Randselva v/Kistefoss kraftstasjon,12.309.0,Vanntemperatur,1003
+61.07846,8.6,Helin,12.31.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.83124,9.92177,Etna v/Pikhaugen,12.311.0,Vanntemperatur,1003
+60.84461,10.05556,Dokka ovf. Etna,12.315.0,Vanntemperatur,1003
+60.82009,10.10922,Dokka kraftstasjon,12.319.0,Vanntemperatur,1003
+60.96658,9.28726,Faslefoss kraftstasjon,12.325.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.78244,9.60753,Begna v/Leite bru,12.333.0,Vanntemperatur,1003
+61.19978,8.92314,Østre Slidreelva ndf. Øyangen,12.335.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.13169,9.0808,Østre Slidreelva ndf. Heggefjorden,12.336.0,Vanntemperatur,1003
+59.94908,9.94941,Modum rør 12,12.343.12,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+60.54424,9.80859,Storruste rør 1,12.344.1,Grunnvannsnivå - dyp under bakken,5130
+60.57636,8.39913,Hol rør 1,12.368.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+61.22964,8.34665,Øyangen,12.37.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.26357,9.66387,Krøderen v/Gubberud (12),12.377.24,Vanntemperatur,1003
+60.35365,10.08678,Killingstryken,12.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.75292,10.00727,Mjøndalen bru,12.534.0,"Vannstand , Vannføring , Vannhastighet , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1002 , 1003 , 17"
+59.76138,9.96647,Mjøndalen rør 1,12.534.1,Grunnvannsnivå - dyp under bakken,5130
+59.75189,10.0119,Mjøndalen rør 3,12.534.3,Grunnvannsnivå - dyp under bakken,5130
+59.7524,10.02647,Mjøndalen rør 4,12.534.4,Grunnvannsnivå - dyp under bakken,5130
+59.7548,10.00282,Mjøndalen rør 5,12.534.5,Grunnvannsnivå - dyp under bakken,5130
+59.75558,10.02755,Mjøndalen rør 6,12.534.6,Grunnvannsnivå - dyp under bakken,5130
+59.74512,10.00952,Mjøndalen rør 7,12.534.7,Grunnvannsnivå,2000
+59.74538,10.01224,Mjøndalen rør 8,12.534.8,Grunnvannsnivå,2000
+59.74556,10.01448,Mjøndalen rør 9,12.534.9,Grunnvannsnivå,2000
+60.53894,8.24709,Usteåne v/Geilo,12.548.0,Vanntemperatur,1003
+60.62504,8.18542,Hol I kraftstasjon,12.549.0,Vanntemperatur,1003
+60.67994,8.82885,Hallingdalselva v/Vermefoss,12.550.0,Vanntemperatur,1003
+60.86531,8.52057,Hemsil v/Hemsedal sentrum,12.551.0,Vanntemperatur,1003
+59.7083,9.84538,"Fiskumvatnet, Eikeren",12.553.0,Vannstand,1000
+60.6129,8.25925,Hovsfjord,12.554.0,Magasinvolum,1004
+60.59809,8.34632,Holsfjorden,12.555.0,Magasinvolum,1004
+60.38934,10.55237,Jarenvannet,12.559.0,Vanntemperatur,1003
+61.25904,8.32656,Steinbusjøen,12.582.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.42289,10.5009,Vigga v/Storlinna bru Brandbu,12.599.0,Vannstand,1000
+60.66862,7.94265,Strandevatn,12.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.42104,10.50453,Vigga ovf Augedalsbrua Brandbu,12.600.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.42318,10.50146,Brandbu rør 1,12.601.1,"Grunnvannsnivå , Poretrykk , Grunnvannsnivå - dyp under bakken","2000 , 2005 , 5130"
+60.41955,10.50774,"Orhaga bru, Rør 11",12.601.11,"Grunnvannsnivå , Poretrykk , Grunnvannsnivå - dyp under bakken","2000 , 2005 , 5130"
+60.41966,10.50729,"Orhaga bru, Rør 9",12.601.9,"Grunnvannsnivå , Poretrykk , Grunnvannsnivå - dyp under bakken","2000 , 2005 , 5130"
+60.01741,9.7215,Hovlandsmoen,12.603.0,"Vannstand , Vannføring","1000 , 1001"
+60.56931,9.09692,Rukkedøla v/Nesbyen,12.607.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.69526,9.01859,Liaåni,12.611.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.63219,8.4881,Kvinda,12.614.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.701,8.90999,Golreppen,12.623.0,"Lufttemperatur , Relativ luftfuktighet , Overflatetemperatur","17 , 2 , 2040"
+60.08135,10.11285,Skjerdal (Tyrifjorden),12.65.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+60.24184,10.37839,Randsfjord,12.69.0,"Vannstand , Vannstand , Vannføring , Magasinvolum","1000 , 1000 , 1001 , 1004"
+60.9519,9.62617,Etna,12.70.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.4275,10.35718,Sortungen,12.74.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.15855,8.6696,Vangsmjøsa,12.75.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.14785,8.70314,Vangsmjøsa ndf.,12.76.0,"Vannstand , Vannføring","1000 , 1001"
+61.03871,9.04478,Slidrefjord,12.77.0,Vannstand,1000
+60.35151,10.08584,Begna ndf. Sperillen,12.78.0,Vanntemperatur,1003
+60.9696,10.08834,Grønvold bru,12.8.0,Vannføring,1001
+60.97778,9.27009,Strandefjord,12.81.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.38243,10.08139,Spirillen brygge,12.83.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.20023,8.92221,Øyangen,12.87.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.19978,8.92593,Øvre Øyanghølen,12.88.0,"Vannstand , Vannføring","1000 , 1001"
+61.0799,9.10971,Volbufjord,12.89.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.07272,9.11339,Rudi bru,12.91.0,"Vannstand , Vannføring","1000 , 1001"
+60.07867,9.83335,Skålfoss,12.99.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.05501,9.663,Bjørset Dam,121.10.0,"Vannstand , Vannføring","1000 , 1001"
+62.82766,9.71578,Granasjøen,121.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.6597,9.82033,Maurhaugen - Oppdal,121.2.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+63.14046,9.81618,Åmot,121.20.0,"Vannstand , Vannføring","1000 , 1001"
+63.03225,9.72771,Syrstad,121.22.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+62.79464,10.00277,Brattset,121.23.0,"Vannstand , Vannføring","1000 , 1001"
+62.5849,10.27743,Kvikne,121.25.0,"Vannstand , Vannføring","1000 , 1001"
+62.66768,10.15214,Storfossdammen,121.26.0,Magasinvolum,1004
+62.60105,10.07419,Innerdalsvatn,121.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.70466,9.91503,Gisnås,121.29.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.61937,10.33544,Sverjesjøen,121.30.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.60709,10.39821,Falningsjøen,121.31.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.57697,10.55857,Ya Inntak,121.32.0,Vannstand,1000
+63.05451,9.6459,Storsteinhølen,121.39.0,"Vannstand , Vannføring","1000 , 1001"
+63.28599,9.69223,Gagnåsvatn,121.4.0,Vannføring,1001
+63.19176,9.58862,Hostonvatn,121.57.0,Vannstand,1000
+63.20256,9.76976,Orkla ndf. Svorkmo kraftstasjon,121.59.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.90437,9.80669,Orkla v/Merk bru,121.62.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.80454,10.0119,Brattset kraftstasjon,121.64.0,Vanntemperatur,1003
+62.93375,9.7686,Grana kraftstasjon,121.65.0,Vanntemperatur,1003
+63.18663,9.77476,Svorkmo kraftstasjon,121.66.0,Vanntemperatur,1003
+62.62062,10.24875,Ulset kraftstasjon,121.67.0,Vanntemperatur,1003
+62.89011,11.18388,Eggafoss,122.11.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.82336,10.54863,Lillebudal bru,122.14.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.10217,10.20299,Gaua,122.16.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+62.99406,10.24644,Hugdal bru,122.17.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.24384,10.16707,Ånøyen,122.19.0,"Vannstand , Vannføring","1000 , 1001"
+63.08601,10.76081,Holtsjøen,122.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.06643,10.28662,Gaula v/Haga bru,122.28.0,Vanntemperatur,1003
+63.29298,10.24786,Hammondsvei,122.37.0,"Vannstand , Lufttemperatur","1000 , 17"
+63.10915,10.62743,Samsjø,122.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.97728,10.1977,Soknedal rør 3,122.46.3,Grunnvannsnivå - dyp under bakken,5130
+62.97662,10.19781,Soknedal rør 4,122.46.4,Grunnvannsnivå - dyp under bakken,5130
+62.97583,10.19882,Soknedal rør 5,122.46.5,Grunnvannsnivå - dyp under bakken,5130
+63.11108,10.53536,Hådammen ovf.,122.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.10848,10.22902,Gaulfoss,122.9.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.15092,10.91363,Sørungen,123.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.39466,10.43512,Regnbed Risvollan,123.113.0,"Vannstand , Vannføring , Lufttemperatur , Markfuktighet","1000 , 1001 , 17 , 2001"
+63.0547,11.5878,Lødølja bru,123.142.0,Vannstand,1000
+62.92913,12.15011,Sylsjø,123.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.94414,11.81487,Stuesjø,123.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.29753,10.71585,Dragstsjø,123.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.45423,10.44448,"Lade, NGU, Brønn 3",123.2.3,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+63.3849,10.39023,Rate,123.20.0,"Vannstand , Vannføring","1000 , 1001"
+63.26015,10.53033,Selbusjøen v/ Grenstad,123.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.995,11.83162,Nesjø Dam,123.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.32643,10.63803,Hokfossen,123.28.0,"Vannføring , Vanntemperatur","1001 , 1003"
+63.32032,10.64944,Svarttjørnbekken,123.29.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.31356,10.63239,Øvre Hestsjøbekk,123.30.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+63.26617,11.1311,Kjeldstad i Garbergelva,123.31.0,"Vannstand , Vannføring","1000 , 1001"
+63.19213,11.76436,Finkoisjø,123.32.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.12229,11.06644,Østrungen,123.33.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.20213,11.05227,Kulset bru,123.34.0,Vannstand,1000
+63.10918,11.38668,Hegset Dam,123.35.0,Magasinvolum,1004
+63.0258,11.77331,Vessingsjø,123.36.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.39861,10.42277,Risvollan,123.38.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+63.33062,10.43335,Nidelva v/Nordsetfossen,123.50.0,Vanntemperatur,1003
+63.22226,11.01387,Nea ovf. Selbusjøen,123.52.0,Vanntemperatur,1003
+63.40854,10.81361,Homla utløp,123.56.0,Vanntemperatur,1003
+63.31199,10.65474,Merraåsen rør 2,123.57.2,Grunnvannsnivå - dyp under bakken,5130
+63.34338,10.77554,Foldsjøen v/Dam 1374,123.59.0,Vanntemperatur,1003
+63.32198,10.43639,Fjæremsfossen ndf.,123.73.0,Vannføring,1001
+63.16354,10.98102,Slindvatn,123.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.29829,10.643,Helligdagshaugen,123.86.0,"Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","14 , 15 , 17 , 2"
+63.3188,10.64802,Svarttjønnbekken Klima,123.93.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Snøens vannekvivalent","0 , 14 , 15 , 17 , 2 , 2003"
+63.4226,10.28154,Kobberdammen,123.95.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.46176,11.1156,Hegra bru,124.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.56163,11.94146,Feren,124.13.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.46709,11.05987,Børstad,124.15.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+63.42704,11.72159,Meråker (Samløp Funna),124.16.0,"Vannstand , Vannføring","1000 , 1001"
+63.49307,11.35839,Forra v/Høggås bru,124.19.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+63.49292,11.35831,Høggås bru,124.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Sekundær vannstand","1000 , 1001 , 1003 , 17 , 9104"
+63.41633,11.73484,Stjørdalselva ndf. Nustadfoss kraftverk,124.20.0,Vanntemperatur,1003
+63.43283,11.74042,Funna ndf. Funna kraftverk,124.21.0,Vanntemperatur,1003
+63.4582,11.29431,Stjørdalselva v/Øverkil,124.22.0,Vanntemperatur,1003
+63.4614,11.11595,Stjørdalselva v/Hegra bru,124.27.0,Vanntemperatur,1003
+63.45294,10.96938,Værnes,124.33.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+63.49091,10.8795,Kvithamar,124.34.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+63.43328,11.74047,Funnfoss,124.4.0,Vannstand,1000
+63.3881,11.79666,Dalåa ovf. Tevla,124.49.0,Vanntemperatur,1003
+63.48271,11.78538,Funnsjø,124.5.0,Magasinvolum,1004
+63.46838,12.12265,Halsjø,124.6.0,Magasinvolum,1004
+63.45459,11.19657,Kjøsnesbekken,124.666.0,"Vannstand , Vanntemperatur","1000 , 1003"
+63.43351,11.91095,Fjergen,124.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.34041,11.82785,Dalåa grunnvann,124.76.0,Grunnvannsnivå - dyp under bakken,5130
+63.3578,12.08087,Skurdalsvatn,124.8.0,Magasinvolum,1004
+63.61229,11.10169,Hokklingen,125.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+63.71098,11.16494,Skogn,125.4.0,Vannføring,1001
+63.68956,11.1557,Engstad,126.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.73144,11.35404,Floan bru ovf.,126.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.78934,12.32654,Veravatn,127.11.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.7642,11.76507,Dillfoss,127.13.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+63.7858,11.80916,Verdalselva v/Grunnfossen,127.14.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+63.79118,11.80969,Grunnfoss,127.6.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+64.08211,11.6297,Sunnan (Snåsavatn),128.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+64.01762,11.71813,Støafoss,128.5.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.02019,11.50384,Håkkadalbrua,128.8.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+63.90428,11.56111,Leksdalsvatn,128.9.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+64.05282,11.05052,Holden,129.3.0,Magasinvolum,1004
+63.76617,10.65073,Store Grønsjø,131.2.0,"Vannstand , Vannføring","1000 , 1001"
+63.78258,10.80309,Meltingvatn,131.3.0,Magasinvolum,1004
+63.64069,10.09552,Skauga ndf. Svartelva kraftstasjon,132.14.0,Vanntemperatur,1003
+63.64151,10.18676,Storvatn - Svartelva,132.4.0,Magasinvolum,1004
+63.80409,10.23191,Krinsvatn (Kringsvatnet),133.7.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+63.80303,10.22161,Nordelva ndf. Kringsvatnet,133.9.0,Vanntemperatur,1003
+63.81639,9.96217,Gjølja,134.1.0,Vannstand,1000
+63.84047,9.88777,Teksdalsvatn,134.2.0,Vannstand,1000
+63.84914,9.89069,Teksdal,134.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+64.24378,11.08169,Øyungen,138.1.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+64.37754,11.46987,Bjønnaberget,138.16.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+64.27879,11.90322,Bangsjø,138.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+64.56294,12.19391,Grongstadvatn,139.13.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+65.01779,13.25836,Bjørnstad,139.15.0,"Vannstand , Vannføring","1000 , 1001"
+64.46812,12.06125,Bertnem,139.17.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+64.92564,13.07912,Moen,139.20.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.48851,13.40966,Skjellbreivatn,139.25.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+64.38757,12.44005,Embrethølen,139.26.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+64.68897,13.06768,Tunnsjøflyin,139.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+64.53289,12.44635,Tørrisdal,139.32.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.55785,12.47877,Fiskumfoss øvre,139.34.0,"Vannstand , Vannføring","1000 , 1001"
+64.43047,12.48165,Trangen,139.35.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.46793,12.0609,Namsen v/Bertnem,139.37.0,Vanntemperatur,1003
+64.96078,13.54031,Namsvatn tunnel Vekteren,139.4.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+64.46242,11.90376,Overhalla rør 5,139.41.5,"Grunnvannsnivå , Grunnvannsnivå - dyp under bakken","2000 , 5130"
+64.99005,13.58136,Namsvatn,139.5.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+64.54414,12.45627,Fiskumfoss,139.8.0,"Vannstand , Vannføring","1000 , 1001"
+64.71513,13.22113,Tunnsjø,139.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.05831,11.06431,Ask-Hval (Mobilt målepunkt),14.10.0,"Nedbør , Vannstand , Vannstand , Vanntemperatur , Lufttemperatur , Spenning, solstrømanlegg","0 , 1000 , 1000 , 1003 , 17 , 9100"
+60.03872,9.14853,Nørdsteåe (Mobilt målepunkt RS2),14.11.0,"Nedbør , Vannstand , Lufttemperatur , Spenning, solstrømanlegg","0 , 1000 , 17 , 9100"
+64.70538,11.45436,Salsvatn,140.2.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+64.88863,12.47703,Første Aunvatn,142.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.88168,12.45777,Nordfolda utløp,142.2.0,Vanntemperatur,1003
+65.03851,12.66979,Åbjørvatn,144.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.12953,12.9867,Øvre Kalvvatn,144.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.04879,12.96986,Kalvvatn 740,144.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.11505,12.89298,Øvre Ringvatn,144.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.36555,12.5381,Mevatnet,148.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+65.60201,12.8259,Møllehusfoss,149.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.81542,12.79902,Grytåvatn,149.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.79183,9.57635,Numedalslågen v/Svene,15.104.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.23822,9.00168,Nore kraftstasjon II,15.108.0,Vanntemperatur,1003
+60.04248,9.21868,Numedalslågen v/Mykstufoss kraftstasjon,15.109.0,Vanntemperatur,1003
+59.42728,9.99187,Numedalslågen v/Brufoss,15.115.0,Vanntemperatur,1003
+60.37774,7.56938,Hardangervidda v/Skiftesjøen,15.118.2,Grunnvannsnivå - dyp under bakken,5130
+59.85207,9.35997,Hoppestadvatn,15.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.83687,9.33662,Mjåvatn,15.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.67285,9.64049,Numedalslågen v/Kongsberg,15.171.0,"Vannstand , Vannføring , Vannhastighet , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1002 , 1003 , 17"
+59.02524,9.87319,Tvedalsbekken sediment,15.172.1,Lufttemperatur,17
+59.07698,9.93445,Ekedalsbekken sediment,15.173.1,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.07536,10.1826,Istreelva,15.174.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.70734,9.5548,Jondalselv,15.21.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.80128,9.5622,Tonhaugen,15.215.0,"Vindretning , Lufttemperatur , Lufttemperatur , Lufttemperatur , Relativ luftfuktighet , Grunnvannsnivå - dyp under bakken","14 , 17 , 17 , 17 , 2 , 5130"
+60.03015,9.2354,Bruhaug,15.23.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.83148,9.33745,Våtvatn,15.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.8644,9.27529,Hanavatn,15.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.8324,9.33033,Sandvatn,15.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.86757,9.26282,Kjørkjevatn,15.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.50038,8.64535,Rødungen,15.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.89255,9.25512,Fiskeløysvatn,15.30.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.35535,7.84766,Halnefjord,15.35.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.41607,9.70067,Myklevatn,15.40.0,Magasinvolum,1004
+60.26628,8.95655,Rødbergdammen,15.47.0,Vannstand,1000
+60.49297,8.47906,Halledalsvatn,15.49.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.30979,9.00972,Borgåi,15.53.0,"Vannstand , Vannføring","1000 , 1001"
+60.23264,8.58686,Sønstevatn,15.56.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.18964,9.99358,Holmfoss i Numedalslågen,15.61.0,"Vannstand , Vannstand , Vannføring , Lufttemperatur","1000 , 1000 , 1001 , 17"
+60.3821,8.26392,Ossjøen,15.79.0,"Vannstand , Vannføring","1000 , 1001"
+60.43594,8.73508,Pålsbufjord,15.8.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+60.32215,8.92429,Tunhovdfjord,15.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.97855,12.56823,Sørra,150.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.7732,12.9829,Lavvatn,151.11.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.43757,13.98604,Nervoll,151.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+65.52928,13.45521,Joibakken,151.21.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.62155,13.29156,Laksfors,151.28.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.51651,14.13033,Unkerelva,151.29.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+65.80938,12.92513,Hundålvatn,151.3.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+65.62244,13.29067,Vefsna v/Laksfors,151.32.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+65.42039,13.9708,Susna v/Ivarrud,151.35.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+65.43498,13.40824,Svenningdal rør 2,151.37.2,Grunnvannsnivå - dyp under bakken,5130
+65.35324,13.60868,Fiplingdal rør 1,151.55.1,Grunnvannsnivå - dyp under bakken,5130
+65.33751,13.35796,Stor-Svenningvatnet,151.65.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+65.5071,14.21708,Unkervatn,151.70.0,"Vannstand , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet , Spenning, solstrømanlegg , Sekundær vannstand , Sekundær vanntemperatur","1000 , 1003 , 17 , 2 , 9100 , 9104 , 9109"
+65.90524,13.30759,Fustvatn,152.4.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+66.09342,13.11638,Storvatn,153.1.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+66.06451,13.82663,Sjøfoss,155.12.0,Vanntemperatur,1003
+65.98275,13.81387,Stormyra - Fallfoss,155.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.09209,14.22675,Kjennsvatn,155.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.0693,14.32907,Gressvatn,155.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.79283,14.22048,Lendingosen (Varnvatnet),155.27.0,"Vannstand , Vannføring","1000 , 1001"
+65.92789,13.80615,Øvre Røssåga kraftstasjon,155.28.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+65.98277,13.81497,Nedre Røssåga kraftstasjon inntak,155.29.0,Vanntemperatur,1003
+65.85788,13.79444,Tustervatn (Røssvatn),155.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.06257,13.99737,Bjerka kraftstasjon,155.31.0,Vanntemperatur,1003
+66.09492,14.07848,Store Målvatn,155.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+65.9316,13.88103,Bleikvatn,155.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.45672,13.87848,Berget,156.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.47237,14.31601,Bjørnfoss,156.13.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+66.29299,13.81261,Forsbakk,156.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.51927,14.88023,Bredek,156.19.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.63244,14.49462,Bogvatn,156.24.0,Magasinvolum,1004
+66.44086,13.85676,Leiråga,156.27.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.39564,13.67506,Trolldalsvatn,156.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.23881,14.77385,Kalvatn,156.30.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.254,14.54115,Tverrvatn,156.46.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.34756,14.33907,Reinfossen ndf.,156.49.0,"Vannstand , Vannføring","1000 , 1001"
+66.20912,14.29759,Akersvatn,156.51.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.47372,14.85479,Ranaelva v/Messingslett bru,156.52.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+66.30265,14.3485,Rana kraftstasjon,156.54.0,Vanntemperatur,1003
+66.33587,14.16567,Langvatn kraftstasjon,156.55.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+66.34924,14.33389,Ranaelva v/Reinfors kraftstasjon,156.56.0,Vanntemperatur,1003
+66.2785,14.8892,Lappsætra rør 3,156.63.3,"Lufttemperatur , Snøens vannekvivalent , Grunnvannsnivå - dyp under bakken","17 , 2003 , 5130"
+66.48089,14.22483,Svartisdal,156.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.38177,13.70219,Isvatn,157.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.39262,13.18077,Vassvatn,157.3.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+66.33747,13.36809,Flostrand,157.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.33018,13.65998,Holmvatn,157.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.69137,13.75442,Engabreelv,159.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.67567,13.79358,Engabreen kammer,159.13.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+66.64135,13.92892,Engabreen-Skjæret,159.20.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 14 , 15 , 17 , 2"
+66.70259,13.7469,Engabrevatn,159.3.0,Magasinvolum,1004
+66.67384,13.76651,"Fonndalstunnelen, Crump",159.30.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+66.67243,13.7702,"Fonndalstunnelen, Fjellterskel",159.31.0,Vanntemperatur,1003
+66.6925,13.81315,"Engabreen, 900",159.34.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 14 , 15 , 17 , 2"
+66.50695,13.36487,Nye Heimervatn,159.37.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+66.44673,13.32422,Vakkerjordvatn,159.41.0,Vanntemperatur,1003
+66.62798,13.41704,Strømdalen,159.5.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.55605,9.26361,Notodden (Heddalsvatnet),16.1.0,Vannstand,1000
+59.61171,8.99323,Omnesfoss,16.10.0,"Vannstand , Vannføring","1000 , 1001"
+59.78852,7.24721,Kjela,16.101.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.81381,7.20309,Ståvatn,16.105.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.72136,7.30941,Langesæ,16.106.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.72908,7.42464,Førsvatn,16.107.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.75583,7.564,Venemo,16.110.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.95373,8.52033,Bergebuåi,16.114.0,"Vannstand , Sekundær vannstand","1000 , 9104"
+59.44506,7.9974,Elvarheim,16.117.0,"Vannstand , Vannføring","1000 , 1001"
+59.50598,8.52334,Sundbarmvatn,16.118.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.73816,8.32971,Sandsetvatn,16.119.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.53111,8.22389,Ljosdalsvann,16.120.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.49686,8.4684,Nystølsvann,16.121.0,Vannstand,1000
+59.6414,8.31172,Grovåi,16.122.0,"Vannstand , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1000 , 1001 , 1003 , 17"
+59.47502,8.64909,Seljordvatn,16.123.0,Vannstand,1000
+59.48864,7.78639,Botnedalsvatn,16.124.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.78389,7.97074,Bitdalsvatn,16.125.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.12529,8.4502,Viertjern,16.127.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.99525,8.82766,Austbygdåi,16.128.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.49532,7.82942,Tokke 5 (Byrte),16.129.0,Vanntemperatur,1003
+59.46211,7.93643,Tokke 6 (Lio),16.130.0,Vanntemperatur,1003
+59.20771,9.52788,Skotfoss,16.133.0,Vannføring,1001
+59.98247,8.43767,Nedre Grottevatn,16.137.0,Magasinvolum,1004
+59.44315,8.03931,Tokke kraftverk,16.138.0,Vanntemperatur,1003
+59.77003,7.39422,Vågslidvatn,16.139.0,"Vannstand , Vannføring","1000 , 1001"
+60.01842,7.86546,Kvenna,16.140.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.99475,8.37472,Strengen,16.142.0,Vannføring,1001
+59.72509,7.54576,Vadtjønn,16.143.0,Vannstand,1000
+59.64771,7.89153,Våmarvatn,16.144.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.61589,7.85536,Vinje kraftverk,16.149.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.20541,9.52653,Norsjø v/Løveid ovf.,16.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.06899,8.31582,Kalhovdfjord justert,16.150.0,Magasinvolum,1004
+59.22067,9.39797,Brusetbekken,16.154.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.70388,8.85882,Sønnlandsvatn,16.155.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.20018,9.60394,Hjellevatn,16.17.0,Vannstand,1000
+59.8232,8.31555,Møsvatn,16.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.49987,8.63628,Vallaråi ovf. Sundsbarm kraftstasjon,16.183.0,Vanntemperatur,1003
+59.73317,7.54541,Haukeli kraftverk,16.184.0,Vanntemperatur,1003
+59.77814,7.72513,Songa kraftverk,16.185.0,Vanntemperatur,1003
+59.30308,9.0425,Hogga Dam,16.187.0,Vannføring,1001
+59.71104,7.57481,Langeidvatn,16.188.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.54476,8.01588,Bjørntjønn,16.189.0,"Vannstand , Vannføring","1000 , 1001"
+59.43142,9.1337,Hørte,16.193.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.34851,8.78597,Kilen,16.194.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.60449,8.71564,Hjartdal kraftstasjon,16.195.0,"Vannstand , Vannføring","1000 , 1001"
+59.7731,7.72532,Totak,16.196.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.82225,7.56114,Songavatn,16.197.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.88449,8.67516,Mår Kraftverk,16.198.0,Vanntemperatur,1003
+59.61459,7.85243,Vinjevatn,16.202.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.20762,9.53179,Skienselva ndf. Norsjø,16.207.0,Vanntemperatur,1003
+59.76922,7.32926,Kjela ndf. Eivindbuvatn,16.212.0,Vanntemperatur,1003
+59.31332,9.04174,Straumen ovf. Hogga kraftstasjon,16.217.0,Vanntemperatur,1003
+59.41993,8.899,Bøelva v/Sanda bru,16.222.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.49904,8.63538,Sundsbarm kraftstasjon,16.223.0,Vanntemperatur,1003
+59.62175,8.90105,Hjartdøla ndf. Hanefossen,16.228.0,Vanntemperatur,1003
+59.69003,9.03762,Kirkevoll bru,16.23.0,"Vannstand , Vannføring , Vannføring , Vanntemperatur","1000 , 1001 , 1001 , 1003"
+59.43898,9.08283,Eikamoen rør 10,16.231.10,Grunnvannsnivå - dyp under bakken,5130
+59.44308,9.05322,Eikamoen rør 12,16.231.12,Grunnvannsnivå - dyp under bakken,5130
+59.44516,9.06727,Eikamoen rør 4,16.231.4,Grunnvannsnivå - dyp under bakken,5130
+59.43994,9.07969,Eikamoen rør 9,16.231.9,Grunnvannsnivå - dyp under bakken,5130
+59.83572,8.31427,Groset grunnvannsrør 1A,16.232.1,"Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Snøens vannekvivalent , Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Vannstand , Vannstand , Vannstand , Vannstand","5130 , 5130 , 5130 , 2003 , 0 , 14 , 15 , 17 , 1000 , 1000 , 1000 , 1000"
+59.8357,8.31446,Groset,16.232.14,Snøens vannekvivalent,2003
+59.84052,8.31059,Groset klima,16.232.15,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur","0 , 14 , 15 , 17"
+59.83527,8.31081,"Groset, totalisator",16.232.23,"Nedbør , Lufttemperatur","0 , 17"
+59.83565,8.3138,Groset markvann,16.233.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+60.08947,8.28304,Mårvatn,16.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.67265,8.15493,Lognvikvatn v/Brandland (11),16.261.1,Vanntemperatur,1003
+60.03042,8.3229,Kalhovdfj-Gøystvatn,16.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.31789,8.98155,Strengen,16.40.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.00111,8.74946,Mår ovf. Tinnsjøen,16.455.0,Vanntemperatur,1003
+59.61534,7.79752,Rusåi,16.490.0,"Vannstand , Vannføring","1000 , 1001"
+59.56494,8.52258,Flatdalsåi ovf. Flatdal,16.491.0,Vanntemperatur,1003
+59.40396,8.47074,Dalaåi v/Kviteseid,16.492.0,Vanntemperatur,1003
+59.20338,9.55242,Farelva ndf. Skotfoss,16.497.0,"Vannføring , Vannføring , Vannhastighet , Vanntemperatur , Lufttemperatur","1001 , 1001 , 1002 , 1003 , 17"
+59.46395,9.44639,Eiangsvatn,16.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.43201,8.87476,Hagadrag,16.51.0,"Vannstand , Vannføring","1000 , 1001"
+59.19795,9.60951,Total Q Klosterfoss,16.521.0,Vannføring,1001
+59.20311,9.60948,Total Q Damfoss,16.522.0,Vannføring,1001
+59.20572,9.60908,Total Q Eide og Mølla,16.523.0,Vannføring,1001
+59.19555,9.61841,Total Q Skien,16.524.0,Vannføring,1001
+59.81184,7.21377,Haukeli Forsøksfelt,16.529.0,"Snøens vannekvivalent , Snøens vannekvivalent","2003 , 2003"
+59.49718,7.83251,Byrte kr.st,16.530.0,Vanntemperatur,1003
+59.452,7.95039,Lio kr.st.,16.531.0,Vanntemperatur,1003
+59.77157,8.81103,Gjuvå v/Nybru,16.532.0,"Vannstand , Vanntemperatur , Sekundær vannstand","1000 , 1003 , 9104"
+59.443,8.01991,Bandak v/Dalen,16.6.0,Vannstand,1000
+59.41132,9.56933,Øktern,16.61.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.34309,9.56467,Fjellvatn,16.62.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.83555,8.32061,Grosettjern,16.66.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.72685,9.02347,Tinnsjø,16.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.81057,7.40514,Bordalsvatn,16.72.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.67317,8.06739,Tannsvatn (Lognvikvatnet),16.75.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+59.49717,7.83465,Børtevatn,16.78.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.78299,8.66368,Bonsvatn,16.87.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.77544,8.54266,Vindsjåen,16.88.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.73275,8.67841,Kovatn,16.89.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.65686,8.52919,Skjessvatn,16.90.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.65179,8.60289,Breidvatn,16.91.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.76122,14.18535,Storglåmvatn,160.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.81007,14.09269,Øvre Navervatn,160.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.79104,14.06156,Nedre Navervatn,160.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.77947,14.15276,Navnløsvatn,160.14.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.98047,14.08406,Skauvoll,160.7.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.88601,13.83875,Lysvatn,160.9.0,Vannstand,1000
+66.89481,14.74529,Klipa,161.11.0,"Vannstand , Vannføring","1000 , 1001"
+66.96973,14.36508,Øvre Nævervatn,161.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.95302,14.33045,Lille Sokumvatn,161.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.85516,14.13435,Feldtvatn,161.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.95655,14.22045,Sokumvatnet-Langevatn,161.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.92451,14.38798,Arstaddalen,161.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.99698,14.69845,Selfors bru,161.18.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.92127,14.78166,Tollåga ovf. Beiarelva,161.30.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+66.99633,14.72785,Beiarelva v/Strand,161.31.0,Vanntemperatur,1003
+66.89458,14.74753,Nye Klipa,161.45.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.97118,14.14638,Sundsfjorddalselva v/Sjøfossen kr.st.,161.47.0,Vanntemperatur,1003
+66.89693,14.85457,Tollåga,161.7.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+67.08398,14.98147,Skarsvatn,162.3.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+67.16998,14.45588,Valnesvatn,162.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.98457,15.32505,Saltelva ovf. Eneneselva,163.19.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+66.81309,15.38708,Lønselva ndf. Kjemåga,163.23.0,Vanntemperatur,1003
+66.81483,15.40702,Junkerdalselva ovf. Lønselva,163.24.0,Vanntemperatur,1003
+66.8148,15.41069,Junkerdalselv,163.5.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+66.9356,15.14655,Jordbrufjell,163.6.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+66.76917,15.40877,Kjemåvatn,163.7.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+67.07293,16.05203,Kjeldvatn,164.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.0129,15.97297,Storstilla ndf. Balvatn,164.12.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+67.10239,16.20073,Låmi,164.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.17089,15.79293,Dråvika overløp/lukeslipp,164.28.0,Vannføring,1001
+67.19029,15.49049,Grytvikelva,164.38.0,Vanntemperatur,1003
+67.13576,16.04785,Langvatn,164.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+66.98341,15.9496,Balvatn,164.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.00798,16.07974,Dorrovatna,164.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.3084,14.43116,Skivika,165.11.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+67.53911,14.87048,Nye Strandå,165.13.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+67.3634,14.88433,Heggmovatn,165.2.0,Magasinvolum,1004
+67.53925,14.8767,Strandå,165.6.0,"Vannstand , Vannføring , Lufttemperatur , Sekundær vannstand","1000 , 1001 , 17 , 9104"
+67.28674,14.45883,Vågønes,165.9.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+67.45069,15.76216,Lakshola,166.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+67.34409,15.53598,Vallvatn,166.13.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+67.45081,15.78125,Laksåga ovf. Sleipa,166.15.0,Vanntemperatur,1003
+67.44569,15.74683,Laksåga ovf. Lakshola kraftstasjon,166.16.0,Vanntemperatur,1003
+67.28623,15.4487,Fauske rør 3,166.17.3,Grunnvannsnivå - dyp under bakken,5130
+67.46655,15.74162,Faulvatn,166.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.44551,15.74608,Lakshola kraftstasjon,166.22.0,Vanntemperatur,1003
+67.44892,15.78792,"Klipforsen, Storskogelva",166.26.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+67.3317,15.83085,Sisovatn,166.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.72549,16.22916,Slæddovagjav'ri,167.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.68351,16.29211,Reinoksvatn,167.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.59817,16.24469,Fossvatn/Linnajav'ri,167.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.57804,16.23658,Varrevæjekjav'ri,167.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.53388,16.19675,Langvatn,167.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.62386,15.98929,Kobbvatn,167.3.0,Magasinvolum,1004
+67.62414,15.9918,Kobbelv Kraftverk,167.34.0,Lufttemperatur,17
+67.59516,15.95418,Kobbelva ndf. Kobbvatnet,167.35.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+67.62228,15.99021,Kobbelv kraftstasjon,167.39.0,Vanntemperatur,1003
+67.73072,16.27299,Livsejav'ri,167.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.84659,15.50398,Storvatn,168.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+67.71571,15.87357,Mørsvik bru,168.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+67.79663,15.29608,Lakså bru,168.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.96404,9.32025,Dalsfoss ndf.,17.10.0,"Vannstand , Vannføring","1000 , 1001"
+58.98133,9.24908,Nedre Tokevatn,17.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.03896,16.07788,Hamnvatnet,170.10.0,"Vannstand , Vanntemperatur","1000 , 1003"
+68.03206,16.00476,Mellavatnet,170.11.0,"Vannstand , Vanntemperatur","1000 , 1003"
+67.82209,16.03818,Rekvatn,170.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+67.80434,16.14414,Slunka,170.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.05872,15.82985,Kaldvågvatn,170.5.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.05141,16.6805,Brynvatn,171.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.02867,16.68585,Kjerringvatn,171.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.10552,16.82411,Gammelottvatn,171.14.0,Magasinvolum,1004
+67.77953,16.4793,Ravggajokka,171.7.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.25494,16.7144,Melkedal (Litlevatn),172.5.0,Vanntemperatur,1003
+68.23247,16.78407,Hjertevatn,172.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.28318,16.42874,Leirpoldvatn,172.7.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.20586,16.88333,Rauvatn,172.8.0,"Vannstand , Vannføring","1000 , 1001"
+68.06068,17.75964,Båtsvatn,173.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.07013,17.67433,Kjørrisvatn,173.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.19885,17.76178,Losivatn,173.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.12695,17.45631,Iptovatn,173.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.10648,17.34909,Kjårdavatn,173.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.19409,17.55453,Gamnes,173.22.0,"Vannstand , Vanntemperatur","1000 , 1003"
+68.20676,17.5268,Elvegårdselva v/Stiberg bru,173.24.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+68.2431,17.41894,Skjomen rør 1,173.28.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+68.01673,17.89628,Coarveij,173.8.0,Lufttemperatur,17
+68.43661,17.48149,Taraldsvikelv,174.11.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.37987,17.83368,Sildvikvatn,174.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.4752,17.7283,Trollvatn,174.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.49637,17.77856,Sirkelvatn,174.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.52328,17.73901,Fiskeløsvatn,174.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.49423,17.81255,Jernvatna,174.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.51167,17.89552,Skitdalsvatnet,174.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.48425,17.98738,Lille Fiskeløsvatn,174.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.34785,17.48969,Øvstevatn (Litlevatnet),174.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.30001,17.59903,Tverrdalselva 620 moh,174.37.0,Vanntemperatur,1003
+68.30446,17.63801,Skamdalselva ndf. Skamdalsvatnet,174.38.0,Vanntemperatur,1003
+68.33952,17.61263,Skamdalselva ndf. Lillevatnet,174.39.0,Vanntemperatur,1003
+68.36916,17.43094,Storvatn,174.4.0,Magasinvolum,1004
+68.35706,17.61778,Lakselva ndf. Stubblielva,174.40.0,Vanntemperatur,1003
+68.33778,17.50452,Storelva ovf. Sjursheimvatnet,174.41.0,Vanntemperatur,1003
+68.34848,17.48985,Håkvikelva ndf. Litlevatnet,174.42.0,Vanntemperatur,1003
+68.37,17.40902,"Storvatnet, utløp",174.44.0,"Vannstand , Vannføring","1000 , 1001"
+68.37668,17.37938,Nedstevatn,174.5.0,Magasinvolum,1004
+68.55341,17.07688,Niingen,175.1.0,Vannstand,1000
+68.53663,17.0291,Niingen ndf.,175.2.0,Vanntemperatur,1003
+68.62495,16.40471,Storvatn,177.2.0,Magasinvolum,1004
+68.40743,15.70544,Sneisvatn,177.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.61924,15.71249,Langvatn,178.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.62894,15.77324,Langvassbukt rør,178.12.1,Grunnvannsnivå - dyp under bakken,5130
+68.24138,14.33103,Jordelv,179.6.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.88361,9.03327,Gjerstad,18.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.93208,8.85938,Tjellingtjernbekk,18.11.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.64199,8.90556,Storelva v/Angelstad,18.13.0,Vanntemperatur,1003
+58.6683,8.97778,Lundevann,18.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.67011,8.98276,Lundevann ndf.,18.5.0,Vanntemperatur,1003
+68.20364,13.73678,Grønlivatn,180.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.67283,14.62927,Gåslandsvatn,185.1.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+68.63598,15.20025,Sortland/Rise rør 3,185.2.3,Lufttemperatur,17
+69.0602,15.73423,Ånesvatn,186.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.62028,17.2503,Skodbergvatn,189.1.0,Magasinvolum,1004
+68.6449,16.72235,Tennevikvatn,189.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.01744,8.52141,Nisser,19.100.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.16613,8.33485,Naper,19.103.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.29985,7.9851,Songedalsåi,19.104.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.96272,8.54043,Kjørull,19.105.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.22902,7.83946,Ulvsvatn,19.106.0,Vannstand,1000
+58.43536,8.70269,Lilleelv,19.107.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.00597,8.27523,Fyresdalsåna ndf. Fyresvatn,19.136.0,Vanntemperatur,1003
+59.0179,8.52489,Nidelva v/Nisserdam kraftstasjon,19.137.0,Vanntemperatur,1003
+58.74923,8.51553,Vm Stigvassåi,19.144.0,Vannstand,1000
+58.75106,8.51434,"Stigvassåi, rør 9",19.144.9,Grunnvannsnivå - dyp under bakken,5130
+58.3502,8.44919,Reddalsåni,19.250.0,"Vannstand , Vanntemperatur","1000 , 1003"
+59.01539,8.27416,Fyresvatn,19.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.66092,8.62216,Nelaug ndf.,19.38.0,Vannstand,1000
+58.96574,8.09088,Nesvatn,19.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.38034,7.82634,Borsæ,19.58.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.06103,7.98262,Tovslielva ndf. Birtevatn,19.61.0,Vanntemperatur,1003
+59.40673,7.71973,Urvatn,19.62.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.20321,7.75804,Torsdalsmagasinet,19.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.00204,8.29921,Kilåi bru,19.73.0,"Vannstand , Vannføring","1000 , 1001"
+59.17244,8.34414,Grytå,19.78.0,"Vannstand , Vannføring , Lufttemperatur , Snøens vannekvivalent","1000 , 1001 , 17 , 2003"
+59.23484,8.03641,Gravå,19.79.0,"Vannstand , Vannføring","1000 , 1001"
+58.74981,8.51559,Stigvassåi,19.80.0,"Vannstand , Vannføring","1000 , 1001"
+59.34721,8.13868,Skredvatn,19.81.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.96851,8.50818,Rauåna,19.82.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.24451,8.14483,Rolleivstadvatn,19.83.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.19642,8.37277,Lytingsvatn,19.85.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.25816,7.81374,Øysæ,19.86.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.20396,7.93452,Votna,19.87.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.18981,8.01842,Gausvatn,19.88.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.05231,8.65362,Storgama ovf.,19.96.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.66212,8.62023,Nelaug,19.98.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.3189,8.43341,Vråvatn,19.99.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.69618,17.24167,Keipen,190.6.0,"Vannstand , Vanntemperatur","1000 , 1003"
+68.85762,17.94107,Øvrevatn,191.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.86865,17.86597,Salangselva ndf. Nervatnet,191.3.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+69.10691,18.20407,Tømmerelva,193.6.0,Vannstand,1000
+69.41202,17.8619,Lysvatnet,194.1.0,Vanntemperatur,1003
+69.41087,17.68971,Svartholvatnet,194.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.40728,17.63062,Nedre Hestvatnet,194.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.23092,17.78346,Mevatn,194.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.02298,19.58108,Lille Rostavatn,196.11.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.72235,18.54942,Lundberg,196.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.67738,18.73711,Innsetvatn,196.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.88949,19.54104,Skogly,196.21.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.87764,19.66464,Dødesvatn,196.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.65709,18.88585,Altevatn,196.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.84438,19.57821,Høgskarhus,196.26.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.83462,18.4081,Barduelv v/Aspelund,196.28.0,"Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","1003 , 17 , 2"
+68.82899,18.43608,Barduelv v/Fosshaug gård,196.29.0,Vanntemperatur,1003
+69.03493,18.65834,Målselvfossen,196.35.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.82919,18.43066,Fosshaug,196.36.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+68.87495,19.55526,Dividalen kraftstasjon,196.39.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+69.03526,18.65517,Målselva ovf. Barduelva,196.43.0,Vanntemperatur,1003
+68.65632,18.82097,Innset kraftstasjon,196.44.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+68.76288,18.57756,Straumsmo kraftstasjon,196.45.0,Vanntemperatur,1003
+69.02219,19.35364,Øverbygd rør 2,196.47.2,"Lufttemperatur , Snøens vannekvivalent , Overflatetemperatur , Grunnvannsnivå - dyp under bakken","17 , 2003 , 2040 , 5130"
+69.26298,18.88207,Ytre Fiskeløsvatn,196.7.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+68.98143,18.4017,Skoelva,196.98.0,Vannføring,1001
+69.68038,18.5993,Ersfjordelva,197.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.63672,19.02175,Tromsdalen rør 1,197.11.1,Grunnvannsnivå - dyp under bakken,5130
+69.63672,19.02175,Trømsdalen rør 2,197.11.2,Grunnvannsnivå - dyp under bakken,5130
+69.63354,18.718,Lille Blåmann,197.12.0,Generell parameter,9153
+69.74522,18.35414,Storstolpan,197.13.0,Generell parameter,9153
+69.51497,19.31018,Saltdalselva,198.72.0,"Vannstand , Vannføring","1000 , 1001"
+69.75238,19.38275,Skittenelva,199.97.0,"Vannstand , Vannføring","1000 , 1001"
+61.05477,12.02073,Hådammen,2.1.0,Lufttemperatur,17
+62.41111,10.99258,Glåma v/Tolga,2.100.1,Vanntemperatur,1003
+60.81023,11.01962,Hamar (Mjøsa),2.101.0,"Nedbør , Vannstand , Magasinvolum , Lufttemperatur","0 , 1000 , 1004 , 17"
+59.59277,11.40114,Hæra v/Løkkeborg,2.1036.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.9154,8.10324,Øyberget kraftstasjon,2.1049.0,Vanntemperatur,1003
+61.94668,7.90514,Framrusti kraftstasjon,2.1050.0,Vanntemperatur,1003
+61.90345,8.18402,Otta 4 km ndf. Øyberget kraftstasjon,2.1051.0,Vanntemperatur,1003
+59.28571,11.13313,Glomma ovf. Sarpfossen,2.1087.0,Vanntemperatur,1003
+60.87,11.55724,Glomma ved Skogmuseet,2.1088.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.35278,9.0703,Vinsteråne ndf. Vinstre,2.1093.0,Vanntemperatur,1003
+61.42916,8.83964,Innløp Øvre Heimdalsvatn/Brurskardbekken,2.1094.0,Vanntemperatur,1003
+61.43217,8.83302,Brurskardbekken 1116 m o.h.,2.1095.0,Vanntemperatur,1003
+61.43506,8.83487,Brurskardbekken 1200 m o.h.,2.1096.0,Vanntemperatur,1003
+62.6822,11.46359,Aursunden,2.111.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+59.44165,11.17531,Vidnesbekken,2.1119.0,"Vannstand , Vannføring , Lufttemperatur , Relativ luftfuktighet","1000 , 1001 , 17 , 2"
+61.46658,11.04271,Nye Stai,2.112.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.68038,11.46398,Aursunden,2.113.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.39523,11.23071,Minnesund stasjon 1,2.1131.1,Vannstand,1000
+60.39523,11.23071,Minnesund stasjon 1,2.1131.2,Vannstand,1000
+60.39523,11.23071,Minnesund stasjon 3,2.1133.1,Vannstand,1000
+60.39523,11.23071,Minnesund stasjon 3,2.1133.2,Vannstand,1000
+60.39523,11.23071,Minnesund stasjon 3,2.1133.3,Vannstand,1000
+62.01714,9.2158,Dovre rør 1,2.1134.1,Grunnvannsnivå - dyp under bakken,5130
+62.01334,7.81696,Grotli rør,2.1136.1,Grunnvannsnivå - dyp under bakken,5130
+61.76735,9.48791,Otta v/Haugalykkja rør 2,2.1142.1,Grunnvannsnivå - dyp under bakken,5130
+61.70311,9.95315,Frya bru,2.1151.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.46139,10.31181,Fåvang v/Søre Brekkom rør 1,2.1153.1,Grunnvannsnivå - dyp under bakken,5130
+61.68072,9.67602,Kvam v/Veikledalen rør 1,2.1154.1,Grunnvannsnivå - dyp under bakken,5130
+61.65106,10.10744,Venabu rør 1,2.1155.1,Grunnvannsnivå - dyp under bakken,5130
+59.95847,11.01702,Sagelva v/Strømmen,2.1185.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.61795,9.7992,Sula v/Bruli,2.1191.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.8606,9.40868,Rosten kraftverk,2.1195.0,Vannføring,1001
+59.94234,10.94892,"Ellingsrudelva, Limtomta",2.1197.0,Ledningsevne,1006
+61.95678,10.05125,Storbekken i Atndalen,2.1198.0,"Lufttemperatur , Snødybde","17 , 2002"
+59.94122,10.98831,Fjellhamardammen,2.1207.0,"Vannstand , Vanntemperatur , Spenning, solstrømanlegg","1000 , 1003 , 9100"
+59.94321,10.94606,Ellingsrudelva v/Sumpen,2.1208.0,Vannstand,1000
+59.93401,10.98124,Fjellhamarelva v/Kloppa,2.1209.0,"Vannstand , Spenning, solstrømanlegg","1000 , 9100"
+60.18507,12.04076,Vingersjø,2.121.0,Vanntemperatur,1003
+59.93633,10.93139,Ellingsrudelva v/Visperud,2.1210.0,Vannstand,1000
+59.93079,10.96598,Langvatnet,2.1211.0,"Vannstand , Vanntemperatur , Spenning, solstrømanlegg","1000 , 1003 , 9100"
+59.91855,10.97915,Finstadbekken utløp (Neskulpen),2.1212.0,"Vannstand , Spenning, solstrømanlegg","1000 , 9100"
+59.87665,10.99001,Mønevann,2.1213.0,"Vannstand , Vanntemperatur , Spenning, solstrømanlegg","1000 , 1003 , 9100"
+60.25431,11.67747,Skarnes,2.122.0,"Vannstand , Vanntemperatur","1000 , 1003"
+61.21939,10.44526,Skalmstadbekken,2.1225.0,Vannstand,1000
+60.29801,11.66568,Oppstadåa ved Oppstad bru,2.1226.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.24234,11.40178,Ellingsjøen,2.1227.0,"Vannstand , Vanntemperatur , Spenning, solstrømanlegg","1000 , 1003 , 9100"
+59.24738,10.94967,Stordammen i Fredrikstad,2.1228.0,"Vannstand , Vanntemperatur","1000 , 1003"
+59.65955,11.22566,Øyeren v/Mørkfoss,2.125.0,"Vannstand , Magasinvolum , Lufttemperatur","1000 , 1004 , 17"
+62.19223,10.45107,Dølplass,2.129.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.56027,8.92707,Nedre Sjodalsvatn,2.13.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+61.73287,11.20184,Lomnessjø,2.132.0,"Vannstand , Vannføring","1000 , 1001"
+61.24113,11.81689,Ossjø,2.138.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.40201,11.35787,Storsjø ovf.,2.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.64117,12.04712,Knappom,2.142.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.33339,10.27753,Losna,2.145.0,"Vannstand , Vannføring","1000 , 1001"
+62.00504,7.63749,Breiddalsvatn ndf.,2.15.0,Magasinvolum,1004
+61.33051,8.74671,Bygdin,2.164.0,"Vannstand , Magasinvolum , Lufttemperatur","1000 , 1004 , 17"
+61.32454,8.83218,Vinsteren,2.167.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.00405,11.29932,Blaker,2.17.0,"Vannstand , Vannføring , Vannhastighet , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1002 , 1003 , 17"
+61.50048,9.40466,Olstappen,2.172.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.14281,10.7116,Sjusjøen,2.198.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.09629,10.69795,Sør-Mesna,2.199.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.17688,10.71623,Kroksjøen,2.200.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.20168,10.70735,Melsjøen,2.201.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.21627,10.65284,Reinsjøen,2.202.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.1183,10.58591,Nord-Mesna,2.203.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.11791,10.58174,Mesna ndf.,2.205.0,Vanntemperatur,1003
+60.62306,10.57922,Skjelbreia,2.210.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.64261,10.59663,Einavatn,2.212.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.58098,9.84132,Harpefoss,2.224.0,Vannføring,1001
+61.98017,10.89635,Barkaldfoss,2.227.0,"Vannstand , Vannføring","1000 , 1001"
+62.11971,10.06901,Grimsmoen,2.235.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.02462,7.56967,Breiddalsvatn,2.236.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.91058,7.79666,Rauddalsvatn,2.237.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.36563,10.46311,Vålsjøen,2.239.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.3632,10.52099,Grunnvatn,2.240.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.38451,10.54262,Gopollen,2.241.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.36532,10.57161,Djupen,2.242.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.27935,10.08972,Rausjø,2.245.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.29479,8.7982,Bitihorn,2.248.0,Lufttemperatur,17
+61.81748,9.27394,Lalm,2.25.0,"Vannstand , Vannføring","1000 , 1001"
+61.54786,8.25061,Leirvatn,2.252.0,Vannstand,1000
+61.36181,9.0948,Sandvatn,2.254.0,Magasinvolum,1004
+61.3494,9.26309,Kaldfjord-Øyvatn,2.255.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.42601,9.07626,Heimdalsvatn,2.257.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.416,9.27426,Øyangen,2.260.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.94611,11.08351,Unsetåa,2.265.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.71112,11.24189,Mistra bru,2.267.0,"Vannstand , Vannføring","1000 , 1001"
+61.79955,8.44722,Akslen,2.268.0,"Vannstand , Vannføring","1000 , 1001"
+62.44806,11.12053,Hummelvoll,2.269.0,"Vannstand , Vannføring","1000 , 1001"
+61.85415,7.76288,Liavatn,2.275.0,"Vannstand , Vannføring","1000 , 1001"
+60.13345,11.0801,Kråkfoss,2.279.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.21542,10.26932,Aulestad,2.28.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.23631,10.99044,Kringlerdal,2.280.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.93029,8.24476,Aursjøen,2.282.0,"Nedbør , Vannstand , Magasinvolum , Lufttemperatur","0 , 1000 , 1004 , 17"
+61.8992,8.22775,Skjåk Kraftverk,2.283.0,Vannføring,1001
+61.88439,9.06212,Sælatunga,2.284.0,"Vannstand , Vannføring","1000 , 1001"
+61.72623,8.29603,Brustuen,2.290.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.00772,7.86636,Tora,2.291.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.39339,11.18384,Furuholmen,2.30.0,Vannstand,1000
+62.08713,9.10184,Dombås,2.303.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.85194,10.22212,Atnasjø,2.32.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+60.88483,11.32496,Fura,2.323.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.2855,11.12708,Hurdalssjøen,2.326.0,Magasinvolum,1004
+62.32449,9.91609,Fundin,2.342.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.16357,11.45764,Løpet kraftstasjon,2.344.0,Vannføring,1001
+62.18925,8.53838,Lesjaverk (Lesjaskogvatnet),2.346.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.50775,11.26463,Røstefoss,2.347.0,"Vannstand , Vannføring","1000 , 1001"
+59.76468,11.21602,Øyeren 2,2.349.0,Lufttemperatur,17
+61.41836,8.8945,Øvre Heimdalsvatn,2.36.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Vindretning , Vindhastighet , Lufttemperatur , Snødybde , Snøens vannekvivalent","0 , 1000 , 1001 , 1003 , 14 , 15 , 17 , 2002 , 2003"
+62.06303,9.99075,Grimsa snøpute,2.373.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+62.22878,10.34315,Einunna overføring,2.377.0,"Vannstand , Vannføring","1000 , 1001"
+62.23283,10.52063,Savalen,2.379.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+61.4884,8.81994,Sjoa ndf. Gjende,2.39.0,Vanntemperatur,1003
+60.33902,12.03552,Norsfoss,2.393.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.36153,9.79778,Elgsjø,2.395.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.34263,10.0489,Marsjø,2.397.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.21887,9.8884,Hornsjø,2.402.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.2038,9.99033,Ropptjern,2.404.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.1669,11.53153,Funnefoss overvann,2.410.0,Vanntemperatur,1003
+60.16693,11.52973,Funnefoss kraftverk,2.412.0,"Vannstand , Vannføring , Overvannstand kraftverk","1000 , 1001 , 1012"
+61.43769,9.49436,Espedalsvatn,2.415.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+61.85782,8.95608,Vågåvatn,2.416.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.07812,11.36816,Glomstadfoss,2.43.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.8826,8.31376,Ofossen,2.434.0,"Vannstand , Vannføring","1000 , 1001"
+61.17847,10.89334,Kvarstadseter,2.439.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.09944,7.64989,Grønvatn,2.440.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.90937,11.52533,Strandfossen kraftstasjon,2.441.0,Vannføring,1001
+60.83103,11.61056,Skjefstadfoss,2.442.0,Vannføring,1001
+60.70937,11.78584,Braskereidfoss kraftstasjon,2.443.0,Vannføring,1001
+60.20401,11.89506,Kongsvinger kraftverk,2.444.0,Vannføring,1001
+61.23611,11.49955,Søre Osa kraftverk,2.447.0,Vanntemperatur,1003
+61.41275,11.74337,Nordre Osa,2.451.0,"Nedbør , Vannstand , Vannføring","0 , 1000 , 1001"
+61.61398,9.72248,Eide,2.460.0,"Vannstand , Vannføring","1000 , 1001"
+60.10302,10.86589,Fossen,2.461.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.95845,10.56209,Vismunda,2.463.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.77607,11.18653,Svartelva,2.464.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.69324,10.792,Nordre Bjøråa,2.468.0,Lufttemperatur,17
+60.37757,11.55422,Sand (Storsjøen i Odalen),2.470.0,"Vannstand , Vanntemperatur , Magasinvolum","1000 , 1003 , 1004"
+62.18278,10.61583,Savalen kraftverk undervann,2.471.0,Vannstand,1000
+62.00998,10.00033,Li bru,2.479.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.19224,8.92061,Jora v/Nysetra,2.481.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.21461,11.35557,Svanefoss ovf.,2.51.0,Vannstand,1000
+60.21346,11.3573,Svanefoss ndf.,2.52.0,"Vannstand , Vanntemperatur","1000 , 1003"
+61.54788,10.66176,Søndre Imssjøen,2.578.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.9209,11.15315,Fetsund bru,2.587.0,"Vannstand , Vannstand , Vanntemperatur","1000 , 1000 , 1003"
+62.11199,9.28989,Fokstua,2.592.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.70961,9.42517,Faukstad,2.595.0,"Vannstand , Vannføring","1000 , 1001"
+61.25915,11.3202,Glåma v/Steinvik,2.60.0,Vanntemperatur,1003
+60.87421,11.56065,Elverum,2.604.0,"Vannstand , Vannføring","1000 , 1001"
+59.63733,11.15354,Solbergfoss,2.605.0,Vannføring,1001
+62.17458,9.42186,Vålåsjø,2.607.0,"Vannstand , Vannføring","1000 , 1001"
+62.64655,11.35357,Orva,2.61.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.34149,11.40269,Storsjøen ndf. Øra,2.611.0,Vannføring,1001
+61.85857,9.40475,Rosten,2.614.0,"Vannstand , Vannføring , Vannføring","1000 , 1001 , 1001"
+60.35554,11.73308,Kuggerud,2.616.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.76926,9.53283,Otta,2.632.0,Vannstand,1000
+59.35952,11.51776,Stortorp,2.633.0,"Vannstand , Vannføring , Lufttemperatur , Sekundær vannstand","1000 , 1001 , 17 , 9104"
+60.67131,10.81131,Lena,2.634.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.1841,10.61782,Savalen kraftstasjon,2.636.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.91055,11.5276,Glåma v/Strandfossen kraftstasjon,2.639.0,Vanntemperatur,1003
+60.21337,11.35606,Vorma v/Svanfossen dam,2.643.0,Vanntemperatur,1003
+60.39856,11.23633,Vorma ndf. Mjøsa,2.645.0,Vanntemperatur,1003
+61.11411,10.45075,Mesna kraftstasjon I,2.647.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.21995,10.44238,Lågen v/Hunderfossen kraftstasjon,2.650.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.57644,9.85061,Lågen v/Harpefoss kraftstasjon,2.651.0,Vanntemperatur,1003
+61.76966,9.54516,Lågen ovf. Otta,2.653.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.45186,10.18298,Lågen v/Fåvang,2.654.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.29026,10.28044,Lågen v/Hovdefossen,2.656.0,Vanntemperatur,1003
+62.12381,8.72062,Lågen ndf. Lora,2.658.0,Vanntemperatur,1003
+61.57679,9.79224,Nedre Vinstra kraftstasjon,2.659.0,Vanntemperatur,1003
+61.41791,8.89544,Hinøgla ndf. Øvre Heimdalsvatnet,2.660.0,Vanntemperatur,1003
+61.6804,9.52847,Sjoa ovf. Lågen,2.661.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.87891,8.3894,Otta ovf. Skim v/Marlo bru,2.666.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.84704,8.96142,Nedre Tesse kraftstasjon,2.668.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.3541,11.05905,Trøsken,2.67.0,Vannstand,1000
+61.80407,9.30531,Otta v/Eidefoss kraftstasjon,2.674.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.83521,8.56266,Bøvre ovf. Otta,2.677.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.76834,9.53898,Otta ovf. Lågen,2.678.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.30795,11.15165,Nipa,2.68.0,Vannstand,1000
+61.95889,7.89732,Otta v/Pollfoss,2.683.0,Vanntemperatur,1003
+61.86661,9.10438,Otta ndf. Vågåvatnet,2.685.0,Vanntemperatur,1003
+61.35917,11.37279,Rena ndf. Storsjøen dam,2.686.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.6988,11.19844,Rena ovf. Mistra,2.687.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.16401,11.45814,Rena v/Løpet kraftstasjon,2.688.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.23954,11.49755,Rena ovf. Osa kraftstasjon,2.69.0,Vanntemperatur,1003
+61.80682,11.12945,Rendalen kraftstasjon,2.692.0,Vanntemperatur,1003
+60.24746,11.08327,Lybekkbråten,2.70.0,"Nedbør , Lufttemperatur","0 , 17"
+61.85003,10.23534,Atna ndf. Atnsjøen,2.700.0,Vanntemperatur,1003
+61.78761,10.66237,Atna v/Fossum,2.704.0,Vanntemperatur,1003
+62.00994,9.99972,Atna v/Lia bru,2.706.0,Vanntemperatur,1003
+59.89759,11.11271,Nordhagan,2.712.0,Vannstand,1000
+60.15251,11.14415,Sand rør 1,2.713.1,Grunnvannsnivå - dyp under bakken,5130
+60.18752,11.19602,Hauerseter,2.713.3,Grunnvannsnivå - dyp under bakken,5130
+60.25242,11.10704,Nordmoen,2.713.9,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+60.79058,10.80077,Kise rør 1,2.714.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+61.17808,10.88374,Kvarstaseter rør 2,2.715.2,"Lufttemperatur , Relativ luftfuktighet , Grunnvannsnivå - dyp under bakken","17 , 2 , 5130"
+61.30081,11.76141,Vika rør,2.716.2,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+61.30191,11.75955,Gbr Vika,2.716.5,Grunnvannsnivå - dyp under bakken,5130
+61.4065,11.87825,Stenerseter rør,2.716.6,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+60.90753,11.30986,Fura rør 4,2.717.4,"Grunnvannsnivå , Grunnvannsnivå - dyp under bakken","2000 , 5130"
+62.07966,9.03134,Dombås rør 2,2.718.2,Grunnvannsnivå - dyp under bakken,5130
+61.39167,9.18579,Øyangen rør 2,2.719.2,Grunnvannsnivå - dyp under bakken,5130
+62.64022,12.03334,Vauldalen,2.72.0,"Nedbør , Lufttemperatur","0 , 17"
+61.40754,9.56826,Espedalsvann rør 2,2.720.2,Grunnvannsnivå - dyp under bakken,5130
+61.43088,9.51581,Espedalsvatn snødybde,2.720.6,Lufttemperatur,17
+61.33834,8.83801,Lykjestøylane rør 1,2.721.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+61.46359,9.32059,Finnbølseter rør 1,2.722.1,Grunnvannsnivå - dyp under bakken,5130
+62.38279,10.0159,Settalbekken rør 1,2.723.1,Grunnvannsnivå - dyp under bakken,5130
+62.36525,10.01095,Settalbekken rør 2,2.723.2,Grunnvannsnivå - dyp under bakken,5130
+62.33504,10.01199,Settalbekken rør 4,2.723.4,Grunnvannsnivå - dyp under bakken,5130
+60.64668,11.87382,Haslemoen rør 9,2.724.9,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+62.68966,11.55758,Abrahamsvoll,2.725.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+60.7733,10.8065,Kise,2.727.0,"Nedbør , Lufttemperatur , Grunnvannsnivå - dyp under bakken","0 , 17 , 5130"
+62.67888,11.46087,Glåmos,2.728.1,Grunnvannsnivå - dyp under bakken,5130
+61.42501,8.71981,Leirungsåi 1270 m o.h.,2.74.0,Vanntemperatur,1003
+61.07858,11.36655,Glåma ovf. Åsta,2.75.0,Vanntemperatur,1003
+61.80484,8.94811,Tessevatn,2.79.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.74735,10.54771,Skumsjøen,2.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24696,11.74568,Osen,2.82.0,Vannstand,1000
+60.23643,11.67359,Tegnstrømmen,2.946.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.17393,11.56188,Bjertnes,2.947.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.98414,10.78566,Næren,2.952.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.94133,11.01252,Tysla ovf. Unnsetåi,2.967.0,Vanntemperatur,1003
+62.00215,7.6376,Måråe ovf. elv fra Breidalsvatnet,2.995.0,Vanntemperatur,1003
+62.00568,7.64611,Otta ovf. Grotlivatnet,2.996.0,Vanntemperatur,1003
+62.00726,7.74576,Otta v/Stuttgongen,2.997.0,Vanntemperatur,1003
+59.0806,11.00286,Hvaler rør 3,2.998.3,Grunnvannsnivå - dyp under bakken,5130
+58.67219,8.05166,Eptevatn,20.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.38541,8.24237,Tveitdalen,20.11.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.83963,8.10052,Austenå,20.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.63741,7.96678,Høvringen,20.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.53584,8.33562,Hanefoss,20.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.53956,8.16374,Ljosevatn,20.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.60358,8.19601,Koldstrømmen,20.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.34397,8.23156,Tovdalselva ovf. Flaksvatnet,20.29.0,Vanntemperatur,1003
+58.33046,8.20306,Flakksvann,20.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.29887,8.24018,Birkenes rør 4,20.34.4,Grunnvannsnivå - dyp under bakken,5130
+58.59211,7.96987,Vikstølvatn,20.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.98093,19.10412,Skogsfjordvatn,200.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.73168,19.86212,Jægervatn,203.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.38084,19.64603,Ellenelva,203.6.0,Vannstand,1000
+69.59671,19.90315,Forneselva,203.7.0,"Vannstand , Vannføring","1000 , 1001"
+69.48716,19.62232,Skogneselva,203.8.0,"Vannstand , Vannføring","1000 , 1001"
+69.22834,19.85595,Mortendalselv,204.15.0,"Vannstand , Vannføring","1000 , 1001"
+69.29086,19.90823,Kjeledalselva,204.16.0,"Vannstand , Vannføring","1000 , 1001"
+69.18997,20.30766,Gåvdajavrre,204.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.29813,19.99208,Bergselv,204.82.0,"Vannstand , Vannføring","1000 , 1001"
+69.36507,20.27375,Skibotn bru,205.3.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+69.17903,20.77847,Didnojokka,205.6.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.22136,20.58059,Rieppejavre,205.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.23173,20.65709,Helligskogen,205.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.46205,20.54459,Manndalen rør,206.10.1,Grunnvannsnivå - dyp under bakken,5130
+69.47787,20.88023,Holm bru,206.2.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+69.52389,20.52562,Manndalen bru,206.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.52453,20.76567,Trollvikelva,206.31.0,"Vannstand , Vannføring","1000 , 1001"
+69.35099,21.08118,Guolasjavrre,206.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.90022,21.37681,Oksfjordvatn,208.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.52854,21.38166,Svartfossberget,208.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.73335,22.1411,Kvænangselv bru,209.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.78563,21.91785,Lillefossen,209.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.63622,22.18119,Abbujavrre,209.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.67834,22.16108,Lassajavri,209.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.70329,22.07306,Småvatna,209.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.59179,22.37341,Soikkajavrre,209.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.7329,22.08816,Kvænangen rør 1,209.9.1,Grunnvannsnivå - dyp under bakken,5130
+59.38934,7.21675,Skarjesvatn,21.114.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.61937,7.42698,Breidvatn,21.127.0,"Lufttemperatur , Snødybde , Snøens vannekvivalent","17 , 2002 , 2003"
+59.04158,7.5617,Hekni min.vf.,21.15.0,"Vannstand , Vannføring","1000 , 1001"
+59.56408,7.23323,Førresvatn,21.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.52536,7.36432,Hartevatn,21.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.66691,7.79436,Byglandsfjord,21.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.45669,7.36168,Vatndalsvatn,21.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.34626,7.29525,Bossvatn,21.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.75312,7.89249,Longerakvatn,21.33.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.41114,7.76974,Kilefjord,21.34.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+59.61982,7.42589,Breidvatn-Sesvatn,21.35.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.7054,7.6817,Gyvatn,21.36.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.9547,7.7852,Hovatn,21.37.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.50657,7.16644,Ormsavatn,21.39.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.45578,7.1639,Store Urdarvatn,21.40.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.45785,7.1832,Lisle Urdarvatn,21.41.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.62793,7.17402,Skyvatn,21.42.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.41891,7.18761,Reinevatn,21.46.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.60883,7.41962,Lislefjødd,21.47.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.92223,7.73869,Åraksfjorden,21.48.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.14983,8.05205,Sømskleiva,21.49.0,"Nedbør , Vannstand , Vannføring , Lufttemperatur","0 , 1000 , 1001 , 17"
+59.59145,7.3925,Lundane,21.52.0,"Vannstand , Vannføring","1000 , 1001"
+59.57207,7.37528,Børtemannsbekk,21.53.0,"Vannstand , Vannføring","1000 , 1001"
+59.52445,7.36348,Hartevatn,21.54.0,Vannføring,1001
+59.3014,6.9316,"Storvatn, Blåsjø",21.56.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.98043,7.66598,Hovatn kraftstasjon,21.62.0,Vanntemperatur,1003
+58.63958,7.80774,Syrtveit,21.69.0,Vanntemperatur,1003
+59.12343,7.51456,Otra ovf. Brokke kraftstasjon,21.75.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.06795,7.57321,Otra v/Straume bru,21.76.0,Vanntemperatur,1003
+59.2879,7.37566,Otra ovf. Ljosåi,21.77.0,Vanntemperatur,1003
+58.20734,7.92995,Otra v/Mosby,21.79.0,Vanntemperatur,1003
+58.5091,7.75828,Evje rør 1,21.80.1,Grunnvannsnivå - dyp under bakken,5130
+59.57063,7.469,Lislefjødåi rør 3,21.81.3,Grunnvannsnivå - dyp under bakken,5130
+70.13097,21.84747,Langfjordhamn,211.1.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+70.12659,21.84753,Andrevatn,211.2.0,Magasinvolum,1004
+70.11531,21.83619,Tredjevatn,211.3.0,"Vanntemperatur , Magasinvolum , Lufttemperatur","1003 , 1004 , 17"
+70.12253,21.72234,Langfjord met,211.7.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 14 , 15 , 17 , 2"
+70.11979,22.77137,Kåvvatn,211.8.0,Magasinvolum,1004
+69.42004,23.63504,Masi,212.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.8263,23.51681,Kista,212.11.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.56128,23.72192,Ladnetjavre,212.18.0,Vannstand,1000
+68.75489,23.53775,Siccajavvre,212.23.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+68.95555,23.08893,Suohpatjohka,212.26.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.79906,23.24105,Eibyelva v/Hammeren,212.27.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.71852,23.80764,Alta Kraftverk,212.44.0,Vannføring,1001
+69.70482,23.81839,Alta Dam,212.47.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.9555,23.40874,Sagafoss,212.48.0,"Vannføring , Vanntemperatur , Lufttemperatur","1001 , 1003 , 17"
+70.02644,22.94164,Halsnes,212.49.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Sekundær vannstand","1000 , 1001 , 1003 , 17 , 9104"
+70.02724,22.9452,Halselva ndf. Storvatnet,212.62.0,Vanntemperatur,1003
+69.87308,23.2936,Altaelva v/øvre Stengelse,212.63.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+69.56074,23.72237,Kautokeinoelva v/Virdneguoika,212.65.0,Vanntemperatur,1003
+69.74733,23.75739,Altaelva v/Savco,212.66.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+69.78092,23.6742,Altaelva v/Gabo,212.67.0,Vanntemperatur,1003
+69.8317,23.48494,Altaelva v/Gargia,212.68.0,Vanntemperatur,1003
+69.07024,22.88767,Cabardasjokka ndf. Stuorajavri,212.69.0,Vanntemperatur,1003
+69.19322,23.57475,Kautokeinoelva v/Gjevdneguoika,212.74.0,Vanntemperatur,1003
+69.72,23.78294,Alta kraftstasjon,212.77.0,Vanntemperatur,1003
+69.88995,23.22064,Eibyelva v/Eiby,212.80.0,Vanntemperatur,1003
+69.72089,23.77969,Altaelva ovf. Joatkajåkka,212.98.0,Vanntemperatur,1003
+70.44482,24.33264,Repparfjordelva v/Oldernes,213.18.0,Vannstand,1000
+70.10667,23.55344,Leirbotnvatn,213.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+70.48684,23.95331,Kvalsund,213.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+70.12818,23.6169,Øvre Leirbotn,213.7.0,"Lufttemperatur , Snøens vannekvivalent","17 , 2003"
+58.57334,7.30234,Nåvatn,22.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.44589,7.58499,Myglevatn ndf.,22.16.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.71774,7.32035,Stegilvatn,22.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.79253,7.31501,Kvernevatn,22.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.81184,7.36774,Langevatn,22.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.55455,7.37801,Ørevassoset,22.2.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+58.49812,7.42681,Håverstad,22.20.0,Vannføring,1001
+58.80135,7.54825,Gjuvvatnet,22.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.09098,7.83511,Søgne,22.22.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.74355,7.51406,Lognavatn,22.24.0,Vannstand,1000
+58.12114,7.52764,Mandalselva v/Kjølemo,22.25.0,Vanntemperatur,1003
+58.43335,7.5326,Kosåna ovf. Mandalselva,22.29.0,Vanntemperatur,1003
+58.23863,7.5117,Mandalselva v/Laudal kraftstasjon,22.32.0,Vanntemperatur,1003
+58.50504,7.42029,Håverstad kraftstasjon,22.33.0,Vanntemperatur,1003
+58.12024,7.52813,Kjølemo,22.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.63576,7.44062,Logna v/Torsland bru,22.56.0,Vanntemperatur,1003
+58.57491,7.35354,Nedre Skjerkevatn,22.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.72753,7.20815,Storevatn,22.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.55497,7.37541,Skjerka kraftverk,22.9.0,Vannføring,1001
+71.08372,25.41619,Magerøy,221.1.0,"Vanntemperatur , Magasinvolum , Lufttemperatur","1003 , 1004 , 17"
+70.13985,24.76063,Lombola,223.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.83699,25.08542,Skoganvarre,224.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.83223,25.18205,Gaggavatn,224.2.0,Magasinvolum,1004
+69.83644,25.09197,Lakselva ovf. Øvrevatnet,224.3.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+70.03685,24.98272,Lakselv rør 1,224.5.1,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+70.03708,24.98372,Lakselv  rør 2,224.5.2,Grunnvannsnivå - dyp under bakken,5130
+69.98687,24.94475,Lakselva v/Stuenes,224.6.0,Vanntemperatur,1003
+70.37533,26.78625,Store Måsevatn,229.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+70.27235,26.86728,Offervatn/Krokvatn,229.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.29763,7.27461,Sundsvatn,23.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.22066,7.32517,Aklandstjønn,23.13.0,Vannstand,1000
+58.38093,7.37244,Audna ndf. Øvre Øydnavatnet,23.14.0,Vanntemperatur,1003
+58.12606,7.33993,Audna v/Melhusfossen,23.15.0,Vanntemperatur,1003
+58.2221,7.33617,Tryland kraftstasjon,23.16.0,Vanntemperatur,1003
+58.04715,7.12228,Lindesnes rør 1,23.17.1,Grunnvannsnivå - dyp under bakken,5130
+58.04637,7.12403,Lindesnes rør 3,23.17.3,Grunnvannsnivå - dyp under bakken,5130
+58.04408,7.12432,Lindesnes rør 4,23.17.4,Grunnvannsnivå - dyp under bakken,5130
+58.23631,7.29036,Færåsen,23.2.0,Magasinvolum,1004
+58.21746,7.29212,Lelandsvatn,23.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.22766,7.31121,Brådlandsvatn,23.4.0,"Vannstand , Vannføring","1000 , 1001"
+58.14439,7.36667,Gaupefossen,23.8.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+70.87923,27.50949,Nordmannset,230.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.46924,25.51074,Karasjok,234.10.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+69.42639,24.93834,"Veahkkava, Iesjokka",234.13.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.39003,24.47423,Cærrogæsjokka,234.14.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+70.07034,28.01601,Polmak nye,234.18.0,"Vannstand , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1000 , 1001 , 1003 , 17"
+70.07205,28.05574,Tana ovf. Polmakelva,234.19.0,Vanntemperatur,1003
+69.40799,25.14782,Karasjokka ovf. Iesjokka,234.21.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+69.40076,25.81504,Karasjok rør 1,234.26.1,Grunnvannsnivå - dyp under bakken,5130
+69.40069,25.81499,Karasjok rør 2,234.26.2,Grunnvannsnivå - dyp under bakken,5130
+69.40086,25.8144,Karasjok rør 4,234.26.4,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+70.3755,28.24937,Grønnbakken rør 1,234.29.1,Grunnvannsnivå - dyp under bakken,5130
+70.48325,28.02565,Torhop brønn 1,234.30.1,Grunnvannsnivå - dyp under bakken,5130
+70.07063,27.78257,Tana ndf. Storfossen,234.33.0,Vanntemperatur,1003
+70.60491,29.10175,Kongselva ndf. Buevasselva,236.6.0,Vanntemperatur,1003
+70.60044,29.08846,Kongselva ovf. Buevasselva,236.7.0,Vanntemperatur,1003
+70.60526,29.10168,Kongsfjordelv,236.8.0,"Vannstand , Vannføring","1000 , 1001"
+70.56361,29.71188,Båtsfjord,237.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.3905,7.23329,Lygna ndf. Lygne,24.5.0,Vanntemperatur,1003
+58.16056,7.06623,Møska (Skolandsvatnet),24.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.40114,7.22335,Tingvatn (Lygne),24.9.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+70.13451,29.31296,Vestre Jakobselv,240.3.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+69.70071,29.32131,Neiden,244.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.69339,29.36887,Neidenelva v/Neiden,244.3.0,Vanntemperatur,1003
+69.91006,28.83404,Kjerringvatn,244.5.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+69.37351,29.69533,Pasvikelva v/Skogfoss kraftstasjon,246.11.0,Vanntemperatur,1003
+69.4517,30.04064,Svanhovd,246.14.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+68.90236,28.44287,Enare,246.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+69.40015,29.71704,Sametielv,246.9.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+69.65991,30.38412,Karpelva,247.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.37122,6.82728,Kumlevollvatn,25.13.0,Vannstand,1000
+59.04226,7.14069,Roskrepfjord,25.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.77853,7.01468,Nesjen,25.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.69819,6.93296,Homstølvatn,25.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.15918,7.21481,Gjuvvatn,25.24.0,"Vannstand , Vannføring","1000 , 1001"
+58.97333,7.12614,Øyarvatn,25.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.6695,6.97318,Knabåni,25.32.0,"Vannstand , Vannføring","1000 , 1001"
+58.36419,6.95808,Kvina v/Rafossen,25.35.0,Vanntemperatur,1003
+58.32257,6.975,Krågehølen,25.51.0,"Vannstand , Vannføring","1000 , 1001"
+58.27429,6.82228,Refsti,25.7.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+58.47954,6.55557,Stølsvatn,26.1.0,Vannstand,1000
+58.46327,6.24118,Heigravatnet,26.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.47151,6.55548,Stemmevatn,26.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.40684,6.26754,Eiavatn,26.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.86607,6.81303,Tjørhom,26.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.47401,6.57225,Gilevatn,26.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.54367,6.49791,Årdal,26.20.0,"Vannstand , Vannføring","1000 , 1001"
+58.48967,6.77313,Sandvatn,26.21.0,"Vannstand , Vannføring","1000 , 1001"
+58.93415,6.79225,Deg,26.22.0,"Vannstand , Vannføring","1000 , 1001"
+58.88609,6.77858,Gravatn,26.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.83733,6.81723,Ousdalsvatn,26.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.95766,6.93807,Jogla,26.26.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.13289,6.89458,Svartevatn,26.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.35038,6.34421,Refsvatn,26.29.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.29374,6.45065,Åna-Sira kraftverk,26.31.0,Vannføring,1001
+58.47082,6.56616,Skårstemvatn,26.33.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.72117,6.62415,Kulivatn2,26.34.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.672,6.63784,Nespervatn,26.35.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.71139,6.65072,Furevatn,26.36.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.66219,6.61695,Bjørnestadvatn,26.37.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.63972,6.66587,Lindvatn,26.38.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.66038,6.71536,Sirdalsvatn,26.43.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.30065,6.47886,Lundevatn,26.44.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.65884,6.71718,Tonstad kraftstasjon,26.46.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+58.42675,6.66372,Sira ndf. Sirdalsvatnet,26.47.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+58.66608,6.71021,Sira ovf. Sirdalsvatnet,26.51.0,Vanntemperatur,1003
+58.34438,6.31284,Mydlandselva,26.52.0,Vanntemperatur,1003
+58.34397,6.31458,Sokndalselva ovf. Mydlandselva,26.53.0,Vanntemperatur,1003
+58.37135,6.25035,Rekedalselv,26.64.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.34188,6.29357,Sokndalselva,26.92.0,"Vannstand , Vannføring","1000 , 1001"
+58.78497,6.41472,Store Myrvatn,27.10.0,Magasinvolum,1004
+58.77243,6.39402,Myrtjern,27.11.0,Magasinvolum,1004
+58.68172,6.23135,Austrumdal (Austrumdalsvatnet),27.15.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+58.68554,6.49427,Bjordal,27.16.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.57667,6.29161,Gyavatn,27.18.0,Magasinvolum,1004
+58.55184,6.24367,Teksevatn,27.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.60003,6.36139,Gya,27.20.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+58.56543,6.37761,Botnavatn,27.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.53801,6.37708,Urdalsvatn,27.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.5336,6.14931,Helleland,27.24.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+58.57358,6.06604,Gjedlakleiv,27.25.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+58.52592,5.8454,Ogna v/Hetland,27.26.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+58.53362,6.14924,Gyaåni v/Helleland,27.28.0,Vanntemperatur,1003
+58.5836,6.07469,Bjerkreimselvi v/Bjerkreim,27.29.0,Vanntemperatur,1003
+58.46788,6.12225,Revsvatnet,27.32.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.45294,6.14425,Nodlandsvatnet,27.33.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.4294,6.13202,Liavatnet,27.34.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.42171,6.11871,Kydlandsvatnet,27.35.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.40982,6.10148,Smievatnet,27.37.0,Vannstand,1000
+58.3801,6.16932,Spjodevatnet,27.38.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.52987,5.83645,Holmavatn,27.4.0,Magasinvolum,1004
+58.48689,6.05739,Øygreisvatnet,27.40.0,Vannstand,1000
+58.48768,6.03369,Slevelandsåna,27.42.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+58.60068,5.8814,Hagavatn ovf.,27.5.0,Vannstand,1000
+58.69744,6.1986,Byrkjelandsvatnet utløp,27.52.0,"Vannstand , Vannstand , Vannføring , Vanntemperatur","1000 , 1000 , 1001 , 1003"
+58.73448,5.7263,Lye 2,28.11.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+58.80046,5.6586,Figgjo ndf. Øksna bruk,28.12.0,Vanntemperatur,1003
+58.76061,5.65079,Særheim,28.13.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Markfuktighet , Grunnvannsnivå - dyp under bakken","0 , 14 , 15 , 17 , 2 , 2001 , 5130"
+58.73663,5.52241,Jæren rør 2,28.14.2,Grunnvannsnivå - dyp under bakken,5130
+58.69291,5.64757,Haugland,28.7.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+58.82153,5.71774,Stokkelandsvatnet,29.10.0,"Vannstand , Vanntemperatur","1000 , 1003"
+58.84572,5.73089,Sandvedparken,29.11.0,"Vannstand , Vanntemperatur","1000 , 1003"
+58.86339,5.76026,Grønt tak Sandnes,29.17.0,"Nedbør , Lufttemperatur , Relativ luftfuktighet , Markfuktighet , Markfuktighet , Markfuktighet , Markfuktighet","0 , 17 , 2 , 2001 , 2001 , 2001 , 2001"
+58.91998,5.85935,Frøylandsvatnet,29.18.0,"Vannstand , Vanntemperatur","1000 , 1003"
+58.83221,5.7402,Høylandsåna,29.19.0,"Vannstand , Vanntemperatur","1000 , 1003"
+58.86615,5.75925,Aspervik,29.4.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+58.88144,5.78683,Gramstaddalen,29.7.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.55161,10.8561,Høgfoss,3.22.0,"Vannstand , Vannføring","1000 , 1001"
+59.43872,10.66828,Moss dam ndf.,3.23.0,"Vannstand , Vannføring","1000 , 1001"
+59.45954,10.76486,Vansjø,3.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+58.9847,6.4705,Vassleia,30.11.0,Magasinvolum,1004
+58.97596,6.52033,Store Hogganvatn,30.12.0,Magasinvolum,1004
+58.84912,6.12412,Ragsvatnet,30.13.0,Magasinvolum,1004
+58.82082,6.0373,Oltedalsvatnet,30.14.0,Magasinvolum,1004
+58.86764,6.5739,Øvstabøstøl,30.8.0,"Vannstand , Vannføring","1000 , 1001"
+68.14698,17.10627,Kobvatn,303.2.0,"Vannstand , Vannføring","1000 , 1001"
+68.11894,17.12783,Langvatn,303.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+68.08569,17.29652,Sitasjaure,303.4.0,Vannstand,1000
+64.93311,13.54626,Vækteren,307.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+64.6945,13.74887,Limingen,307.3.0,Magasinvolum,1004
+64.4867,14.01565,Murusjø,307.5.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+64.88673,13.91636,Landbru,307.7.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+64.24487,13.76031,Lenglingen,308.1.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+59.03612,6.68667,Venekvev,31.10.0,Vanntemperatur,1003
+59.10333,6.61784,Strandvatn,31.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.00466,6.47347,Flørlivatn,31.37.0,Magasinvolum,1004
+59.00646,6.46561,Klubbatjern,31.38.0,Magasinvolum,1004
+59.00787,6.44744,Ternevatnet,31.39.0,Vannstand,1000
+59.04699,6.75861,Andersvatn,31.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.0587,6.60106,Storetjern,31.42.0,Magasinvolum,1004
+59.02819,6.71104,Lille Tjodevatn,31.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.0108,6.66691,Store Tjodevatn,31.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.04566,6.70814,Tjodanpollen,31.7.0,Magasinvolum,1004
+59.01603,6.56116,Låtervikvatnet,31.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.52563,12.08385,Engera ndf. Engeren,311.18.0,Vanntemperatur,1003
+61.06555,12.58236,Lutufallet kraftstasjon,311.21.0,"Vannføring , Vanntemperatur","1001 , 1003"
+61.15801,12.44611,Sagnfossen,311.26.0,"Vannstand , Vanntemperatur","1000 , 1003"
+61.91996,11.94004,Femundsenden (Femunden),311.4.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+62.43552,11.91774,Femund Tømmerrenne,311.459.0,"Vannstand , Vannføring","1000 , 1001"
+61.66488,12.01835,Engeren,311.460.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+61.93481,11.86734,Femundselva ndf. Femunden,311.461.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.75216,11.66545,Femundselva ved Goffatømmerfloen,311.473.0,"Vannstand , Vanntemperatur , Lufttemperatur","1000 , 1003 , 17"
+61.25908,12.3225,Nybergsund,311.6.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.41553,12.50181,Store Røgden,312.2.0,Vannstand,1000
+60.53482,12.56463,Nordre Røgden,312.4.0,Vannstand,1000
+60.51303,12.52801,Mellom Røgden,312.5.0,Vannstand,1000
+60.1209,12.31894,Møkeren,313.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.95464,12.18729,Magnor,313.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.95427,12.17091,Magnor rør 2,313.12.2,Grunnvannsnivå - dyp under bakken,5130
+59.95558,12.17902,Magnor rør 6,313.12.6,Grunnvannsnivå - dyp under bakken,5130
+59.95541,12.17115,Magnor rør 7,313.12.7,Grunnvannsnivå - dyp under bakken,5130
+60.14346,12.41439,Varalden,313.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.20881,12.44896,Øyersjø Søndre,313.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.09624,12.32041,Holmen bru,313.8.0,Vannføring,1001
+59.05116,6.12702,Liarvatn,32.1.0,Magasinvolum,1004
+59.04055,6.13488,Svortingsvatnet,32.2.0,Magasinvolum,1004
+59.04923,6.11823,Liarvatn ndf.,32.6.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.02035,6.05553,Jørpelandsåna v/Jørpeland,32.7.0,Vanntemperatur,1003
+59.14546,6.20999,Årdalselva v/Soppeland,33.12.0,Vanntemperatur,1003
+59.13492,6.2839,Kalltveit i Årdal,33.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.23363,6.61545,Bjørndalsvatn,33.48.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.16397,6.61418,Nilsebuvatn,33.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.08607,6.53524,Lyngsvatn,33.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.14841,6.18817,Leirberget i Årdal,33.8.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.14798,6.60336,Breiavatn,33.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.39759,6.547,Sandsavatn,35.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.40483,6.80196,"Oddatjørn, Blåsjø",35.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.37333,6.74591,"Førrevatn, Blåsjø",35.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.30817,6.61845,Vassbottvatn,35.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.38085,6.66266,Stovedalsvatn,35.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.2809,6.38108,Djupadalsvatn,35.16.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.3299,6.4495,Hauge bru,35.2.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.41438,6.6242,Osali (Botnavatnet),35.9.0,"Vannstand , Vannføring","1000 , 1001"
+59.48906,6.51706,Suldalslågen v/Stråpa,36.105.0,"Vannstand , Vannføring","1000 , 1001"
+59.65318,6.88988,Roalkvamåna,36.120.0,Vannstand,1000
+59.5815,6.53967,Grimsvatn,36.13.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.75317,6.7898,Røldalsvatn,36.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.87525,6.89426,Valldalsvatn,36.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.70013,6.83688,Vasstølvatn,36.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.71919,6.87655,Finnabu,36.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.82898,6.89361,Votna,36.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.74811,6.97791,Indre Grubbedalsvatn,36.19.0,Magasinvolum,1004
+59.76307,6.99984,Djupetjønn,36.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.80922,7.00898,Kaldevatn,36.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.87486,6.95503,V. Middyrsvatn,36.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.88052,6.97255,Ø. Middyrsvatn,36.23.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.88434,7.04738,Nupstjønn,36.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.64835,7.05813,Sandvatn,36.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.72745,7.09268,Isvatn,36.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.67793,7.147,Holmavatn,36.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.74304,6.96932,Midtre Grubbedalsvatn,36.29.0,Magasinvolum,1004
+59.49537,6.68654,Lauvastølsvatn,36.30.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.51197,6.63351,Kvilldal,36.31.0,Vanntemperatur,1003
+59.4884,6.491,Prestvika,36.34.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.4268,6.43115,Mosvatn,36.50.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.49091,6.51726,Suldalsvatn,36.51.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.68122,6.97781,Kvanndalså,36.52.0,"Vannstand , Vannføring","1000 , 1001"
+59.48171,6.25919,Lavika,36.6.0,"Vannstand , Vannføring","1000 , 1001"
+59.49045,6.51592,Suldalslågen v/Suldalsosen,36.60.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.48193,6.26977,Suldalslågen v/Tjelmane bru,36.61.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.55846,6.59858,Hylen kraftstasjon,36.63.0,Vanntemperatur,1003
+59.53156,6.65686,Kvilldal kraftstasjon,36.64.0,Vanntemperatur,1003
+59.95409,6.98207,Middal,36.9.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.68589,6.51884,Storlivatn,37.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.67958,6.54151,Dalvatn,37.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.74502,6.53403,Nedre Berdalsvatn,37.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.77613,6.58875,Øvre Berdalsvatn,37.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.71061,6.49211,Slettedalsvatn,37.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.7006,6.4161,Fetavatn,37.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.74514,6.40052,Helgedalsvatn,37.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.68567,6.57926,Finnflotvatn,37.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.69523,6.56169,Førstavatn,37.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.7315,6.62933,Svartavatn,37.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.72247,6.56497,Breiborgvatn,37.27.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.77174,6.66477,Nedre Sandvatn,37.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.80154,6.67784,Øvre Sandvatn,37.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.70218,6.59375,Holmavatn,37.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.49883,5.91306,Holmen,38.1.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.49868,5.91231,Vikedalselva utløp,38.2.0,Vanntemperatur,1003
+59.32949,5.44324,Tysvær,39.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.47989,5.30568,Kallandsvatnet,39.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+78.93443,11.83747,Bayelva,400.1.0,"Vannstand , Vannstand , Vannføring , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1000 , 1001 , 1001 , 1003 , 17"
+78.92195,11.93174,Ny-Ålesund,400.13.0,"Lufttemperatur , Grunnvannsnivå - dyp under bakken","17 , 5130"
+78.22833,15.3945,Platåfjellet,400.17.0,"Snøens vannekvivalent , Snøens vannekvivalent","2003 , 2003"
+78.06694,13.77737,Linnèvatnet,400.18.0,"Vannstand , Vindretning , Vindhastighet , Lufttemperatur , Snødybde , Spenning, solstrømanlegg","1000 , 14 , 15 , 17 , 2002 , 9100"
+78.96813,12.059,Londonelva,400.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+78.33517,16.28649,De Geerdalen,400.5.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+78.19978,15.81631,Endalselva,400.7.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+78.91611,11.87604,Tvillingvatnet bunn,400.8.0,Vanntemperatur,1003
+59.68285,6.01001,Stordalsvatn,41.1.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+59.65852,6.09528,Hardeland kraftstasjon,41.12.0,Vanntemperatur,1003
+59.66017,6.11767,Løkelsvatn,41.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.66208,6.08188,Hardelandsvatn,41.34.0,Vannstand,1000
+59.63773,6.1043,Grindheimsvatn,41.36.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.63485,6.08696,Bassurvatn-Krokavatn,41.37.0,Magasinvolum,1004
+59.61716,6.07317,Ilsvatn,41.38.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.65193,5.99836,Rygg,41.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.72001,6.18786,Hellaugvatn,41.8.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.68294,6.01089,Stordalsvatnet utløp,41.9.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+59.86787,6.04344,Fjellhaugvatn,42.1.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+59.86963,6.0817,Staffivatn,42.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.91592,6.18589,Midtbotnvatn,42.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.85848,6.06271,Fjellhaugen,42.16.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.93682,6.31225,Inste Botnane,42.18.0,"Vannstand , Vannføring","1000 , 1001"
+59.81744,5.84441,Djupevad,42.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.84595,5.98338,Blåfalli Vik kraftstasjon,42.23.0,Vanntemperatur,1003
+59.90461,6.16091,Blådalsvatn,42.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.93039,6.21152,Møsevatn,42.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.96464,6.00008,Seimsfoss i Guddalselv,45.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.19557,6.32709,Langavatn,46.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.14351,6.41959,Blådalsvatn,46.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.17505,6.37925,Svartadalsvatn,46.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.12798,6.36138,Mysevatn,46.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.2041,6.34895,Juklavatn,46.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.06633,6.30755,Bondhusbrea sedimentkammer,46.19.0,"Vannstand , Vannføring , Vindretning , Vindhastighet","1000 , 1001 , 14 , 15"
+60.12863,6.31932,Mauranger kraftstasjon,46.28.0,Vanntemperatur,1003
+60.1147,6.26832,Bondhus,46.4.0,Vanntemperatur,1003
+60.06708,6.28302,Fønnerdalsvatn,46.9.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.24873,6.42577,Dravladalsvatn,47.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.23038,6.4525,Jukladalsvatn,47.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.31375,6.49037,Kvanngrøvatn,47.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.0139,6.54692,Sandvenvatn,48.1.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+59.83644,6.5951,Dyrskardvatna,48.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.96939,6.72526,Reinsnosvatn,48.5.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.85686,6.57794,Steinavatn,48.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.06023,6.55189,Opo v/Odda,48.8.0,Vanntemperatur,1003
+60.12184,6.55631,Oksla,49.1.0,Vannføring,1001
+60.1044,6.91475,Håvardsvatn,49.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.12863,6.63323,Ringedalsvatn,49.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.16796,6.85935,Øvre Tyssevatn,49.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.21938,6.68538,Vendevatn,49.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.17608,6.6749,Øvre Bersåvatn,49.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.0981,6.80317,Nibbehølen,49.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.07298,6.8736,Breidavatn,49.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.09148,6.76989,Langevatn,49.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.7807,10.78743,Gjersjøen,5.1.0,Vannstand,1000
+59.66996,10.76962,NMBU/Ås - Grønt tak,5.10.0,"Nedbør , Vannstand , Vannstand , Vannstand , Vannstand , Vannstand , Vannstand , Vannstand , Vannstand , Vannføring , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Overflatetemperatur , Overflatetemperatur , Vekt , Vekt , Vekt , Kortbølget stråling , Kortbølget stråling , Langbølget stråling , Langbølget stråling , Generell parameter , Generell parameter , Generell parameter , Volum , Volum , Volum","0 , 1000 , 1000 , 1000 , 1000 , 1000 , 1000 , 1000 , 1000 , 1001 , 14 , 15 , 17 , 2 , 2040 , 2040 , 4050 , 4050 , 4050 , 8 , 8 , 9 , 9 , 9153 , 9153 , 9153 , 9156 , 9156 , 9156"
+59.67047,10.81043,Rustadskogen,5.17.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+59.80639,10.80514,Skredderstubekken,5.19.0,"Vannstand , Vannføring , Vanntemperatur , Ledningsevne , Turbiditet (Nepheometrisk) , Ammon Nitrogen , Nitrat Nitrogen","1000 , 1001 , 1003 , 1006 , 1215 , 8291 , 8292"
+59.76522,10.80416,Greverudbekken,5.20.0,"Vannstand , Vannføring , Vanntemperatur , Ledningsevne , Turbiditet (Nepheometrisk) , Ammon Nitrogen , Nitrat Nitrogen , Sekundær vannstand","1000 , 1001 , 1003 , 1006 , 1215 , 8291 , 8292 , 9104"
+59.81041,10.77437,Gjersjøen ndf.,5.3.0,"Vannføring , Vanntemperatur","1001 , 1003"
+59.76175,10.80884,Tussebekken,5.5.0,"Vannstand , Vannstand , Vannføring , Vannføring , Vanntemperatur , Ledningsevne , Turbiditet (Nepheometrisk) , Ammon Nitrogen , Nitrat Nitrogen , Sekundær vannstand","1000 , 1000 , 1001 , 1001 , 1003 , 1006 , 1215 , 8291 , 8292 , 9104"
+59.66443,10.76187,NLH/ÅS,5.7.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Markfuktighet , Markfuktighet , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken","0 , 14 , 15 , 17 , 2 , 2001 , 2001 , 5130 , 5130"
+59.82772,10.7671,Gjersjøelva v/Oppegård båthavn,5.9.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.35738,6.74625,Hølen,50.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.40858,7.39555,Sysenvatn,50.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.52092,7.25881,Rembesdalsvatn,50.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.44957,7.09805,Eidfjordvatn,50.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.46453,7.07631,Eio utløp,50.39.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.4122,7.12253,Veig ovf. Eidfjordvatnet,50.40.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.44272,7.28265,Isdalsvatn,50.60.0,Vanntemperatur,1003
+60.61152,7.17776,Rundavatn,51.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.56663,7.11951,Langvatn,51.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.64098,7.07403,Skruelsvatn,51.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.44891,6.37175,Bjølsegrøvatn,52.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.46932,6.27002,Nedre Godalsvatn,52.3.0,Magasinvolum,1004
+60.0156,5.37427,Stemno,54.2.0,Vanntemperatur,1003
+60.49308,5.9566,Øvre Dukavatn,55.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.4556,5.88699,Kvitingsvatn,55.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.42892,5.84445,Grønsdalsvatn,55.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.2475,5.43979,Oselva v/Røykenes,55.18.0,Vanntemperatur,1003
+60.48243,5.93302,Nedre Dukavatn,55.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.39806,5.79815,Storelvi i Samnanger,55.23.0,"Vannstand , Vannføring","1000 , 1001"
+60.28752,5.77484,Botnavatn,55.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.24881,5.4419,Røykenes,55.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.34901,5.51994,Dyrdalsvatn,55.5.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.24411,5.76369,Eikelandsosen,55.7.0,Vanntemperatur,1003
+60.45758,5.95628,Svartavatn,55.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.29129,5.27762,Sandsli,56.1.0,"Nedbør , Vannstand , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 1000 , 1001 , 1003 , 17 , 2"
+60.2938,5.2761,Sandslimarka Rør 2,56.10.0,"Grunnvannsnivå , Grunnvanntemperatur","2000 , 2015"
+60.29684,5.27513,Sandslimarka Rør 4,56.11.0,"Grunnvannsnivå , Grunnvanntemperatur","2000 , 2015"
+60.29105,5.28234,Håvardstun,56.2.0,Lufttemperatur,17
+60.26075,5.34906,Fana rør 2,56.3.2,Grunnvannsnivå - dyp under bakken,5130
+60.39134,5.32293,"Bergen, Torgalmenninga",56.5.0,Vannføring,1001
+60.38575,5.33495,Grønt tak Bergen,56.9.0,"Nedbør , Lufttemperatur , Relativ luftfuktighet , Markfuktighet , Markfuktighet , Markfuktighet , Markfuktighet , Markfuktighet","0 , 17 , 2 , 2001 , 2001 , 2001 , 2001 , 2001"
+59.98723,10.80066,Gryta,6.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+59.98774,10.80201,Gryta rør 3,6.10.3,Grunnvannsnivå - dyp under bakken,5130
+59.96828,10.91857,Vestli,6.12.0,"Nedbør , Nedbør , Vannstand , Vannføring , Vannhastighet , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","0 , 0 , 1000 , 1001 , 1002 , 1003 , 17 , 2"
+59.90532,10.73723,Festningen,6.19.0,Nedbør,0
+59.94102,10.7203,Blindern,6.20.0,Nedbør,0
+60.10672,10.68394,"Hakkloa, 0.5 km sør for Ø. Hakloa gård",6.24.4,"Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","14 , 15 , 17 , 2"
+59.91945,10.75348,Akerselva v/Elvebakken,6.38.0,"Vannstand , Vannføring","1000 , 1001"
+59.84202,10.77776,Ljanselva,6.43.0,Vannføring,1001
+59.90515,10.86806,Østmarka rør 1,6.67.1,Grunnvannsnivå - dyp under bakken,5130
+60.17265,10.49514,Sinnerdammen,6.71.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.96691,10.74664,Langmyrgrenda,6.74.0,"Nedbør , Lufttemperatur , Markfuktighet","0 , 17 , 2001"
+59.9533,10.74053,Nils Bays vei,6.75.0,"Vannstand , Lufttemperatur","1000 , 17"
+59.90471,10.79156,Alna v/Kvernerbyen,6.78.0,"Vannstand , Vannføring","1000 , 1001"
+59.94299,10.82019,Knuts forsøksfelt,6.80.0,"Lufttemperatur , Relativ luftfuktighet , Markfuktighet , Instrumenttemperatur , Instrumenttemperatur , Instrumenttemperatur , Instrumenttemperatur , Instrumenttemperatur , Instrumenttemperatur","17 , 2 , 2001 , 9155 , 9155 , 9155 , 9155 , 9155 , 9155"
+59.9236,10.69816,Frognerbekken ndf Frognerparken,6.82.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+59.96883,10.7876,"Akerselva, ndf. Maridalsvatn",6.9.0,"Vannstand , Vannføring","1000 , 1001"
+59.92161,10.69278,Frognerbekken v/Kulvert Skøyen,6.95.0,"Vannstand , Vannføring","1000 , 1001"
+59.91908,10.75247,Vega Scene - Grønt tak,6.96.0,"Vannstand , Vannstand , Vannstand , Vannstand , Vannføring , Vindhastighet , Jordtemperatur , Jordtemperatur , Jordtemperatur , Jordtemperatur , Jordtemperatur , Jordtemperatur , Generell parameter , Generell parameter , Generell parameter , Generell parameter , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata , Nedbør rådata","1000 , 1000 , 1000 , 1000 , 1001 , 15 , 2006 , 2006 , 2006 , 2006 , 2006 , 2006 , 9153 , 9153 , 9153 , 9153 , 9301 , 9301 , 9301 , 9301 , 9301 , 9301 , 9301 , 9301 , 9301 , 9301"
+59.93362,10.81445,Hovinbekken v/Nordalveien 28,6.97.0,"Vannstand , Vannstand , Vannstand , Vannføring , Vannhastighet , Vannhastighet","1000 , 1000 , 1000 , 1001 , 1002 , 1002"
+60.57118,5.58225,Storevatn,60.2.0,Vannstand,1000
+60.57618,5.56711,Løtveitvatn,60.3.0,Vannstand,1000
+60.56136,5.68882,Botnavatn,60.4.0,Vannstand,1000
+60.52282,6.08141,Hamlagrøvatn,61.1.0,Magasinvolum,1004
+60.57892,5.86087,Storefoss,61.10.0,"Vannstand , Vannføring","1000 , 1001"
+60.5028,5.36054,Haukåselva,61.13.0,"Vannstand , Vannføring , Vanntemperatur , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 1003 , 17"
+60.58373,5.81439,Dale II kraftverk,61.14.0,Vannføring,1001
+60.56049,6.04126,Kaldåen,61.8.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.73873,6.30955,Piksvatn,62.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.79921,6.50157,Myrkdalsvatn,62.10.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+60.74722,6.28497,Volavatn,62.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.64728,6.10787,Merkesgrovi ved Evanger,62.114.0,"Nedbør , Vannhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 1002 , 17 , 2"
+60.64666,6.00236,Evangervatn,62.115.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.67008,6.45689,Strandaelvi/Lønavatn/Vosso,62.116.0,"Vannstand , Vanntemperatur","1000 , 1003"
+60.69053,6.948,Slondalsvatn,62.14.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.63039,6.49937,Kinne,62.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.67532,6.097,Mestad,62.17.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+60.65359,5.9,Svartavatn,62.18.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.64897,6.1154,Evanger Kraftverk,62.19.0,Vannføring,1001
+60.67757,6.45523,Voss v/Saue,62.22.0,"Vannstand , Grunnvannsnivå - dyp under bakken","1000 , 5130"
+60.65163,6.09629,Evanger kraftstasjon,62.29.0,Vanntemperatur,1003
+60.64793,6.11218,Vosso ovf. Evangervatnet,62.30.0,Vanntemperatur,1003
+60.63475,6.43527,Strondaelvi ovf. Raundalselvi,62.33.0,Vanntemperatur,1003
+60.63072,6.43605,Raundalselvi ovf. Strondaelvi,62.34.0,Vanntemperatur,1003
+60.64643,5.98196,Bolstadelvi,62.35.0,Vanntemperatur,1003
+60.86551,6.47327,Vetlebotn,62.42.0,"Vindretning , Vindhastighet , Vindhastighet , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Snødybde , Snøens vannekvivalent","14 , 15 , 15 , 15 , 17 , 2 , 2002 , 2003"
+60.62868,6.29254,Bulken (Vangsvatnet),62.5.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+60.56401,6.24378,Torfinnvatn,62.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.79716,6.05462,Fjellanger,63.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.85815,6.21846,Kvanndalvatn,63.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.84089,6.31937,Grøndalsvatn,63.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.89353,6.149,Skjerjevatn,63.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.87435,6.17651,Askjellsdalsvatn,63.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.83203,5.8876,Moelvi v/Hellandsfossen,64.11.0,Vanntemperatur,1003
+60.8323,5.8829,Hellandsfoss kraftverk,64.23.0,Vannføring,1001
+60.943,6.15196,Holskardvatn,64.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.96699,6.05555,Stølsvatn,64.4.0,Magasinvolum,1004
+60.98349,6.11228,Solrenningsvatn (Vøvringevatnet),64.6.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+60.91618,6.07409,Kvanngrøvatn,64.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.95387,5.59437,Holmevatn,67.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.88938,5.71144,Meinsemdevatn,67.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.93536,5.60882,Nordgjilsvatn,67.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.93365,5.66625,Nedre Mosedalsvatn,67.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.86726,5.74412,Storavatn,67.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.87885,5.7964,Svartavatn,67.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.88335,5.83467,Skjerjavatn,67.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.92144,5.84935,Smalavatn,67.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.85315,5.64517,Gobotvatn,67.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.97991,5.64753,Kvanngrøvatn,67.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.9051,5.82329,Hjortevatn,67.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.95078,5.68663,Stordalsvatn,67.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.9776,5.71804,Krokevatn,67.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.96436,5.80259,Store Fjellvatn,67.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.00558,5.19313,Havelandselv,68.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.00426,5.78006,Fridalsvatn,69.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.02005,5.82059,Årsdalsvatn,69.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.03881,5.78767,Tverrvatn,69.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.03136,5.71156,Stølsvatn,69.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.9146,10.63691,Lysakerelva v/Lysaker Mølle,7.29.0,"Vannstand , Vannføring , Ledningsevne","1000 , 1001 , 1006"
+59.91903,10.66387,Mærradalsbekken/Bestumstubben,7.30.0,"Vannstand , Vannføring , Ledningsevne","1000 , 1001 , 1006"
+59.92414,10.67799,Hoffselva/Nedre Skøyenv.10A,7.31.0,"Vannstand , Vannføring , Ledningsevne","1000 , 1001 , 1006"
+60.97071,6.5561,Årbotnvatn,70.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.95381,6.46781,Skjellingavatn,70.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.94556,6.36597,Kvilesteinsvatn,70.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.9896,6.50842,Målsetvatn,70.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.97219,6.50218,Hestavollen,70.17.0,"Vindretning , Vindhastighet , Lufttemperatur","14 , 15 , 17"
+60.98928,6.58981,Muravatn,70.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.05337,6.53613,Tistel,70.7.0,"Vannstand , Vannføring","1000 , 1001"
+60.85894,6.793,Skjerping,71.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+60.71593,7.53237,Storevargevatn,72.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.81551,7.65192,Nyhellervatn,72.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.79845,7.56535,Vetlebotnvatn,72.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.82643,7.27166,Viddalsvatn,72.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.74418,7.57053,Vestredalstjørn,72.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.7338,7.52422,Svartavatn,72.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.74041,7.47256,Nedre Mellomvatn,72.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.7751,7.40572,Adamsvatn,72.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.78468,7.30789,Kreklevotni,72.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.86549,7.3073,Aurland I kraftstasjon,72.23.0,Vanntemperatur,1003
+60.88361,7.23862,Aurlandselvi v/Skjærshølen,72.24.0,Vanntemperatur,1003
+60.8741,7.32935,Aurlandselvi ovf. Vassbygdvatnet,72.25.0,Vanntemperatur,1003
+60.90337,7.1768,Vangen kraftverk,72.37.0,Vannføring,1001
+60.79993,7.34292,Reppavatn,72.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.80097,7.46784,Katlavatnet,72.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.83693,7.12165,Flåm bru,72.77.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.05896,7.81603,Lo bru,73.1.0,Vanntemperatur,1003
+61.02838,8.23959,"Juklevatnet, midten",73.106.1,"Vanntemperatur , Lufttemperatur","1003 , 17"
+60.94746,8.10156,Øljusjøen sør,73.107.1,Vanntemperatur,1003
+60.9628,8.07511,Øljusjøen nord,73.107.2,Vanntemperatur,1003
+61.02979,8.21666,Jukleåna ndf. Store Juklevatnet,73.108.0,Vanntemperatur,1003
+61.17794,8.11255,Kyrkjestølane,73.11.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet , Snødybde , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Grunnvannsnivå - dyp under bakken","0 , 14 , 15 , 17 , 2 , 2002 , 2003 , 2003 , 2003 , 2003 , 2003 , 2003 , 2003 , 5130"
+61.04416,7.61907,Stuvane,73.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.1774,8.02952,Frostdalen,73.21.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.09193,8.19744,Sulevatn,73.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.02306,8.1668,Lille Juklevatn,73.23.0,"Vannstand , Magasinvolum , Lufttemperatur","1000 , 1004 , 17"
+61.03009,8.21751,Store Juklevatn,73.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.17078,8.10155,Sula,73.27.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.01061,8.11533,Eldrevatn,73.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.04387,7.87832,Vassetvatn,73.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.89609,7.71948,Kvevotni,73.30.0,"Vannstand , Magasinvolum","1000 , 1004"
+60.97263,8.07482,Øljusjøen,73.32.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.05216,7.70085,Sælthun,73.4.0,Vanntemperatur,1003
+61.06373,7.51724,Lærdalselvi v/Tønjum,73.41.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.04952,7.75497,Lærdalselvi v/Nedre Hegg,73.42.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.24433,7.7182,Årdalsvatn,74.1.0,Vanntemperatur,1003
+61.25159,7.91753,Krekavatn,74.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.49819,8.13541,Raundalen i Utla,74.108.0,"Vannstand , Vannføring","1000 , 1001"
+61.5127,8.13739,Gravdalen i Utla,74.109.0,"Vannstand , Vannføring","1000 , 1001"
+61.46508,8.1312,Skogadalen i Utla,74.110.0,"Vannstand , Vannføring","1000 , 1001"
+61.39744,7.73453,Austanbotn bekkeinntak,74.126.0,Vannstand,1000
+61.26955,8.03813,Torolmen,74.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.32177,7.82731,Utla,74.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.40149,7.70727,Langedalen,74.16.0,"Vannstand , Vannføring","1000 , 1001"
+61.23335,7.55117,Fornabu,74.18.0,"Vannstand , Vannføring","1000 , 1001"
+61.25608,7.81112,Berdalsvatn,74.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.16363,7.70332,Riskallvatn,74.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.3838,8.13883,Koldedalen,74.26.0,"Vannstand , Vannføring","1000 , 1001"
+61.30635,7.79626,Årdøla ovf. Årdalsvatnet,74.29.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.2774,8.13675,Tyin,74.3.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.31137,7.81929,Tyin kraftstasjon,74.30.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.32555,7.84959,Utla v/Øyni bro,74.31.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.23792,7.70268,Hæreidselvi,74.33.0,Vanntemperatur,1003
+61.3075,7.99927,Kyrkjevatn,74.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.29099,8.02207,Mannsbergvatn,74.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.2527,7.97341,Biskopvatn,74.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.29561,7.979,Nedre Breibotnvatn,74.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.2387,7.87885,Viervatn,74.9.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+61.65063,7.75446,Fivlemyrane,75.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.64688,7.73762,Gravdalsvatn,75.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.70575,7.79385,Illevatn,75.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.70134,7.91125,Breidalsvatn,75.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.69971,7.93211,Svartdalsvatn,75.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.68038,7.87231,Namnlausvatn,75.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.64989,7.8772,Grønevatn øvre,75.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.64349,7.86233,Grønevatn nedre,75.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.49422,7.68652,Fortun,75.18.0,"Vannstand , Vannføring","1000 , 1001"
+61.54988,7.62133,Gilja,75.22.0,Vanntemperatur,1003
+61.34702,7.39822,Krokenelv,75.23.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.50975,7.45563,Kringlevatn,75.26.0,Vannstand,1000
+61.52708,7.43973,Smørvivatn,75.27.0,Vannstand,1000
+61.38168,7.44511,Feigumfoss,75.28.0,"Vannstand , Vannføring","1000 , 1001"
+61.69588,7.87411,Medalsvatn,75.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.50559,7.70201,Skagen kraftstasjon,75.34.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.50579,7.69918,Fortundalselva ovf. Skagen kraftstasjon,75.35.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.53769,7.61533,Mørkri ovf. Åsetelvi,75.36.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.67817,7.7152,Harbardsbreen,75.42.0,Lufttemperatur,17
+61.48577,7.78417,Ringsdal,75.43.0,"Vannstand , Vannføring","1000 , 1001"
+61.58089,7.87363,Mjelkedalen ovf. Skålavatn,75.44.0,"Vannstand , Vannføring","1000 , 1001"
+61.59835,7.94314,Storevatn,75.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.56432,7.84264,Skålavatn,75.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.49041,7.60349,Fortundalselva ndf. Eidsvatnet,75.70.0,Vanntemperatur,1003
+61.50175,7.86809,Helgedalen bekkinntak,75.71.0,"Vannstand , Vannføring","1000 , 1001"
+61.54839,7.87146,Hervavatn øvre,75.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.54605,7.91482,Prestesteinvatn,75.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.5658,7.99954,Sognefjellet snøstasjon,75.93.0,"Vanntemperatur , Lufttemperatur , Snødybde , Snøens vannekvivalent , Overflatetemperatur","1003 , 17 , 2002 , 2003 , 2040"
+61.5074,7.27368,Myklemyr,76.10.0,"Vannstand , Vannføring","1000 , 1001"
+61.50818,7.32795,Vigdøla,76.11.0,Vanntemperatur,1003
+61.76352,7.46567,Styggevatn,76.13.0,"Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","14 , 15 , 17 , 2"
+61.63841,7.19186,Tverradøla ovf. Krundøla,76.22.0,Vanntemperatur,1003
+61.63305,7.21758,Røykjedøla ovf. Krundøla,76.28.0,Vanntemperatur,1003
+61.76442,7.46562,Styggevatn,76.29.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.8175,7.39653,Kupvatn,76.31.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.46458,7.17823,Tunsbergdalsvatn,76.32.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.52422,7.27628,Jostedøla v/Myklemyr,76.37.0,Vanntemperatur,1003
+61.65528,7.27371,Breelvi,76.39.0,Vanntemperatur,1003
+61.63202,7.24481,Krundøla,76.40.0,Vanntemperatur,1003
+61.71194,7.35378,Jostedøla v/Fåbergstølen,76.42.0,Vanntemperatur,1003
+61.66655,7.24191,Nigardsbrevatn,76.5.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.59393,7.28176,Sagarøyelvi ovf. Jostedøla,76.65.0,Vanntemperatur,1003
+61.51447,7.265,Hompedøla/Kvernelvi ovf. Jostedøla,76.66.0,Vanntemperatur,1003
+61.50633,7.27699,Vigdøla ovf. Jostedøla,76.67.0,Vanntemperatur,1003
+61.56512,7.29384,Sperleelvi,76.68.0,Vanntemperatur,1003
+61.56514,7.29382,Sperleelvi  i Jostedalen,76.70.0,Vannstand,1000
+61.27712,7.16111,Årøy kraftstasjon II,77.14.0,Vanntemperatur,1003
+61.36908,7.09022,Veitestrandsvatn,77.2.0,"Vannføring , Magasinvolum","1001 , 1004"
+61.23228,6.84914,Henjaelvi ved Flotande,77.20.0,Lufttemperatur,17
+61.3656,6.90638,Anestølen,77.24.0,"Nedbør , Vindretning , Vindhastighet , Vindhastighet , Lufttemperatur , Lufttemperatur , Relativ luftfuktighet , Snødybde , Snøens vannekvivalent , Snøens vannekvivalent , Snøens vannekvivalent , Grunnvannsnivå - dyp under bakken","0 , 14 , 15 , 15 , 17 , 17 , 2 , 2002 , 2003 , 2003 , 2003 , 5130"
+61.36223,6.91147,Anestølen - Rør 1,77.24.1,"Markfuktighet , Grunnvannsnivå - dyp under bakken","2001 , 5130"
+61.29784,7.00681,Sogndalsvatn,77.3.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum","1000 , 1001 , 1003 , 1004"
+61.33756,6.56087,Vetlefjordelva ovf. Mel kraftstasjon,78.10.0,Vanntemperatur,1003
+61.3377,6.56123,Mel kraftstasjon,78.11.0,Vanntemperatur,1003
+61.33756,6.56087,Mel,78.12.0,"Vannstand , Vannføring","1000 , 1001"
+61.47522,6.79946,Flatbreen,78.19.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 14 , 15 , 17 , 2"
+61.39515,6.5333,Skaddalsvatnet,78.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.38752,6.63503,Jorddalsvatnet,78.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.40609,6.5924,Øvre Svartevassvatnet,78.6.0,"Vannstand , Magasinvolum , Lufttemperatur","1000 , 1004 , 17"
+61.3869,6.57421,Nedre Svartevassvatnet,78.7.0,"Vannstand , Magasinvolum , Lufttemperatur","1000 , 1004 , 17"
+61.4487,6.74268,Bøyumselv,78.8.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.33439,6.56332,Vetlefjordelva ndf. Mel kraftstasjon,78.9.0,Vanntemperatur,1003
+61.2336,6.21563,Høgsvatn,79.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.21742,5.95454,Uldalsvatn,79.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.23596,6.19912,Roesvatn,79.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.23663,6.04061,Vassdalsvatn,79.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24677,6.08348,Nedre Breidalsvatn,79.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.26344,6.09277,Øvre Breidalsvatn,79.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24268,6.14687,Gautingsdalselva ndf. Eiriksdal kraftv.,79.17.0,Vanntemperatur,1003
+61.23968,6.14139,Daleelva ndf. Eiriksdalselva,79.18.0,Vanntemperatur,1003
+61.21971,6.07492,Daleelva utløp,79.19.0,Vanntemperatur,1003
+61.22182,6.04107,Bergsvatn,79.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.15987,6.27839,Nessedalselv,79.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.21879,6.31614,Stølsvatn,79.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.21592,6.34153,Hardbakkevatn,79.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24186,6.24613,Norddalsvatn,79.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24067,6.27606,Nedre Gruvlebotnvatn,79.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.24758,6.30716,Øvre Gruvlebotnvatn,79.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.22079,6.24797,Kaldosvatn,79.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+59.89347,10.50814,Bjørnegårdssvingen,8.2.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.96818,10.54722,Brunkollen klima,8.5.0,"Lufttemperatur , Snødybde , Snøens vannekvivalent","17 , 2002 , 2003"
+59.94379,10.56635,Sæternbekken,8.6.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+59.90805,10.56091,Blomsterkroken,8.8.0,"Vannstand , Vannføring","1000 , 1001"
+59.96035,10.5357,Muren Nye,8.88.0,"Vannstand , Vannføring , Vannføring , Vanntemperatur , Lufttemperatur , Relativ luftfuktighet","1000 , 1001 , 1001 , 1003 , 17 , 2"
+59.9599,10.53455,"Muren, Rør 1",8.88.1,"Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken","5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130"
+59.96009,10.53502,"Muren, Rør 10",8.88.10,Grunnvannsnivå - dyp under bakken,5130
+59.96024,10.5353,"Muren, Rør 11",8.88.11,Grunnvannsnivå - dyp under bakken,5130
+59.95964,10.53497,"Muren, Rør 12",8.88.12,Grunnvannsnivå - dyp under bakken,5130
+59.95978,10.5351,"Muren, Rør 13",8.88.13,Grunnvannsnivå - dyp under bakken,5130
+59.95989,10.53521,"Muren, Rør 14",8.88.14,Grunnvannsnivå - dyp under bakken,5130
+59.95993,10.53507,"Muren, Rør 15",8.88.15,Grunnvannsnivå - dyp under bakken,5130
+59.95999,10.53534,"Muren, Rør 16",8.88.16,Grunnvannsnivå - dyp under bakken,5130
+59.96019,10.53564,"Muren, Rør 17",8.88.17,Grunnvannsnivå - dyp under bakken,5130
+59.95963,10.53525,"Muren, Rør 18",8.88.18,Grunnvannsnivå - dyp under bakken,5130
+59.95955,10.53545,"Muren, Rør 19",8.88.19,Grunnvannsnivå - dyp under bakken,5130
+59.95948,10.53456,"Muren, Rør 2",8.88.2,"Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken","5130 , 5130 , 5130 , 5130 , 5130 , 5130 , 5130"
+59.95982,10.5354,"Muren, Rør 20",8.88.20,Grunnvannsnivå - dyp under bakken,5130
+59.95988,10.53564,"Muren, Rør 21",8.88.21,Grunnvannsnivå - dyp under bakken,5130
+59.96009,10.53574,"Muren, Rør 22",8.88.22,Grunnvannsnivå - dyp under bakken,5130
+59.96026,10.53546,"Muren, Rør 23",8.88.23,Grunnvannsnivå - dyp under bakken,5130
+59.95938,10.5351,"Muren, Rør 24",8.88.24,Grunnvannsnivå - dyp under bakken,5130
+59.95976,10.5344,"Muren, Rør 25",8.88.25,Grunnvannsnivå - dyp under bakken,5130
+59.95963,10.53461,"Muren, Rør 3",8.88.3,Grunnvannsnivå - dyp under bakken,5130
+59.95979,10.53463,"Muren, Rør 4",8.88.4,Grunnvannsnivå - dyp under bakken,5130
+59.95997,10.53473,"Muren, Rør 5",8.88.5,Grunnvannsnivå - dyp under bakken,5130
+59.96009,10.53477,"Muren, Rør 6",8.88.6,Grunnvannsnivå - dyp under bakken,5130
+59.9595,10.53482,"Muren, Rør 7",8.88.7,Grunnvannsnivå - dyp under bakken,5130
+59.95978,10.53487,"Muren, Rør 8",8.88.8,Grunnvannsnivå - dyp under bakken,5130
+59.95995,10.53494,"Muren, Rør 9",8.88.9,"Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken , Grunnvannsnivå - dyp under bakken","5130 , 5130 , 5130 , 5130"
+59.96035,10.5357,Muren Nye,8.88.91,Grunnvannsnivå - dyp under bakken,5130
+59.96035,10.5357,Muren Nye,8.88.92,Grunnvannsnivå - dyp under bakken,5130
+59.96035,10.5357,Muren Nye,8.88.93,Grunnvannsnivå - dyp under bakken,5130
+59.95997,10.53147,Skriverberget,8.89.0,"Nedbør , Vindretning , Vindhastighet , Lufttemperatur , Relativ luftfuktighet","0 , 14 , 15 , 17 , 2"
+61.27834,6.05815,Blankedalsvatn,80.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.25022,6.00483,Monsdalsvatn,80.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.29097,5.91878,Vestre  Storevatn,80.12.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.16408,5.4866,Nordstrandsvatn,80.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.20324,5.78553,Ullebøelv,80.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.16023,5.38471,Espelandsvatn,80.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.25583,5.95393,Blåvatn,80.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.25991,5.93582,Fossvatn,80.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.26625,5.87922,Åsvatn,80.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.28833,5.96105,Seltuftvatn,80.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.1352,4.93712,Hersvikvatn (Hagevatnet),81.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.2529,5.38535,Nautsundvatn,82.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.36569,6.23159,Haukedalsvatn ndf.,83.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.28692,6.06015,Østre Storevatn,83.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.33409,5.85984,Gaula ndf. Eikelandsvatnet,83.16.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.36697,5.68384,Gaula utløp,83.17.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.36506,6.23015,Gaula ndf. Haukedalsvatnet,83.18.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.33306,5.88626,Viksvatn (Hestadfjorden),83.2.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+61.34341,6.34683,Byttevatn,83.6.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.44324,6.46896,Grønengstølsvatn,83.7.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+61.38079,5.80131,Skilbreivatn,83.9.0,"Vannstand , Vannføring","1000 , 1001"
+61.4935,6.11328,Jølstervatn,84.1.0,Vannstand,1000
+61.53279,5.75214,Hovefoss,84.11.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.4906,6.10724,Jølstervatn ndf.,84.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.43519,5.91956,Brulandsfoss Inntak,84.17.0,Vannstand,1000
+61.52048,6.58697,Sygnesandselva,84.19.0,"Vannstand , Vannføring","1000 , 1001"
+61.43177,6.06488,Holsenvatn,84.20.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+61.43656,5.90117,Brulandsfoss ndf.,84.21.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.49107,6.11231,Jølstra ndf. Jølstravatnet,84.22.0,Vanntemperatur,1003
+61.53282,5.7518,Nausta v/Hovefossen,84.23.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.43945,5.99522,Førde/Moskog rør 3,84.25.3,Grunnvannsnivå - dyp under bakken,5130
+61.51784,6.63645,Lunde,84.30.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.45941,5.88527,Anga ovf. Jølstra,84.31.0,Vanntemperatur,1003
+61.44934,5.89581,Høgset i Jølstra,84.32.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.49673,6.65671,Trollavatnet,84.52.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.51707,5.72084,Fosshølen i Nausta,84.57.0,"Vannstand , Vanntemperatur","1000 , 1003"
+61.6124,6.28606,Stegsvatn,84.58.0,"Vannstand , Vannføring","1000 , 1001"
+61.57348,6.40428,Helgheim/Huus,84.59.0,"Vannstand , Vannføring","1000 , 1001"
+61.69372,5.32806,Svartevatn,85.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.61709,5.68504,Eimhjellevatn,85.12.0,Magasinvolum,1004
+61.68011,5.74636,Storevatn,85.13.0,Magasinvolum,1004
+61.56561,5.5198,Blåmannsvatn,85.2.0,"Vannstand , Vannføring","1000 , 1001"
+61.69178,5.45804,Svartebotten,85.3.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.6484,5.44487,Straumstad (Solheimsvatnet),85.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.61513,5.67817,Sagefossen krv.,85.5.0,Vannføring,1001
+61.69176,5.44088,Storbotnvatn,85.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.74506,5.55745,Blåbrevatn,85.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.57344,5.53787,Oselva ndf. Endestadvatnet,85.8.0,Vanntemperatur,1003
+61.65776,5.29453,Børrevatn,85.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.71941,5.9213,Åvatn (Ommedalsvatnet),86.10.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.79176,5.66563,Store Åskåravatn,86.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.81564,5.93555,Skjerdalselv,86.12.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+61.8316,5.35909,Vingevatn,86.13.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.79541,5.54481,Langevatn,86.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.83932,5.42187,Nibbevatn,86.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.7892,5.3869,Hjelmevatn,86.16.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.78134,5.3195,Svelgsvatn,86.17.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.79303,5.36176,Sørdalsvatn,86.18.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.77318,5.56806,Langevatn,86.19.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.76403,5.82224,X-Vatn,86.20.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.76136,5.78459,Z-Vatn,86.21.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.78047,5.60804,Øvre Sødalsvatn,86.22.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.79159,5.64003,Nedre Sødalsvatn,86.24.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.83252,5.79234,Øksendalsvatn,86.25.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.81556,5.8359,Isavatn,86.26.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.81795,5.80336,Bjørndalsvatn,86.27.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.82934,5.72426,Dauremålsvatn,86.28.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.81188,5.66155,Åskåra kraftstasjon,86.29.0,Vanntemperatur,1003
+61.70195,5.28354,Litle Teigsvatn,86.39.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.67806,5.24764,Handklevatn,86.40.0,"Vannstand , Magasinvolum","1000 , 1004"
+61.78291,5.65781,Breelva,86.56.0,"Vannstand , Vannføring","1000 , 1001"
+61.75296,6.28678,Breimsvatn,87.1.0,"Vannstand , Vannføring , Magasinvolum","1000 , 1001 , 1004"
+61.7186,6.52064,Gloppenelv v/Bergheim,87.10.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.75688,6.24515,Gloppenelva v/Eidsfoss,87.2.0,"Vannstand , Vannføring","1000 , 1001"
+61.7644,6.21089,Gloppenelva utløp,87.4.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.73172,6.50491,Myklebustdalselva ovf. Storelva,87.9.0,Vanntemperatur,1003
+61.93127,6.87895,Strynsvatn,88.11.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+61.96665,7.25709,Grasdøla,88.15.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+61.70168,6.81293,Oldenelva ovf. Oldevatnet,88.18.0,"Vannstand , Vannføring , Vanntemperatur","1000 , 1001 , 1003"
+61.82755,6.80564,Oldenelva v/Olden kirke,88.20.0,Vanntemperatur,1003
+61.79201,6.82233,Nordre Oldevatn,88.30.0,"Vannstand , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1003 , 1004 , 17"
+61.86047,6.8886,Loelva ndf. Lovatnet,88.31.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.91867,6.80553,Strynselva v/Stauri,88.32.0,Vanntemperatur,1003
+61.91585,7.11524,Hjelledøla ovf. Oppstrynsvatnet,88.33.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.89186,7.10149,Erdalselva,88.35.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+61.85869,6.88967,Lovatn,88.4.0,"Vannstand , Vannføring , Magasinvolum , Lufttemperatur","1000 , 1001 , 1004 , 17"
+61.9197,6.11861,Hornindalsvatn,89.1.0,"Vannstand , Vannføring , Vannføring , Vanntemperatur , Magasinvolum , Lufttemperatur","1000 , 1001 , 1001 , 1003 , 1004 , 17"
+61.99303,6.52449,"Hornindal, rør1",89.10.1,Grunnvannsnivå - dyp under bakken,5130
+61.91401,6.09342,Eidselva ndf. Hornindalsvatnet,89.2.0,Vanntemperatur,1003
+61.91808,6.09229,Nordfjordeid rør 1,89.3.1,Grunnvannsnivå - dyp under bakken,5130
+59.81826,10.4675,Askerelva v/Blakstad,9.2.0,Vanntemperatur,1003
+61.84174,5.02764,Førdeelv,90.1.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.16243,5.16649,Dalsbøvatn,91.2.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.06242,6.32868,Førdselva,94.13.0,"Vanntemperatur , Lufttemperatur","1003 , 17"
+62.06008,6.35208,Førdselva v/Gjersdal bru,94.19.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.18448,6.19658,Ørstaelva v/Høgebrua,95.11.0,Vanntemperatur,1003
+62.15749,6.22222,Åmdalselva ndf. Vatnevatnet,95.12.0,Vanntemperatur,1003
+62.15726,6.22337,Vatnevatnet,95.4.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.36288,6.00654,Hareidselv,96.3.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.3325,6.59289,Fetvatn (Fitjavatnet),97.1.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.09701,6.60774,Tussevatn,97.11.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.07259,6.4524,Sleddalen,97.5.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.05249,6.50217,Skipedalsvatn,97.9.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.35126,6.83293,Nysetervatn,98.3.0,Vannstand,1000
+62.06818,6.93163,Øye ndf.,98.4.0,"Vannstand , Vannføring , Vanntemperatur , Lufttemperatur","1000 , 1001 , 1003 , 17"
+62.21919,7.4272,Onilsavatn,99.1.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.12949,7.43377,Fagerbotnvatn,99.10.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.20193,7.48961,Sakariasvatn,99.14.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.14257,7.74965,Fremste Veltdalsvatn,99.15.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.19769,7.49543,Rødøla,99.17.0,"Vannstand , Vannføring , Lufttemperatur","1000 , 1001 , 17"
+62.17516,7.42372,Heimste Kaldhussetervann,99.2.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.0517,7.38421,Kolbeinsvatn,99.4.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.12556,7.52601,Heimste Vikvatn,99.5.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.13471,7.45939,Fetvatn,99.6.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.15934,7.71728,Heimste Veltdalsvatn,99.7.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.10119,7.39499,Viavatn,99.8.0,"Vannstand , Magasinvolum","1000 , 1004"
+62.12843,7.38108,Slettdalsvatn,99.9.0,"Vannstand , Magasinvolum","1000 , 1004"

@@ -1,0 +1,24 @@
+{
+    "catalog":[
+        {
+            "type": "group",
+            "name": "Data fra nve",
+            "isOpen": true,
+            "members": [
+                {
+                    "type": "geojson",
+                    "url": "test/new_Elv.json",
+                    "name": "Akerselva",
+                    "style": {
+                        "stroke-width": 5
+                    }
+                },
+                {
+                    "type": "csv",
+                    "name": "målestasjoner, nve",
+                    "url": "test/stasjon_oversikt.csv"
+                }
+            ]
+        }
+    ]
+}
