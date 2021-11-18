@@ -1,0 +1,50 @@
+[
+    {
+        "version": "1.0",
+        "id": "document",
+        "clock": {
+            "step": "SYSTEM_CLOCK_MULTIPLIER",
+            "range": "LOOP_STOP",
+            "multiplier": 50600,
+            "interval": "2015-01-01T00:00:00/2015-01-05T00:00:00",
+            "currentTime": "2015-01-02T00:00:00"
+        }
+    },
+    {
+        "position": {"cartographicDegrees": [
+            "2015-01-01T00:00:00",
+            10.7509388,
+            59.9074885,
+            0,
+            "2015-01-02T00:00:00",
+            10.4509388,
+            60.274885,
+            0,
+            "2015-01-03T00:00:00",
+            10.1509388,
+            60.5074885,
+            0,
+            "2015-01-04T00:00:00",
+            9.8509388,
+            60.8074885,
+            0,
+            "2015-01-05T00:00:00",
+            9.5509388,
+            61.1074885,
+            0
+        ]},
+        "point": {
+            "color": {"rgba": [
+                255,
+                255,
+                0,
+                255
+            ]},
+            "pixelSize": 10,
+            "show": true
+        },
+        "availability": "2015-01-01/2015-01-05",
+        "id": "Acadian_Flycatcher",
+        "description": {"string": "Acadian_Flycatcher"}
+    }
+]

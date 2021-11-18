@@ -17,6 +17,19 @@
                     "type": "csv",
                     "name": "målestasjoner, nve",
                     "url": "test/stasjon_oversikt.csv"
+                },
+                {
+                    "type": "czml",
+                    "name": "one bird",
+                    "url": "test/one_bird.czml",
+                    "currentTime": "2015-01-02",
+                    "startTime": "2015-01-01",
+                    "stopTime": "2015-01-05"
+                },
+                {
+                    "type": "czml",
+                    "name": "all birds",
+                    "url": "test/all_birds.czml"
                 }
             ]
         }
