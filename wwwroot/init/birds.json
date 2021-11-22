@@ -1,0 +1,17 @@
+{
+     "catalog":[
+        {
+            "name": "Fugler",
+            "type": "group",
+            "isOpen": true,
+            "description": "Amerikanske fugler",
+            "members": [
+                {
+                    "name": "Some birds flying around.",
+                    "type": "czml", 
+                    "url": "test/all_birds.czml"
+                }
+            ]
+        }
+    ]
+}
