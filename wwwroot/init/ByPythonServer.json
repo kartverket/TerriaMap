@@ -26,6 +26,18 @@
                     "url":"http://localhost:5000/sehavniva"
                 },
                 {
+                    "name": "Sehavnivå (CZML)",
+                    "type": "czml",
+                    "url": "http://localhost:5000/sehavniva_czml",
+                    "description": "Data hentet fra sehavnivå.no i Stavanger området. Her har vi brukt CZML istedet for GeoJSON for å bedre visualisere endringer over tid."
+                },
+                {
+                    "name": "Sehavnivå Oslo (CZML)",
+                    "type": "czml",
+                    "url": "http://localhost:5000/sehavniva_oslo",
+                    "description": "Data hentet fra sehavnivå.no i Oslo området. Vi bruker CZML-formatet for å kunne vise endringer over tid."
+                },
+                {
                     "name":"FKB Bygg transformert",
                     "type":"geojson",
                     "url":"http://localhost:5000/fkbbygg",
