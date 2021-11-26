@@ -16,6 +16,18 @@
                     "name": "Målestasjoner Oversikt",
                     "description": "Målestasjoner hentet fra NVE sitt hydrologiske data-API.",
                     "url": "test/stasjon_oversikt.csv"
+                },
+                {
+                    "type": "geojson",
+                    "name": "akerselva polygon buffer",
+                    "url": "test/akerselva_buffer_polygon.geojson",
+                    "clampToGround": false
+                },
+                {
+                    "type": "geojson",
+                    "name": "akerselva linestring",
+                    "url": "test/Akerselva_linestring_width_heights.geojson",
+                    "clampToGround": false
                 }
             ]
         }
