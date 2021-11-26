@@ -51,7 +51,7 @@
                         {
                             "name": "Oslo lilletorget",
                             "type": "3d-tiles",
-                            "ionAssetId": 647946,
+                            "ionAssetId": 687965,
                             "description": "Lilletorget, først konvertert fra IFC til gltf, og deretter til 3D-tiles."
                         }
                     ]
