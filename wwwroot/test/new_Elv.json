@@ -1,0 +1,2296 @@
+{
+    "type": "FeatureCollection",
+    "name": "Elv_Elvenett",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:25833"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262986.1303000003,
+                        6651401.3664
+                    ],
+                    [
+                        262999.85830000043,
+                        6651381.142899999
+                    ],
+                    [
+                        263002.55620000034,
+                        6651371.766499999
+                    ],
+                    [
+                        262995.12320000026,
+                        6651353.957800001
+                    ],
+                    [
+                        262976.5321000003,
+                        6651340.576999999
+                    ],
+                    [
+                        262972.6399999996,
+                        6651335.140200001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001528",
+                "elvelengde_m": 83.09,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262990.2684000004,
+                        6651559.017899999
+                    ],
+                    [
+                        262997.9826999996,
+                        6651553.6763
+                    ],
+                    [
+                        263002.5179000003,
+                        6651544.952400001
+                    ],
+                    [
+                        263011.1771999998,
+                        6651509.001700001
+                    ],
+                    [
+                        263010.61639999977,
+                        6651486.9947
+                    ],
+                    [
+                        263005.88999999966,
+                        6651479.810099999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001544",
+                "elvelengde_m": 86.81,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262824.5330999996,
+                        6651017.431600001
+                    ],
+                    [
+                        262810.6699999999,
+                        6650953.52
+                    ],
+                    [
+                        262803.96650000004,
+                        6650932.989
+                    ],
+                    [
+                        262783.99230000016,
+                        6650913.014799999
+                    ],
+                    [
+                        262699.48330000055,
+                        6650872.610799999
+                    ],
+                    [
+                        262680.73249999987,
+                        6650857.703899999
+                    ],
+                    [
+                        262671.0099999998,
+                        6650832.590000001
+                    ],
+                    [
+                        262696.83229999995,
+                        6650797.4067
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "Innsj\u00f8Midtlinje",
+                "strekningLnr": "006002247",
+                "elvelengde_m": 303.44,
+                "elvID": "006-11-1",
+                "vatnLnr": 205524,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262954.0798000004,
+                        6651298.455199999
+                    ],
+                    [
+                        262951.5519000003,
+                        6651291.801
+                    ],
+                    [
+                        262953.7082000002,
+                        6651250.790499999
+                    ],
+                    [
+                        262941.7198999999,
+                        6651228.381100001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000982",
+                "elvelengde_m": 73.6,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264942.66739999957,
+                        6655492.818099999
+                    ],
+                    [
+                        264949.2496999996,
+                        6655473.951099999
+                    ],
+                    [
+                        264948.7714,
+                        6655464.053
+                    ],
+                    [
+                        264944.4819000001,
+                        6655455.3584
+                    ],
+                    [
+                        264899.4556000001,
+                        6655416.6731
+                    ],
+                    [
+                        264879.0482999999,
+                        6655394.769400001
+                    ],
+                    [
+                        264863.70940000005,
+                        6655358.5102
+                    ],
+                    [
+                        264850.31659999955,
+                        6655335.238100001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001550",
+                "elvelengde_m": 195.11,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263076.2000000002,
+                        6649689.0801
+                    ],
+                    [
+                        263052.1588000003,
+                        6649660.4014
+                    ],
+                    [
+                        263014.2065000003,
+                        6649583.813100001
+                    ],
+                    [
+                        262977.65869999956,
+                        6649527.6033
+                    ],
+                    [
+                        262936.9451000001,
+                        6649476.3866
+                    ],
+                    [
+                        262931.6637000004,
+                        6649464.158399999
+                    ],
+                    [
+                        262903.2901999996,
+                        6649411.695800001
+                    ],
+                    [
+                        262863.12480000046,
+                        6649310.1098
+                    ],
+                    [
+                        262858.04449999984,
+                        6649290.846100001
+                    ],
+                    [
+                        262865.4907999998,
+                        6649275.709300001
+                    ],
+                    [
+                        262865.1812000004,
+                        6649274.538399999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001577",
+                "elvelengde_m": 475.58,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263511.2640000005,
+                        6652879.156
+                    ],
+                    [
+                        263514.6409,
+                        6652859.0562
+                    ],
+                    [
+                        263527.98799999984,
+                        6652805.301100001
+                    ],
+                    [
+                        263548.8230999997,
+                        6652755.867000001
+                    ],
+                    [
+                        263566.11289999995,
+                        6652725.895199999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000823",
+                "elvelengde_m": 164.02,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264006.96740000043,
+                        6654780.452600001
+                    ],
+                    [
+                        263980.31290000025,
+                        6654715.992299999
+                    ],
+                    [
+                        263975.01910000015,
+                        6654696.887399999
+                    ],
+                    [
+                        263974.39049999975,
+                        6654677.1799
+                    ],
+                    [
+                        263997.9835000002,
+                        6654641.1736
+                    ],
+                    [
+                        263995.38800000027,
+                        6654628.412200001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001574",
+                "elvelengde_m": 165.37,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262919.91000000015,
+                        6651201.5701
+                    ],
+                    [
+                        262906.15859999973,
+                        6651185.673900001
+                    ],
+                    [
+                        262892.8987999997,
+                        6651164.922100001
+                    ],
+                    [
+                        262880.0895999995,
+                        6651151.567399999
+                    ],
+                    [
+                        262851.6162999999,
+                        6651111.193299999
+                    ],
+                    [
+                        262828.3531999998,
+                        6651046.6601
+                    ],
+                    [
+                        262824.0728000002,
+                        6651027.1471
+                    ],
+                    [
+                        262824.5330999996,
+                        6651017.431600001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "Innsj\u00f8Midtlinje",
+                "strekningLnr": "006002209",
+                "elvelengde_m": 211.86,
+                "elvID": "006-11-1",
+                "vatnLnr": 205524,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264108.9567999998,
+                        6654917.4275
+                    ],
+                    [
+                        264076.60929999966,
+                        6654902.4474
+                    ],
+                    [
+                        264066.97190000024,
+                        6654895.5167999985
+                    ],
+                    [
+                        264041.04810000025,
+                        6654880.7774
+                    ],
+                    [
+                        264020.2999999999,
+                        6654859.3774999995
+                    ],
+                    [
+                        264016.28699999955,
+                        6654815.5262
+                    ],
+                    [
+                        264013.9001000002,
+                        6654797.337300001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001572",
+                "elvelengde_m": 169.53,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263596.64829999954,
+                        6654020.537499999
+                    ],
+                    [
+                        263593.16509999987,
+                        6654013.837400001
+                    ],
+                    [
+                        263586.0875000004,
+                        6654004.415100001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvelinjeFiktiv",
+                "strekningLnr": "006002239",
+                "elvelengde_m": 19.34,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263005.88999999966,
+                        6651479.810099999
+                    ],
+                    [
+                        262991.34030000033,
+                        6651467.02
+                    ],
+                    [
+                        262988.56240000017,
+                        6651455.3269
+                    ],
+                    [
+                        262987.48730000015,
+                        6651438.6815
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000966",
+                "elvelengde_m": 48.07,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264013.9001000002,
+                        6654797.337300001
+                    ],
+                    [
+                        264006.96740000043,
+                        6654780.452600001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001524",
+                "elvelengde_m": 18.25,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262817.97310000006,
+                        6649039.481200001
+                    ],
+                    [
+                        262777.5357999997,
+                        6648921.6393
+                    ],
+                    [
+                        262726.59389999975,
+                        6648823.091600001
+                    ],
+                    [
+                        262709.3799999998,
+                        6648712.4801
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006001102",
+                "elvelengde_m": 347.47,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A10",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262662.5119000003,
+                        6650406.416699999
+                    ],
+                    [
+                        262662.27020000014,
+                        6650406.034499999
+                    ],
+                    [
+                        262662.11000000034,
+                        6650405.9001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006001479",
+                "elvelengde_m": 0.66,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263679.9979999997,
+                        6654348.046700002
+                    ],
+                    [
+                        263658.7980000004,
+                        6654317.836100001
+                    ],
+                    [
+                        263638.5383999999,
+                        6654289.2848000005
+                    ],
+                    [
+                        263619.17430000013,
+                        6654254.6974
+                    ],
+                    [
+                        263614.75790000014,
+                        6654225.110899999
+                    ],
+                    [
+                        263628.1682000002,
+                        6654187.8071
+                    ],
+                    [
+                        263639.5011,
+                        6654181.8928
+                    ],
+                    [
+                        263651.9367000003,
+                        6654162.862099999
+                    ],
+                    [
+                        263659.0909000003,
+                        6654145.549699999
+                    ],
+                    [
+                        263662.4223000002,
+                        6654112.842
+                    ],
+                    [
+                        263660.9079999998,
+                        6654087.705600001
+                    ],
+                    [
+                        263642.43429999973,
+                        6654064.0834
+                    ],
+                    [
+                        263603.66959999973,
+                        6654030.1643
+                    ],
+                    [
+                        263596.64829999954,
+                        6654020.537499999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001568",
+                "elvelengde_m": 386.83,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262941.7198999999,
+                        6651228.381100001
+                    ],
+                    [
+                        262940.0343000003,
+                        6651225.230199999
+                    ],
+                    [
+                        262919.91000000015,
+                        6651201.5701
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002248",
+                "elvelengde_m": 34.63,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262972.6399999996,
+                        6651335.140200001
+                    ],
+                    [
+                        262963.1405999996,
+                        6651322.305400002
+                    ],
+                    [
+                        262954.0798000004,
+                        6651298.455199999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002249",
+                "elvelengde_m": 41.48,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263703.9699999997,
+                        6652377.182600001
+                    ],
+                    [
+                        263712.9939000001,
+                        6652358.138
+                    ],
+                    [
+                        263654.20399999997,
+                        6652304.2322
+                    ],
+                    [
+                        263626.3722000001,
+                        6652272.494899999
+                    ],
+                    [
+                        263607.9584999998,
+                        6652265.5013
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002252",
+                "elvelengde_m": 162.75,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263995.38800000027,
+                        6654628.412200001
+                    ],
+                    [
+                        263983.3416999998,
+                        6654613.224300001
+                    ],
+                    [
+                        263974.33910000056,
+                        6654609.051400001
+                    ],
+                    [
+                        263964.69030000025,
+                        6654608.888699999
+                    ],
+                    [
+                        263939.7038000002,
+                        6654617.5978999995
+                    ],
+                    [
+                        263932.05030000024,
+                        6654619.648700002
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006002230",
+                "elvelengde_m": 73.34,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262987.48730000015,
+                        6651438.6815
+                    ],
+                    [
+                        262985.6235999996,
+                        6651409.8256
+                    ],
+                    [
+                        262986.1303000003,
+                        6651401.3664
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002250",
+                "elvelengde_m": 37.39,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263932.05030000024,
+                        6654619.648700002
+                    ],
+                    [
+                        263922.8211000003,
+                        6654615.921499999
+                    ],
+                    [
+                        263912.92920000013,
+                        6654603.0637
+                    ],
+                    [
+                        263894.15519999986,
+                        6654515.6189
+                    ],
+                    [
+                        263868.97869999986,
+                        6654492.3465
+                    ],
+                    [
+                        263857.36000000045,
+                        6654485.2455
+                    ],
+                    [
+                        263840.01869999984,
+                        6654483.782699999
+                    ],
+                    [
+                        263830.55289999954,
+                        6654486.420700001
+                    ],
+                    [
+                        263810.70969999966,
+                        6654503.323100001
+                    ],
+                    [
+                        263801.4277999998,
+                        6654507.0349
+                    ],
+                    [
+                        263771.7024999997,
+                        6654510.5678
+                    ],
+                    [
+                        263743.0535000004,
+                        6654488.082
+                    ],
+                    [
+                        263731.2988999998,
+                        6654468.9551
+                    ],
+                    [
+                        263721.5776000004,
+                        6654446.2497000005
+                    ],
+                    [
+                        263716.79609999986,
+                        6654416.633400001
+                    ],
+                    [
+                        263707.15299999993,
+                        6654388.2749000015
+                    ],
+                    [
+                        263698.1198000005,
+                        6654370.599400001
+                    ],
+                    [
+                        263679.9979999997,
+                        6654348.046700002
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001526",
+                "elvelengde_m": 449.04,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263586.0875000004,
+                        6654004.415100001
+                    ],
+                    [
+                        263583.7318000001,
+                        6653998.7466
+                    ],
+                    [
+                        263560.56780000025,
+                        6653948.346
+                    ],
+                    [
+                        263543.59910000017,
+                        6653923.9196999995
+                    ],
+                    [
+                        263516.67640000023,
+                        6653911.2212
+                    ],
+                    [
+                        263475.78560000006,
+                        6653882.4372000005
+                    ],
+                    [
+                        263462.5017,
+                        6653867.719100001
+                    ],
+                    [
+                        263459.25499999983,
+                        6653858.4864
+                    ],
+                    [
+                        263473.41370000044,
+                        6653811.897299999
+                    ],
+                    [
+                        263482.50019999966,
+                        6653762.8927
+                    ],
+                    [
+                        263482.48600000003,
+                        6653753.0688
+                    ],
+                    [
+                        263474.1223,
+                        6653724.8893
+                    ],
+                    [
+                        263456.43769999966,
+                        6653700.9847
+                    ],
+                    [
+                        263444.87540000025,
+                        6653673.6016
+                    ],
+                    [
+                        263444.75069999974,
+                        6653653.775900001
+                    ],
+                    [
+                        263451.1699999999,
+                        6653637.1702
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001567",
+                "elvelengde_m": 435.58,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262965.57529999973,
+                        6649859.272500001
+                    ],
+                    [
+                        262981.83509999973,
+                        6649843.780599999
+                    ],
+                    [
+                        262982.6369000002,
+                        6649843.016599999
+                    ],
+                    [
+                        263000.48089999997,
+                        6649834.612299999
+                    ],
+                    [
+                        263018.60780000035,
+                        6649831.749
+                    ],
+                    [
+                        263025.5261000004,
+                        6649828.933800002
+                    ],
+                    [
+                        263035.1668999996,
+                        6649827.866900001
+                    ],
+                    [
+                        263044.0708999998,
+                        6649821.387499999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001576",
+                "elvelengde_m": 89.82,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263044.0708999998,
+                        6649821.387499999
+                    ],
+                    [
+                        263060.4071000004,
+                        6649814.739899999
+                    ],
+                    [
+                        263096.84169999976,
+                        6649788.5438
+                    ],
+                    [
+                        263110.8224999998,
+                        6649742.3895
+                    ],
+                    [
+                        263109.90140000044,
+                        6649739.055600001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006001073",
+                "elvelengde_m": 114.2,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262865.1812000004,
+                        6649274.538399999
+                    ],
+                    [
+                        262843.4319000002,
+                        6649152.888
+                    ],
+                    [
+                        262817.97310000006,
+                        6649039.481200001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002256",
+                "elvelengde_m": 239.81,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264740.6823000004,
+                        6655358.818700002
+                    ],
+                    [
+                        264731.13769999985,
+                        6655348.430700001
+                    ],
+                    [
+                        264691.0772000001,
+                        6655318.692299999
+                    ],
+                    [
+                        264655.91519999964,
+                        6655299.8763999995
+                    ],
+                    [
+                        264646.36710000044,
+                        6655296.958300001
+                    ],
+                    [
+                        264626.53380000044,
+                        6655295.6481
+                    ],
+                    [
+                        264616.8641999997,
+                        6655298.125399999
+                    ],
+                    [
+                        264607.74120000005,
+                        6655302.1932
+                    ],
+                    [
+                        264593.1926999996,
+                        6655314.9145
+                    ],
+                    [
+                        264583.3048999999,
+                        6655316.3223
+                    ],
+                    [
+                        264553.77990000055,
+                        6655311.498500001
+                    ],
+                    [
+                        264544.85630000004,
+                        6655307.0546
+                    ],
+                    [
+                        264529.9676000002,
+                        6655293.877599999
+                    ],
+                    [
+                        264510.7743,
+                        6655270.967599999
+                    ],
+                    [
+                        264494.06959999993,
+                        6655246.225099999
+                    ],
+                    [
+                        264488.7233999995,
+                        6655206.653100001
+                    ],
+                    [
+                        264485.12040000036,
+                        6655197.224199998
+                    ],
+                    [
+                        264465.5559000001,
+                        6655200.4091
+                    ],
+                    [
+                        264456.7444000002,
+                        6655205.116
+                    ],
+                    [
+                        264449.51180000044,
+                        6655211.897500001
+                    ],
+                    [
+                        264442.1471999995,
+                        6655230.346699999
+                    ],
+                    [
+                        264435.6728999997,
+                        6655237.921399999
+                    ],
+                    [
+                        264419.1716999999,
+                        6655249.023600002
+                    ],
+                    [
+                        264400.4040999999,
+                        6655255.691099999
+                    ],
+                    [
+                        264381.2213000003,
+                        6655250.987700001
+                    ],
+                    [
+                        264364.34979999997,
+                        6655240.419399999
+                    ],
+                    [
+                        264349.2814999996,
+                        6655227.3390999995
+                    ],
+                    [
+                        264340.22900000017,
+                        6655225.9564000005
+                    ],
+                    [
+                        264311.0443000002,
+                        6655229.141599999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001552",
+                "elvelengde_m": 560.05,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263482.6229999997,
+                        6652196.8544
+                    ],
+                    [
+                        263476.44290000014,
+                        6652195.513599999
+                    ],
+                    [
+                        263426.69299999985,
+                        6652169.8818999985
+                    ],
+                    [
+                        263384.7484999998,
+                        6652153.3626
+                    ],
+                    [
+                        263339.17030000046,
+                        6652117.8434999995
+                    ],
+                    [
+                        263332.5217000004,
+                        6652089.4199
+                    ],
+                    [
+                        263339.9298,
+                        6652055.276799999
+                    ],
+                    [
+                        263357.22790000046,
+                        6652025.304400001
+                    ],
+                    [
+                        263374.8354000002,
+                        6652000.120699999
+                    ],
+                    [
+                        263372.8238000003,
+                        6651968.9947
+                    ],
+                    [
+                        263340.15070000006,
+                        6651947.066999999
+                    ],
+                    [
+                        263309.18149999995,
+                        6651951.4783
+                    ],
+                    [
+                        263282.3825000002,
+                        6651946.002499999
+                    ],
+                    [
+                        263253.0357999998,
+                        6651938.2883
+                    ],
+                    [
+                        263207.3901000004,
+                        6651938.8445999995
+                    ],
+                    [
+                        263170.54239999957,
+                        6651926.8089000005
+                    ],
+                    [
+                        263127.82129999995,
+                        6651898.3247
+                    ],
+                    [
+                        263094.8331000004,
+                        6651871.613600001
+                    ],
+                    [
+                        263001.5191000002,
+                        6651841.601800001
+                    ],
+                    [
+                        262985.7585000006,
+                        6651820.9857
+                    ],
+                    [
+                        262983.43429999985,
+                        6651785.0726
+                    ],
+                    [
+                        262978.8702999997,
+                        6651751.708699999
+                    ],
+                    [
+                        262972.2937000002,
+                        6651687.2193
+                    ],
+                    [
+                        262963.9430999998,
+                        6651632.461999999
+                    ],
+                    [
+                        262978.06989999954,
+                        6651590.674699999
+                    ],
+                    [
+                        262990.2684000004,
+                        6651559.017899999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000953",
+                "elvelengde_m": 1024.22,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263607.9584999998,
+                        6652265.5013
+                    ],
+                    [
+                        263593.63690000033,
+                        6652260.061799999
+                    ],
+                    [
+                        263555.0839999999,
+                        6652221.6809
+                    ],
+                    [
+                        263510.58619999985,
+                        6652202.9212
+                    ],
+                    [
+                        263482.6229999997,
+                        6652196.8544
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002251",
+                "elvelengde_m": 146.62,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263566.11289999995,
+                        6652725.895199999
+                    ],
+                    [
+                        263580.54600000003,
+                        6652688.899299999
+                    ],
+                    [
+                        263587.7953000004,
+                        6652652.364700001
+                    ],
+                    [
+                        263585.4671999997,
+                        6652616.446
+                    ],
+                    [
+                        263572.0122999996,
+                        6652557.207000001
+                    ],
+                    [
+                        263558.1801000004,
+                        6652529.2489
+                    ],
+                    [
+                        263530.1403999999,
+                        6652504.6162
+                    ],
+                    [
+                        263513.9127000002,
+                        6652476.8123
+                    ],
+                    [
+                        263522.09130000044,
+                        6652454.642799999
+                    ],
+                    [
+                        263549.57919999957,
+                        6652433.6262
+                    ],
+                    [
+                        263571.9693,
+                        6652408.1305
+                    ],
+                    [
+                        263588.4187000003,
+                        6652402.256200001
+                    ],
+                    [
+                        263605.9545999998,
+                        6652413.1448
+                    ],
+                    [
+                        263627.81359999994,
+                        6652416.5405
+                    ],
+                    [
+                        263658.7839999999,
+                        6652412.134
+                    ],
+                    [
+                        263686.8959999997,
+                        6652400.699499999
+                    ],
+                    [
+                        263702.4165000003,
+                        6652380.4611
+                    ],
+                    [
+                        263703.9699999997,
+                        6652377.182600001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000863",
+                "elvelengde_m": 517.56,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264311.0443000002,
+                        6655229.141599999
+                    ],
+                    [
+                        264280.82870000054,
+                        6655232.439300001
+                    ],
+                    [
+                        264241.88239999954,
+                        6655240.986799999
+                    ],
+                    [
+                        264212.39530000003,
+                        6655239.3041
+                    ],
+                    [
+                        264204.3311999999,
+                        6655233.4838
+                    ],
+                    [
+                        264199.6231000005,
+                        6655225.621600001
+                    ],
+                    [
+                        264198.95050000027,
+                        6655215.6888999995
+                    ],
+                    [
+                        264206.5022999998,
+                        6655186.949100001
+                    ],
+                    [
+                        264208.2916000006,
+                        6655166.652300001
+                    ],
+                    [
+                        264210.50349999964,
+                        6655150.538699999
+                    ],
+                    [
+                        264214.8876999998,
+                        6655111.600799999
+                    ],
+                    [
+                        264213.15309999976,
+                        6655051.8525
+                    ],
+                    [
+                        264208.25320000015,
+                        6655022.384000001
+                    ],
+                    [
+                        264188.9028000003,
+                        6654966.8767
+                    ],
+                    [
+                        264169.8753000004,
+                        6654944.7222
+                    ],
+                    [
+                        264108.9567999998,
+                        6654917.4275
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001570",
+                "elvelengde_m": 478.8,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262686.16000000015,
+                        6650451.3900999995
+                    ],
+                    [
+                        262685.29019999976,
+                        6650435.8291
+                    ],
+                    [
+                        262662.5119000003,
+                        6650406.416699999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006001033",
+                "elvelengde_m": 52.79,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        264850.31659999955,
+                        6655335.238100001
+                    ],
+                    [
+                        264836.2726999996,
+                        6655321.289299999
+                    ],
+                    [
+                        264826.7944999999,
+                        6655319.071799998
+                    ],
+                    [
+                        264802.99909999967,
+                        6655336.870100001
+                    ],
+                    [
+                        264787.4441999998,
+                        6655362.336
+                    ],
+                    [
+                        264780.36809999956,
+                        6655369.347399999
+                    ],
+                    [
+                        264760.8607999999,
+                        6655372.9103
+                    ],
+                    [
+                        264751.341,
+                        6655370.419399999
+                    ],
+                    [
+                        264740.6823000004,
+                        6655358.818700002
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006002253",
+                "elvelengde_m": 144.47,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263451.1699999999,
+                        6653637.1702
+                    ],
+                    [
+                        263478.08669999987,
+                        6653594.687100001
+                    ],
+                    [
+                        263523.0277000003,
+                        6653546.0933
+                    ],
+                    [
+                        263538.8766000001,
+                        6653526.585899998
+                    ],
+                    [
+                        263536.62519999966,
+                        6653437.1272
+                    ],
+                    [
+                        263527.3234,
+                        6653332.416699999
+                    ],
+                    [
+                        263522.5229000002,
+                        6653156.742599999
+                    ],
+                    [
+                        263530.81859999977,
+                        6653092.394799999
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000795",
+                "elvelengde_m": 576.85,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262662.11000000034,
+                        6650405.9001
+                    ],
+                    [
+                        262660.95880000014,
+                        6650403.9616
+                    ],
+                    [
+                        262650.3883999996,
+                        6650387.406099998
+                    ],
+                    [
+                        262647.1412000004,
+                        6650372.4386
+                    ],
+                    [
+                        262646.1600000002,
+                        6650370.0271000005
+                    ],
+                    [
+                        262647.3085000003,
+                        6650360.247699999
+                    ],
+                    [
+                        262642.54700000014,
+                        6650343.814099999
+                    ],
+                    [
+                        262638.0049000001,
+                        6650324.6031
+                    ],
+                    [
+                        262640.28170000017,
+                        6650308.8049
+                    ],
+                    [
+                        262657.0487000002,
+                        6650285.511000001
+                    ],
+                    [
+                        262664.73620000016,
+                        6650279.077699999
+                    ],
+                    [
+                        262679.4676000001,
+                        6650265.6762999995
+                    ],
+                    [
+                        262704.6026999997,
+                        6650249.8272
+                    ],
+                    [
+                        262715.36230000015,
+                        6650230.940999999
+                    ],
+                    [
+                        262718.5846999996,
+                        6650204.825200001
+                    ],
+                    [
+                        262714.4122000001,
+                        6650184.6173
+                    ],
+                    [
+                        262700.1026999998,
+                        6650156.297800002
+                    ],
+                    [
+                        262683.8454,
+                        6650138.660499999
+                    ],
+                    [
+                        262670.31570000027,
+                        6650127.8711
+                    ],
+                    [
+                        262647.7249999996,
+                        6650099.231200001
+                    ],
+                    [
+                        262643.13159999996,
+                        6650083.4537
+                    ],
+                    [
+                        262644.71279999986,
+                        6650077.7914
+                    ],
+                    [
+                        262656.37069999985,
+                        6650062.830800001
+                    ],
+                    [
+                        262693.94309999986,
+                        6650051.4487000005
+                    ],
+                    [
+                        262753.55759999994,
+                        6650047.444099999
+                    ],
+                    [
+                        262782.8457000004,
+                        6650042.0948
+                    ],
+                    [
+                        262797.87229999993,
+                        6650032.184599999
+                    ],
+                    [
+                        262809.2145999996,
+                        6650015.569499999
+                    ],
+                    [
+                        262813.56350000016,
+                        6649998.430299999
+                    ],
+                    [
+                        262812.4801000003,
+                        6649923.118000001
+                    ],
+                    [
+                        262825.60589999997,
+                        6649903.0320999995
+                    ],
+                    [
+                        262834.35369999986,
+                        6649898.614700001
+                    ],
+                    [
+                        262852.74170000013,
+                        6649894.8912
+                    ],
+                    [
+                        262892.31240000064,
+                        6649900.133300001
+                    ],
+                    [
+                        262921.08440000005,
+                        6649898.651199999
+                    ],
+                    [
+                        262933.3718999997,
+                        6649889.955
+                    ],
+                    [
+                        262965.57529999973,
+                        6649859.272500001
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekkMidtlinje",
+                "strekningLnr": "006001575",
+                "elvelengde_m": 851.01,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263530.81859999977,
+                        6653092.394799999
+                    ],
+                    [
+                        263511.7429999998,
+                        6653037.1359
+                    ],
+                    [
+                        263499.2242999999,
+                        6652992.2731
+                    ],
+                    [
+                        263499.1386000002,
+                        6652953.815400001
+                    ],
+                    [
+                        263511.2640000005,
+                        6652879.156
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006000813",
+                "elvelengde_m": 219.13,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A4",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        262696.83229999995,
+                        6650797.4067
+                    ],
+                    [
+                        262705.9113999995,
+                        6650773.1954999985
+                    ],
+                    [
+                        262705.91139999963,
+                        6650744.142200001
+                    ],
+                    [
+                        262699.25339999987,
+                        6650712.0624
+                    ],
+                    [
+                        262677.4321999996,
+                        6650674.9273
+                    ],
+                    [
+                        262663.20000000007,
+                        6650642.399999999
+                    ],
+                    [
+                        262660.5127999996,
+                        6650597.192799999
+                    ],
+                    [
+                        262680.92250000034,
+                        6650572.5395
+                    ],
+                    [
+                        262707.9199999999,
+                        6650557.460000002
+                    ],
+                    [
+                        262716.2011999999,
+                        6650544.4004
+                    ],
+                    [
+                        262705.11099999957,
+                        6650516.6197
+                    ],
+                    [
+                        262692.8348000003,
+                        6650475.021
+                    ],
+                    [
+                        262689.24739999976,
+                        6650467.637299999
+                    ],
+                    [
+                        262686.5860999999,
+                        6650455.413499999
+                    ],
+                    [
+                        262686.16000000015,
+                        6650451.3900999995
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "Innsj\u00f8Midtlinje",
+                "strekningLnr": "006002238",
+                "elvelengde_m": 387.98,
+                "elvID": "006-11-1",
+                "vatnLnr": 205524,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": null,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        263109.90140000044,
+                        6649739.055600001
+                    ],
+                    [
+                        263101.10929999966,
+                        6649707.233300001
+                    ],
+                    [
+                        263076.2000000002,
+                        6649689.0801
+                    ]
+                ]
+            },
+            "properties": {
+                "objektType": "ElvBekk",
+                "strekningLnr": "006002245",
+                "elvelengde_m": 63.84,
+                "elvID": "006-11-1",
+                "vatnLnr": null,
+                "vassdragsnummer": "006.A3",
+                "nedborfeltVassdragNr": "006.Z",
+                "elvenavn": "Nordmarkvassdraget",
+                "elvNavnHierarki": "Nordmarkvassdraget",
+                "elveordenStrahler": 6,
+                "grenseElv": null,
+                "skAarsversjon": 2016,
+                "dataUttaksdato": "20211117",
+                "eksportType": "NVEs nedlastningsl\u00f8sning"
+            }
+        }
+    ]
+}
