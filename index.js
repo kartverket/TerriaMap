@@ -133,6 +133,6 @@ module.exports = terria.start({
 
 autorun(() => {
     if (terria.currentViewer.scene && !(terria.currentViewer.scene instanceof LeafletScene) ){
-        terria.currentViewer.scene.screenSpaceCameraController.enableCollisionDetection = false;
+        terria.currentViewer.scene.screenSpaceCameraController.enableCollisionDetection = true;
     }
 });
